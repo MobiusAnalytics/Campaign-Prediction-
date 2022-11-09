@@ -1,0 +1,2241 @@
+ID,Education,Marital_Status,age,Income,Childern_count,NumWebVisitsMonth,Complain,RFM_Score,Customer_segment,Campaign_1_Status,Campaign_2_Status,Campaign_3_Status,Campaign_4_Status,Campaign_5_Status,Response
+5524,Graduation,Single,57,58138.0,0,7,0,4.1,High value Customer,0,0,0,0,0,1
+2174,Graduation,Single,60,46344.0,2,5,0,1.12,Lost Customers,0,0,0,0,0,0
+4141,Graduation,Married,49,71613.0,0,4,0,3.74,Medium Value Customer,0,0,0,0,0,0
+6182,Graduation,Married,30,26646.0,1,6,0,1.7,Low Value Customers,0,0,0,0,0,0
+5324,PhD,Married,33,58293.0,1,5,0,2.86,Low Value Customers,0,0,0,0,0,0
+7446,Master,Married,47,62513.0,1,6,0,4.0,Medium Value Customer,0,0,0,0,0,0
+965,Graduation,Divorced,43,55635.0,1,6,0,3.68,Medium Value Customer,0,0,0,0,0,0
+6177,PhD,Married,29,33454.0,1,8,0,2.01,Low Value Customers,0,0,0,0,0,0
+4855,PhD,Married,40,30351.0,1,9,0,1.26,Lost Customers,0,0,0,0,0,1
+5899,PhD,Married,64,5648.0,2,20,0,0.25,Lost Customers,0,0,1,0,0,0
+1994,Graduation,Married,31,,1,7,0,0.81,Lost Customers,0,0,0,0,0,0
+387,Others,Married,38,7500.0,0,8,0,0.96,Lost Customers,0,0,0,0,0,0
+2125,Graduation,Divorced,55,63033.0,0,2,0,2.39,Low Value Customers,0,0,0,0,0,0
+8180,Master,Divorced,62,59354.0,2,6,0,2.45,Low Value Customers,0,0,0,0,0,0
+2569,Graduation,Married,27,17323.0,0,8,0,0.86,Lost Customers,0,0,0,0,0,0
+2114,PhD,Single,68,82800.0,0,3,0,4.5,High value Customer,1,0,0,0,1,1
+9736,Graduation,Married,34,41850.0,2,8,0,1.7,Low Value Customers,0,0,0,0,0,0
+4939,Graduation,Married,68,37760.0,0,7,0,2.48,Low Value Customers,0,0,0,0,0,0
+6565,Master,Married,65,76995.0,1,5,0,3.99,Medium Value Customer,1,0,0,0,0,0
+2278,Others,Single,29,33812.0,1,6,0,1.24,Lost Customers,0,0,0,0,0,0
+9360,Graduation,Married,32,37040.0,0,8,0,2.21,Low Value Customers,0,0,0,0,0,0
+5376,Graduation,Married,35,2447.0,1,1,0,4.68,Top Customers,0,0,0,0,0,0
+1993,PhD,Married,65,58607.0,1,8,0,2.74,Low Value Customers,0,0,0,1,0,0
+4047,PhD,Married,60,65324.0,1,4,0,3.76,Medium Value Customer,0,0,0,0,0,0
+1409,Graduation,Married,63,40689.0,1,8,0,3.24,Medium Value Customer,0,0,0,0,0,0
+7892,Graduation,Single,45,18589.0,0,7,0,1.22,Lost Customers,0,0,0,0,0,0
+2404,Graduation,Married,38,53359.0,2,7,0,2.69,Low Value Customers,0,0,0,0,0,0
+5255,Graduation,Single,28,,1,1,0,4.63,Top Customers,0,0,0,0,0,0
+9422,Graduation,Married,25,38360.0,1,3,0,1.88,Low Value Customers,0,0,0,0,0,0
+1966,PhD,Married,49,84618.0,0,2,0,3.95,Medium Value Customer,0,0,0,0,1,0
+6864,Master,Divorced,25,10979.0,0,5,0,1.63,Low Value Customers,0,0,0,0,0,0
+3033,Master,Married,51,38620.0,0,3,0,1.97,Low Value Customers,0,0,0,0,0,0
+5710,Graduation,Married,44,40548.0,1,5,0,1.84,Low Value Customers,0,0,0,1,0,0
+7373,PhD,Divorced,62,46610.0,2,6,0,3.16,Medium Value Customer,0,0,0,0,0,1
+8755,Master,Married,68,68657.0,0,7,0,3.37,Medium Value Customer,0,0,0,0,0,0
+10738,Master,Single,63,49389.0,2,7,0,0.99,Lost Customers,0,0,0,0,0,0
+4339,PhD,Married,44,67353.0,1,2,0,4.56,Top Customers,0,0,0,0,0,0
+10755,Others,Married,38,23718.0,1,7,0,1.51,Lost Customers,0,0,0,0,0,0
+8595,Graduation,Widow,41,42429.0,1,5,0,0.92,Lost Customers,0,0,0,0,0,0
+2968,PhD,Divorced,71,48948.0,0,6,0,4.03,High value Customer,0,0,1,0,0,1
+8601,Graduation,Married,34,80011.0,1,4,0,3.91,Medium Value Customer,0,0,0,0,0,0
+503,Master,Married,29,20559.0,1,8,0,1.0,Lost Customers,0,0,0,0,0,0
+8430,Graduation,Married,57,21994.0,1,5,0,0.86,Lost Customers,0,0,0,0,0,0
+7281,PhD,Single,55,,0,2,0,1.48,Lost Customers,0,0,0,0,0,0
+2139,Master,Married,39,7500.0,1,5,0,1.75,Low Value Customers,0,0,0,0,0,0
+1371,Graduation,Single,38,79941.0,0,1,0,2.47,Low Value Customers,0,0,0,0,0,0
+9909,Others,Married,18,7500.0,0,9,0,2.07,Low Value Customers,0,0,0,0,0,1
+7286,Graduation,Married,46,41728.0,1,10,0,0.46,Lost Customers,0,0,0,0,0,0
+7244,Graduation,Single,63,,3,6,0,1.53,Lost Customers,0,0,0,0,0,0
+6566,PhD,Married,60,72550.0,2,8,0,4.55,Top Customers,0,0,0,0,0,0
+8614,Graduation,Widow,57,65486.0,1,2,0,3.0,Low Value Customers,0,0,0,0,0,0
+4114,Master,Married,50,79143.0,0,3,0,4.88,Top Customers,0,0,0,0,0,0
+1331,Graduation,Single,37,35790.0,1,7,0,1.26,Lost Customers,0,0,0,0,0,0
+2225,Graduation,Divorced,37,82582.0,0,1,0,3.53,Medium Value Customer,1,0,1,0,0,1
+9381,Graduation,Married,36,66373.0,2,3,0,3.85,Medium Value Customer,0,0,0,0,0,0
+6260,Master,Married,59,82384.0,0,1,0,4.35,High value Customer,0,0,0,0,1,1
+10383,Graduation,Divorced,48,70287.0,0,3,0,3.71,Medium Value Customer,0,0,0,0,0,1
+7437,Graduation,Single,26,27938.0,1,3,0,1.16,Lost Customers,0,0,0,0,0,0
+8557,Graduation,Single,32,,1,6,0,1.23,Lost Customers,0,0,0,0,0,0
+8375,PhD,Married,46,55954.0,1,7,0,3.1,Medium Value Customer,0,0,0,0,0,0
+6853,Master,Single,32,75777.0,0,1,0,3.84,Medium Value Customer,0,0,0,1,1,1
+3076,Graduation,Married,39,66653.0,2,3,0,3.98,Medium Value Customer,0,0,0,0,0,0
+1012,Graduation,Single,62,61823.0,1,7,0,4.23,High value Customer,0,0,0,0,0,0
+6518,PhD,Widow,63,67680.0,1,5,0,3.51,Medium Value Customer,0,0,0,0,0,0
+4137,Graduation,Married,66,70666.0,0,4,0,2.79,Low Value Customers,0,0,0,0,0,0
+8082,Graduation,Married,43,25721.0,1,7,0,0.59,Lost Customers,0,0,0,0,0,1
+1386,Graduation,Married,47,32474.0,2,7,0,0.89,Lost Customers,0,0,0,0,0,0
+9369,Others,Single,35,88194.0,1,5,0,4.82,Top Customers,1,0,1,0,0,1
+4477,Graduation,Married,56,69096.0,1,4,0,3.37,Medium Value Customer,0,0,0,0,0,0
+1357,Graduation,Married,44,74854.0,3,5,0,2.9,Low Value Customers,0,0,0,0,0,0
+1402,Master,Married,60,66991.0,0,3,0,3.93,Medium Value Customer,0,0,0,0,0,0
+10629,Others,Married,41,,1,8,0,1.89,Low Value Customers,0,0,0,0,0,0
+6312,Graduation,Married,55,65031.0,1,7,0,4.7,Top Customers,0,0,0,0,0,0
+8132,PhD,Married,39,60631.0,2,7,0,3.76,Medium Value Customer,0,0,0,1,0,0
+1050,Graduation,Married,62,28332.0,0,2,0,1.45,Lost Customers,0,0,0,0,0,0
+5846,Graduation,Divorced,37,40246.0,1,6,0,0.38,Lost Customers,0,0,0,0,0,0
+1859,Master,Married,42,75251.0,0,5,0,3.31,Medium Value Customer,0,0,0,0,0,1
+7503,Graduation,Single,38,75825.0,0,4,0,3.81,Medium Value Customer,0,0,1,0,0,1
+10401,Others,Married,38,26326.0,0,3,1,0.8,Lost Customers,0,0,0,0,0,0
+1618,Graduation,Married,49,56046.0,0,8,0,3.87,Medium Value Customer,0,0,1,0,0,1
+3332,Graduation,Single,29,29760.0,1,8,0,1.86,Low Value Customers,0,0,0,0,0,0
+2261,Graduation,Married,45,26304.0,1,7,0,0.85,Lost Customers,0,0,0,0,0,0
+5346,Others,Married,41,23559.0,1,7,0,1.42,Lost Customers,0,0,0,0,0,0
+4119,Master,Married,51,38620.0,0,3,0,1.97,Low Value Customers,0,0,0,0,0,0
+535,Graduation,Divorced,27,81361.0,0,1,0,4.64,Top Customers,0,0,0,0,0,0
+5268,Graduation,Married,54,29440.0,2,7,0,0.95,Lost Customers,0,0,0,0,0,0
+273,Master,Married,44,36138.0,2,7,0,2.27,Low Value Customers,0,0,0,1,0,0
+4452,Graduation,Single,57,50388.0,1,7,0,3.19,Medium Value Customer,1,0,0,1,0,1
+8504,Graduation,Married,41,79593.0,0,2,0,3.05,Medium Value Customer,0,0,0,0,1,0
+771,Graduation,Married,47,54178.0,1,2,0,1.66,Low Value Customers,0,0,0,0,0,0
+8996,PhD,Married,57,,3,9,0,4.86,Top Customers,0,0,0,0,0,0
+9235,Graduation,Single,57,,2,7,0,0.56,Lost Customers,0,0,0,0,0,0
+5798,Master,Married,41,,0,1,0,2.19,Low Value Customers,0,0,0,0,0,0
+11178,Master,Single,42,42394.0,1,7,0,0.63,Lost Customers,0,0,0,0,0,0
+2230,PhD,Married,44,23626.0,1,5,0,1.62,Low Value Customers,0,0,0,0,0,0
+7516,Graduation,Married,31,30096.0,1,6,0,1.17,Lost Customers,0,0,0,0,0,0
+7247,Graduation,Widow,54,47916.0,1,6,0,3.58,Medium Value Customer,0,0,0,1,0,0
+11100,Graduation,Divorced,42,51813.0,2,7,0,1.38,Lost Customers,0,0,0,0,0,0
+4646,Others,Married,63,78497.0,0,2,0,4.21,High value Customer,1,0,0,0,0,0
+3037,PhD,Married,31,50150.0,0,5,0,2.77,Low Value Customers,0,0,0,0,0,0
+1473,Others,Single,54,47823.0,1,8,0,1.66,Low Value Customers,0,0,0,0,0,0
+1016,PhD,Single,55,34554.0,1,6,0,1.34,Lost Customers,0,0,0,0,0,0
+4518,Graduation,Married,35,85693.0,1,5,0,4.32,High value Customer,0,0,0,0,0,0
+9370,PhD,Married,69,65846.0,0,4,0,2.5,Low Value Customers,0,0,0,0,0,0
+8908,Graduation,Married,55,87195.0,0,1,0,3.49,Medium Value Customer,0,0,0,0,0,1
+8373,Others,Married,35,24594.0,1,5,0,0.44,Lost Customers,0,0,0,0,0,0
+7533,Graduation,Married,50,49096.0,2,7,0,2.51,Low Value Customers,0,0,0,0,0,0
+2683,Graduation,Married,45,52413.0,2,6,0,4.24,High value Customer,0,0,0,0,0,0
+3629,Graduation,Single,36,38557.0,1,7,0,1.95,Low Value Customers,0,0,0,0,0,0
+10991,Master,Married,54,89058.0,0,2,0,2.59,Low Value Customers,0,0,0,0,0,0
+5077,Graduation,Married,35,77298.0,1,3,0,4.08,High value Customer,0,0,0,0,0,0
+7431,PhD,Single,23,68126.0,0,9,0,2.92,Low Value Customers,0,0,0,1,0,1
+3267,Master,Married,51,57288.0,1,6,0,3.55,Medium Value Customer,0,0,0,1,0,0
+999,Graduation,Single,23,86037.0,0,3,0,3.83,Medium Value Customer,0,0,0,1,1,1
+9215,PhD,Married,34,43974.0,1,7,0,3.8,Medium Value Customer,0,0,0,0,0,0
+2286,Graduation,Single,52,50785.0,2,6,0,1.69,Low Value Customers,0,0,0,0,0,0
+1592,Graduation,Married,44,90765.0,0,1,0,2.66,Low Value Customers,1,0,0,0,1,0
+367,Others,Married,36,36550.0,1,9,0,3.2,Medium Value Customer,0,0,0,0,0,0
+5234,Others,Married,47,30753.0,2,5,0,1.02,Lost Customers,0,0,0,0,0,0
+9862,Graduation,Married,45,21918.0,1,6,0,1.38,Lost Customers,0,0,0,0,0,0
+9805,Master,Married,61,56129.0,1,4,0,3.63,Medium Value Customer,0,0,0,0,0,0
+6205,Master,Single,47,32557.0,1,5,0,1.98,Low Value Customers,0,0,0,0,0,1
+8442,Master,Married,29,19510.0,2,7,0,0.93,Lost Customers,0,0,0,0,0,0
+7386,Graduation,Divorced,38,30992.0,1,7,0,0.52,Lost Customers,0,0,0,0,0,0
+7215,Graduation,Single,31,101970.0,0,2,0,4.25,High value Customer,1,0,0,1,1,1
+1491,Others,Married,49,71488.0,0,1,0,2.35,Low Value Customers,0,0,0,0,0,0
+11071,Graduation,Single,30,79607.0,0,1,0,2.73,Low Value Customers,0,0,0,0,0,1
+3381,Master,Married,61,54348.0,2,6,0,1.51,Lost Customers,0,0,0,0,0,0
+8268,PhD,Married,53,,1,6,0,3.05,Medium Value Customer,0,0,0,0,0,0
+11051,PhD,Married,58,77376.0,2,4,0,3.75,Medium Value Customer,0,0,0,0,0,0
+8026,Graduation,Married,62,62998.0,1,5,0,3.5,Medium Value Customer,0,0,0,0,0,0
+433,Master,Single,56,61331.0,2,8,0,3.97,Medium Value Customer,0,0,0,0,0,0
+9597,Graduation,Married,45,73448.0,0,4,0,3.5,Medium Value Customer,0,0,0,0,0,0
+1295,Graduation,Married,51,,1,4,0,2.85,Low Value Customers,0,0,0,0,0,0
+5290,PhD,Married,50,41551.0,2,8,0,2.63,Low Value Customers,0,0,0,0,0,0
+1685,PhD,Married,47,62981.0,0,3,0,4.13,High value Customer,0,0,0,1,0,0
+5342,Others,Divorced,38,9548.0,1,8,0,1.16,Lost Customers,0,0,0,0,0,0
+9579,PhD,Married,55,33762.0,3,8,0,1.62,Low Value Customers,0,0,0,0,0,0
+7660,PhD,Single,41,35860.0,2,5,0,1.12,Lost Customers,0,0,1,0,0,1
+1461,PhD,Divorced,49,36921.0,2,7,0,1.1,Lost Customers,0,0,0,0,0,0
+821,Master,Single,22,92859.0,0,2,0,3.78,Medium Value Customer,0,0,0,0,0,0
+11084,Master,Married,38,65104.0,1,7,0,3.18,Medium Value Customer,0,0,0,0,0,1
+8690,Graduation,Married,52,86111.0,0,2,0,3.74,Medium Value Customer,0,0,0,0,0,0
+2937,PhD,Single,40,68352.0,1,6,0,4.19,High value Customer,0,0,0,0,0,0
+9701,Graduation,Married,26,41883.0,1,7,0,2.42,Low Value Customers,0,0,0,0,0,0
+9949,Graduation,Married,38,59809.0,2,8,0,2.57,Low Value Customers,0,0,0,0,0,0
+10837,Graduation,Married,39,23957.0,1,6,0,1.06,Lost Customers,0,0,0,0,0,1
+3120,Graduation,Married,33,38547.0,1,8,1,0.53,Lost Customers,0,0,0,0,0,0
+5885,Others,Married,41,35688.0,3,8,0,2.3,Low Value Customers,0,0,0,0,0,0
+4050,Master,Married,48,49605.0,0,3,0,1.4,Lost Customers,0,0,0,0,0,0
+3830,Master,Married,61,59354.0,2,3,0,2.56,Low Value Customers,0,0,0,0,0,0
+7987,Graduation,Married,45,65747.0,1,6,0,2.85,Low Value Customers,0,0,0,1,0,0
+7798,Others,Married,42,46344.0,1,7,0,3.0,Low Value Customers,0,0,0,0,0,0
+92,Graduation,Single,26,34176.0,1,6,0,2.3,Low Value Customers,0,0,0,0,0,0
+7055,PhD,Married,62,61010.0,1,5,0,4.23,High value Customer,0,0,0,0,0,0
+10240,Graduation,Married,65,69372.0,0,4,0,3.86,Medium Value Customer,0,0,0,1,1,1
+3025,Graduation,Single,56,49967.0,1,7,0,2.81,Low Value Customers,0,0,0,0,0,0
+9283,Graduation,Single,36,60199.0,3,4,0,0.53,Lost Customers,0,0,0,0,0,0
+9970,Graduation,Married,37,55375.0,1,2,0,2.05,Low Value Customers,0,0,0,0,0,0
+2730,Graduation,Single,59,80317.0,0,1,0,2.92,Low Value Customers,0,0,0,0,0,0
+2795,Master,Single,56,30523.0,3,7,0,0.89,Lost Customers,0,0,0,0,0,0
+9260,PhD,Married,69,70356.0,0,6,0,4.62,Top Customers,0,0,0,0,0,0
+8182,Graduation,Married,30,23228.0,1,8,0,1.71,Low Value Customers,0,0,0,0,0,0
+10095,PhD,Divorced,39,74165.0,0,2,0,3.69,Medium Value Customer,0,0,0,0,0,0
+8475,PhD,Married,41,157243.0,1,0,0,4.25,High value Customer,0,0,0,0,0,0
+4370,Graduation,Married,48,43482.0,3,6,0,1.45,Lost Customers,0,0,0,0,0,0
+10573,Graduation,Divorced,61,62551.0,0,3,0,3.2,Medium Value Customer,0,0,1,0,0,0
+3712,Graduation,Divorced,55,52332.0,0,4,0,2.05,Low Value Customers,0,0,0,1,0,0
+6637,Graduation,Single,26,66951.0,0,1,0,2.51,Low Value Customers,0,0,0,0,0,0
+3152,Graduation,Married,57,26091.0,2,5,0,1.44,Lost Customers,0,0,0,0,0,0
+5610,Graduation,Married,49,33456.0,2,7,0,0.96,Lost Customers,0,0,0,0,0,0
+6460,Graduation,Married,32,28718.0,1,8,0,1.08,Lost Customers,0,0,0,0,0,0
+1349,Graduation,Married,44,50447.0,2,6,0,1.86,Low Value Customers,0,0,0,0,0,0
+1880,PhD,Married,55,53537.0,2,5,0,1.76,Low Value Customers,0,0,0,0,0,0
+641,Graduation,Single,47,52074.0,1,4,0,1.08,Lost Customers,0,0,1,0,0,0
+8717,PhD,Married,39,80427.0,1,5,0,4.42,High value Customer,0,0,0,0,0,0
+10314,PhD,Married,66,83837.0,0,4,0,3.95,Medium Value Customer,1,0,0,1,0,1
+10854,PhD,Married,44,38853.0,2,7,0,0.98,Lost Customers,0,0,0,0,0,0
+10492,Graduation,Married,55,38285.0,3,2,0,0.17,Lost Customers,0,0,0,0,0,0
+6935,Others,Married,63,78497.0,0,2,0,4.21,High value Customer,1,0,0,0,0,0
+7698,PhD,Married,38,51650.0,1,5,0,1.64,Low Value Customers,0,0,0,0,0,0
+3559,Others,Married,26,16248.0,1,6,0,1.5,Lost Customers,0,0,0,0,0,0
+10562,Master,Married,68,66835.0,0,2,0,4.27,High value Customer,0,0,0,0,0,0
+10796,Master,Married,30,30477.0,1,6,0,1.28,Lost Customers,0,0,0,0,0,0
+2563,Others,Married,53,28249.0,0,6,0,0.8,Lost Customers,0,0,0,0,0,0
+3518,Graduation,Married,31,25271.0,1,9,0,0.82,Lost Customers,0,0,0,0,0,0
+5823,PhD,Single,44,32303.0,1,5,0,1.19,Lost Customers,0,0,0,0,0,0
+3934,Graduation,Married,48,61286.0,1,5,0,3.14,Medium Value Customer,0,0,0,0,0,0
+6982,Graduation,Married,38,74068.0,0,2,0,4.31,High value Customer,0,0,0,0,0,0
+6431,PhD,Married,50,45759.0,2,7,0,1.56,Lost Customers,0,0,0,0,0,0
+9733,Others,Married,36,24882.0,1,6,0,0.76,Lost Customers,0,0,1,0,0,0
+5602,PhD,Married,25,66973.0,0,3,0,4.1,High value Customer,0,0,0,0,0,0
+7829,Others,Divorced,114,36640.0,1,5,1,0.66,Lost Customers,0,0,0,0,0,0
+1324,Graduation,Married,26,38872.0,1,8,0,1.19,Lost Customers,0,0,0,0,0,0
+326,Graduation,Married,41,51148.0,2,6,0,2.72,Low Value Customers,0,0,0,0,0,0
+7224,Graduation,Married,37,31353.0,2,8,0,1.23,Lost Customers,0,0,0,0,0,0
+6999,Master,Married,34,69661.0,0,3,0,3.69,Medium Value Customer,0,0,0,0,0,0
+9938,Graduation,Married,60,80067.0,0,2,0,2.6,Low Value Customers,0,0,0,0,1,0
+6422,Graduation,Married,60,86718.0,0,2,0,3.07,Medium Value Customer,0,0,0,0,0,0
+3182,PhD,Single,41,46854.0,2,8,0,2.23,Low Value Customers,0,0,1,0,0,1
+7300,Graduation,Divorced,62,69142.0,1,5,0,3.2,Medium Value Customer,0,0,0,1,0,0
+10424,Graduation,Single,46,75922.0,0,1,0,2.95,Low Value Customers,0,0,0,0,0,0
+8727,Graduation,Divorced,36,63693.0,1,6,0,4.42,High value Customer,0,0,0,0,0,0
+2798,PhD,Married,37,102160.0,0,4,0,4.26,High value Customer,1,0,0,1,1,1
+1030,PhD,Single,49,40637.0,2,7,0,0.86,Lost Customers,0,0,0,0,0,0
+624,Master,Single,30,18890.0,0,6,0,0.85,Lost Customers,0,0,1,0,0,1
+5176,Graduation,Married,26,29604.0,1,9,0,0.49,Lost Customers,0,0,1,0,0,0
+5552,Master,Divorced,51,48721.0,2,6,0,2.84,Low Value Customers,0,0,0,0,0,0
+868,Graduation,Married,48,44794.0,1,6,0,0.66,Lost Customers,0,0,0,0,0,0
+380,Graduation,Divorced,60,64497.0,1,8,0,4.76,Top Customers,0,0,1,0,0,1
+2677,Graduation,Married,58,46097.0,1,4,0,2.76,Low Value Customers,0,0,0,0,0,0
+6521,Graduation,Married,60,77972.0,0,1,0,3.62,Medium Value Customer,0,0,0,0,0,0
+6927,PhD,Married,46,44377.0,2,8,0,3.05,Medium Value Customer,0,0,0,0,0,0
+2877,Master,Married,40,46014.0,2,7,0,4.51,Top Customers,0,0,0,0,0,0
+0,Graduation,Married,29,70951.0,0,1,0,2.72,Low Value Customers,0,0,0,0,0,0
+1584,Graduation,Married,37,41443.0,1,8,0,3.16,Medium Value Customer,0,0,0,0,0,0
+7264,Others,Single,36,52195.0,3,8,0,0.88,Lost Customers,0,0,0,0,0,0
+6274,Master,Married,66,83790.0,0,3,0,3.93,Medium Value Customer,0,0,0,1,1,0
+1377,Master,Widow,60,44551.0,1,7,0,2.34,Low Value Customers,0,0,0,0,0,0
+454,Graduation,Married,34,69508.0,1,6,0,4.48,High value Customer,0,0,0,0,0,0
+1755,Others,Married,26,45204.0,1,3,0,0.96,Lost Customers,0,0,0,0,0,0
+2075,Graduation,Married,45,72460.0,0,1,0,2.59,Low Value Customers,0,0,0,0,0,0
+4785,PhD,Married,44,77622.0,2,3,0,4.09,High value Customer,0,0,0,0,0,0
+9076,PhD,Married,34,30732.0,1,8,0,2.3,Low Value Customers,0,0,0,0,0,0
+7079,Graduation,Divorced,52,63887.0,1,6,0,4.68,Top Customers,0,0,0,0,0,0
+4653,Graduation,Married,36,42011.0,1,8,0,2.18,Low Value Customers,0,0,0,0,0,0
+7375,Graduation,Married,38,51369.0,1,8,0,2.38,Low Value Customers,0,0,0,0,0,0
+709,Graduation,Divorced,62,51537.0,1,8,0,3.2,Medium Value Customer,0,0,0,0,0,0
+460,PhD,Married,42,79930.0,0,2,0,2.68,Low Value Customers,0,0,0,0,0,0
+3726,PhD,Married,28,34320.0,1,8,0,0.39,Lost Customers,0,0,0,0,0,0
+6798,Graduation,Single,48,37070.0,2,7,0,4.06,High value Customer,0,0,0,0,0,1
+5341,Others,Divorced,52,81975.0,1,7,0,2.71,Low Value Customers,0,0,0,0,1,0
+1606,Graduation,Married,43,38590.0,1,8,0,0.4,Lost Customers,0,0,0,0,0,0
+9617,Graduation,Single,63,15033.0,0,3,0,0.87,Lost Customers,0,0,0,0,0,0
+3233,PhD,Married,49,62745.0,1,5,0,4.22,High value Customer,0,0,0,0,0,0
+89,Others,Married,39,22212.0,1,6,0,1.53,Lost Customers,0,0,0,0,0,0
+2936,Master,Married,32,23661.0,1,7,0,0.81,Lost Customers,0,0,0,0,0,0
+9449,PhD,Single,56,79761.0,1,3,0,3.33,Medium Value Customer,0,0,0,0,0,0
+7297,Graduation,Single,41,7500.0,1,7,0,1.98,Low Value Customers,0,0,0,0,0,0
+11004,Others,Single,121,60182.0,1,4,0,0.72,Lost Customers,0,0,0,0,0,0
+313,Graduation,Widow,46,73455.0,0,3,0,3.38,Medium Value Customer,0,0,0,1,0,0
+9940,Graduation,Married,56,64961.0,1,3,0,2.28,Low Value Customers,0,0,0,0,0,0
+10735,Graduation,Single,43,22804.0,1,9,0,0.59,Lost Customers,0,0,0,0,0,0
+9529,Graduation,Married,24,73687.0,0,2,0,4.06,High value Customer,1,0,0,0,0,1
+6439,Graduation,Married,56,61074.0,1,7,0,4.66,Top Customers,0,0,0,0,0,0
+7411,PhD,Married,50,31686.0,2,6,0,1.16,Lost Customers,0,0,0,0,0,0
+2176,Graduation,Married,42,80134.0,1,6,0,2.71,Low Value Customers,1,0,0,1,1,1
+9265,Graduation,Married,61,75027.0,1,5,0,3.38,Medium Value Customer,0,0,0,0,0,0
+8867,PhD,Married,26,67546.0,0,3,0,3.08,Medium Value Customer,0,0,0,0,0,0
+8932,Master,Married,45,65176.0,1,6,0,4.11,High value Customer,0,0,0,0,0,0
+10236,Master,Single,39,31160.0,1,8,0,1.21,Lost Customers,0,0,0,0,0,0
+6340,Graduation,Single,29,29938.0,1,6,0,1.01,Lost Customers,0,0,0,0,0,0
+10089,Graduation,Divorced,40,102692.0,0,2,0,4.85,Top Customers,1,1,0,1,1,1
+2227,Others,Married,56,26490.0,0,6,0,1.7,Low Value Customers,0,0,0,0,0,0
+10992,Graduation,Married,47,75702.0,2,8,0,4.09,High value Customer,0,0,0,0,0,0
+5304,PhD,Single,40,30899.0,1,6,0,1.14,Lost Customers,0,0,0,0,0,0
+309,PhD,Married,53,63342.0,1,6,0,3.22,Medium Value Customer,0,0,0,1,0,0
+3406,Graduation,Single,50,45989.0,1,3,0,2.28,Low Value Customers,0,0,0,0,0,0
+2661,Graduation,Single,50,18701.0,2,5,0,1.54,Lost Customers,0,0,0,0,0,0
+3153,PhD,Single,57,40737.0,3,8,0,0.71,Lost Customers,0,0,0,0,0,0
+10264,Graduation,Divorced,35,15287.0,1,7,0,0.95,Lost Customers,0,0,1,0,0,1
+1184,PhD,Divorced,46,69674.0,2,5,0,4.2,High value Customer,0,0,0,0,0,0
+4200,Master,Married,44,44159.0,1,5,0,2.2,Low Value Customers,0,0,0,0,0,0
+9396,PhD,Married,36,37717.0,1,9,0,0.65,Lost Customers,0,0,0,0,0,0
+2387,Master,Married,62,43776.0,2,8,0,3.15,Medium Value Customer,0,0,0,0,0,1
+6690,Master,Married,48,38179.0,2,7,0,2.16,Low Value Customers,0,0,0,0,0,0
+1225,Graduation,Married,51,80124.0,0,1,0,3.23,Medium Value Customer,0,0,1,0,0,0
+9703,PhD,Married,44,38097.0,2,7,0,1.87,Low Value Customers,0,0,1,0,0,1
+291,Graduation,Married,44,72940.0,0,1,0,2.53,Low Value Customers,0,0,0,0,0,0
+4557,Graduation,Married,44,22070.0,1,6,0,1.81,Low Value Customers,0,0,0,0,0,0
+2379,Graduation,Single,61,69267.0,0,7,0,2.48,Low Value Customers,0,0,0,0,0,1
+5726,Master,Single,31,31788.0,1,5,1,2.14,Low Value Customers,0,0,0,0,0,0
+3066,PhD,Married,39,61905.0,1,5,0,2.51,Low Value Customers,0,0,0,0,0,0
+6336,Graduation,Married,54,29315.0,2,6,0,1.84,Low Value Customers,0,0,0,0,0,0
+10967,Graduation,Divorced,51,33378.0,2,7,0,1.79,Low Value Customers,0,0,0,0,0,0
+2304,PhD,Married,51,66313.0,1,4,0,3.64,Medium Value Customer,0,0,0,0,0,0
+3445,Graduation,Single,58,60714.0,0,5,0,3.86,Medium Value Customer,0,0,0,0,0,1
+7828,Master,Married,33,77882.0,0,1,0,2.3,Low Value Customers,0,0,0,0,0,0
+3762,PhD,Single,28,69867.0,0,1,0,2.99,Low Value Customers,1,0,0,0,0,1
+4391,Master,Divorced,46,63841.0,1,6,0,3.63,Medium Value Customer,0,0,0,0,0,0
+4669,Others,Married,33,24480.0,1,7,0,1.91,Low Value Customers,0,0,0,0,0,0
+10144,Graduation,Married,38,51369.0,1,8,0,2.38,Low Value Customers,0,0,0,0,0,0
+8652,Graduation,Married,68,37760.0,0,7,0,2.48,Low Value Customers,0,0,0,0,0,0
+1672,PhD,Married,40,65640.0,1,2,0,2.29,Low Value Customers,0,0,0,0,0,0
+8962,Master,Married,39,44319.0,2,5,0,1.53,Lost Customers,0,0,0,0,0,0
+9974,Graduation,Married,40,30631.0,1,7,0,1.1,Lost Customers,0,0,0,0,0,0
+10983,Graduation,Married,62,75278.0,0,3,0,4.16,High value Customer,0,0,0,0,0,0
+8148,Master,Married,58,50898.0,2,5,0,4.31,High value Customer,0,0,0,0,0,0
+10102,Graduation,Widow,48,79946.0,0,3,0,3.97,Medium Value Customer,0,0,0,0,0,0
+4697,Master,Divorced,65,35416.0,0,8,0,2.54,Low Value Customers,0,0,0,0,0,0
+9262,Others,Married,30,32414.0,0,7,0,1.07,Lost Customers,0,0,1,0,0,0
+7254,Graduation,Married,45,38361.0,1,7,0,1.69,Low Value Customers,0,0,0,0,0,0
+4543,Graduation,Married,34,82497.0,0,4,0,3.33,Medium Value Customer,0,0,0,0,1,0
+4927,Graduation,Married,43,16626.0,2,9,0,1.51,Lost Customers,0,0,0,0,0,0
+10451,Graduation,Married,49,29672.0,2,6,0,0.84,Lost Customers,0,0,0,0,0,0
+2926,Master,Married,62,55951.0,1,8,0,3.82,Medium Value Customer,0,1,0,1,0,0
+2874,Others,Divorced,26,35388.0,1,7,0,1.0,Lost Customers,0,0,0,0,0,0
+9738,Master,Married,28,42386.0,1,8,0,1.34,Lost Customers,0,0,0,0,0,0
+7119,Graduation,Single,32,68627.0,0,1,0,2.19,Low Value Customers,0,0,0,0,0,0
+3924,PhD,Divorced,49,57912.0,1,5,0,4.58,Top Customers,0,0,0,1,0,0
+5827,Graduation,Divorced,56,35246.0,2,5,0,1.99,Low Value Customers,0,0,0,0,0,0
+5596,Others,Married,58,58821.0,1,6,0,3.61,Medium Value Customer,0,0,0,0,0,0
+10812,PhD,Married,36,46377.0,1,4,0,0.99,Lost Customers,0,0,0,0,0,0
+1717,Graduation,Single,26,39747.0,1,8,0,2.31,Low Value Customers,0,0,0,0,0,0
+9491,Graduation,Married,30,23976.0,1,7,0,1.74,Low Value Customers,0,0,0,0,0,0
+9274,Master,Married,53,80950.0,0,2,0,3.96,Medium Value Customer,1,0,0,0,0,0
+6609,Graduation,Widow,48,27038.0,0,9,0,1.18,Lost Customers,0,0,0,0,0,1
+6963,Graduation,Single,67,77457.0,0,1,0,2.76,Low Value Customers,0,0,0,0,1,0
+4440,Master,Married,50,64100.0,1,7,0,2.7,Low Value Customers,0,0,0,1,0,0
+1379,Master,Married,22,42670.0,0,4,0,2.3,Low Value Customers,0,0,0,0,0,0
+10032,Graduation,Divorced,38,12571.0,1,6,0,1.74,Low Value Customers,0,0,0,0,0,0
+2826,Graduation,Married,47,22574.0,3,7,0,1.45,Lost Customers,0,0,0,0,0,0
+2437,Graduation,Married,25,,0,3,0,3.91,Medium Value Customer,1,0,0,1,0,0
+6320,Master,Single,38,70893.0,0,3,0,3.97,Medium Value Customer,0,0,0,0,0,0
+3050,Graduation,Married,48,54198.0,2,4,0,2.91,Low Value Customers,0,0,0,0,0,0
+231,Master,Married,58,28839.0,2,5,0,1.01,Lost Customers,0,0,0,0,0,0
+2392,Graduation,Married,42,40321.0,2,7,0,1.45,Lost Customers,0,0,0,0,0,0
+9478,Graduation,Single,29,66503.0,1,3,0,2.61,Low Value Customers,0,0,0,0,0,0
+113,Graduation,Married,63,30833.0,2,5,0,1.15,Lost Customers,0,0,0,0,0,0
+2863,Graduation,Single,44,,3,7,0,3.43,Medium Value Customer,1,0,0,1,0,0
+1802,Graduation,Married,43,64795.0,1,2,0,3.77,Medium Value Customer,0,0,0,0,0,0
+520,Graduation,Married,40,34421.0,1,7,0,0.28,Lost Customers,0,0,0,0,0,0
+8275,PhD,Divorced,49,47025.0,2,7,0,0.84,Lost Customers,0,0,0,0,0,0
+9750,PhD,Divorced,53,64325.0,1,7,0,3.98,Medium Value Customer,0,0,0,0,0,0
+2607,Graduation,Single,61,40464.0,1,8,0,3.84,Medium Value Customer,0,0,0,0,0,0
+7214,Graduation,Married,57,62187.0,0,3,0,3.04,Medium Value Customer,0,0,0,0,0,0
+5835,PhD,Divorced,38,14849.0,1,8,0,1.78,Low Value Customers,0,0,0,0,0,0
+3896,Graduation,Married,30,27255.0,1,7,0,1.13,Lost Customers,0,0,0,0,0,0
+10350,PhD,Married,64,54432.0,3,4,0,0.87,Lost Customers,0,0,0,0,0,0
+7786,PhD,Single,28,29999.0,1,8,0,2.36,Low Value Customers,0,0,0,0,0,0
+2861,Graduation,Single,31,24072.0,1,8,0,0.3,Lost Customers,0,0,0,0,0,0
+663,PhD,Single,25,33996.0,0,4,0,1.06,Lost Customers,0,0,0,0,0,0
+10675,PhD,Married,58,66334.0,1,5,0,2.95,Low Value Customers,0,0,0,0,0,1
+2521,Master,Married,43,35178.0,1,7,0,1.07,Lost Customers,0,0,1,0,0,1
+9592,Graduation,Married,31,22010.0,1,8,0,1.28,Lost Customers,0,0,0,0,0,0
+10151,Graduation,Divorced,54,62204.0,2,3,0,3.83,Medium Value Customer,0,0,0,0,0,0
+7381,Graduation,Divorced,46,75693.0,0,4,0,4.04,High value Customer,1,0,0,1,1,1
+4099,Graduation,Married,42,30675.0,1,8,0,1.04,Lost Customers,0,0,0,0,0,0
+9560,Graduation,Married,49,83003.0,0,3,0,3.98,Medium Value Customer,0,0,0,0,1,1
+1150,PhD,Married,115,83532.0,0,1,0,2.57,Low Value Customers,0,0,0,0,1,0
+10172,Graduation,Single,26,68655.0,0,3,0,3.22,Medium Value Customer,0,0,0,0,0,0
+11191,Graduation,Divorced,28,41411.0,0,6,0,1.81,Low Value Customers,0,0,0,0,0,0
+9707,PhD,Married,45,55212.0,1,8,0,3.27,Medium Value Customer,0,1,0,1,0,0
+6245,PhD,Married,64,59292.0,1,3,0,2.87,Low Value Customers,0,0,0,0,0,0
+8234,Others,Married,41,27190.0,1,8,0,0.79,Lost Customers,0,0,1,0,0,1
+1411,Graduation,Divorced,62,82623.0,0,1,0,2.57,Low Value Customers,0,0,0,0,0,0
+8553,Graduation,Married,49,44300.0,2,6,0,0.91,Lost Customers,0,0,0,0,0,0
+1826,Graduation,Divorced,44,84835.0,0,1,0,2.85,Low Value Customers,0,0,0,0,0,1
+8842,Graduation,Widow,43,30372.0,2,7,0,1.64,Low Value Customers,0,0,0,0,0,0
+11030,Master,Married,38,33181.0,1,6,0,0.21,Lost Customers,0,0,1,0,0,0
+2579,Graduation,Married,57,71113.0,1,4,0,3.95,Medium Value Customer,0,0,0,0,0,0
+175,Graduation,Married,28,71952.0,1,4,0,3.42,Medium Value Customer,0,0,1,0,1,0
+9185,PhD,Single,48,69759.0,0,3,0,3.11,Medium Value Customer,0,0,0,0,0,1
+11056,Graduation,Married,40,72099.0,0,1,0,3.27,Medium Value Customer,0,0,0,0,0,0
+9365,PhD,Single,38,60000.0,1,6,0,3.99,Medium Value Customer,0,0,0,0,0,0
+6201,Graduation,Single,36,38643.0,2,7,1,1.33,Lost Customers,0,0,0,0,0,0
+2061,Graduation,Married,59,50737.0,1,6,0,1.2,Lost Customers,0,0,0,1,0,0
+6184,PhD,Married,45,68462.0,0,1,0,2.8,Low Value Customers,0,0,0,0,0,0
+6142,Master,Married,71,65073.0,0,2,1,2.23,Low Value Customers,0,0,0,0,0,0
+4107,PhD,Married,66,46681.0,2,5,0,2.62,Low Value Customers,0,0,0,0,0,0
+7274,Graduation,Married,57,78618.0,0,2,0,3.46,Medium Value Customer,0,0,0,1,0,0
+9336,PhD,Widow,45,62187.0,1,4,0,3.65,Medium Value Customer,0,0,0,0,0,0
+2958,Graduation,Married,36,28442.0,2,4,0,1.85,Low Value Customers,0,0,0,0,0,0
+933,PhD,Married,36,37717.0,1,9,0,0.65,Lost Customers,0,0,0,0,0,0
+5837,Graduation,Married,47,51479.0,2,7,0,3.61,Medium Value Customer,0,0,0,0,0,0
+10704,Graduation,Single,45,54803.0,1,4,0,3.08,Medium Value Customer,0,0,0,0,0,0
+5125,Graduation,Married,54,79530.0,0,2,0,4.19,High value Customer,0,0,0,0,0,0
+4432,Graduation,Divorced,38,31615.0,1,7,0,1.04,Lost Customers,0,0,0,0,0,0
+5955,Graduation,Married,52,72025.0,0,3,0,2.81,Low Value Customers,0,0,0,0,0,0
+2928,PhD,Single,39,52614.0,1,8,0,2.54,Low Value Customers,0,0,0,0,0,0
+5680,Others,Married,30,35684.0,1,6,0,0.65,Lost Customers,0,0,0,0,0,0
+10313,Graduation,Married,39,48178.0,2,8,0,2.49,Low Value Customers,0,0,0,0,0,0
+2557,Master,Single,44,29548.0,1,4,0,0.76,Lost Customers,0,0,1,0,0,0
+1245,Graduation,Single,48,63810.0,1,8,0,3.96,Medium Value Customer,0,0,0,1,0,0
+1519,PhD,Single,42,38578.0,2,8,0,2.06,Low Value Customers,0,0,0,0,0,1
+10703,Master,Single,39,46098.0,2,8,0,1.74,Low Value Customers,0,0,0,0,0,0
+1726,Graduation,Single,44,22585.0,0,9,0,0.98,Lost Customers,0,0,1,0,0,1
+4459,Graduation,Single,25,30279.0,1,8,0,1.05,Lost Customers,0,0,0,0,0,0
+1729,PhD,Married,53,66426.0,1,6,0,3.65,Medium Value Customer,0,0,0,0,0,0
+1517,Graduation,Single,45,30822.0,1,7,0,0.46,Lost Customers,0,0,0,0,0,0
+2098,PhD,Married,45,33581.0,2,8,0,0.6,Lost Customers,0,0,0,0,0,0
+9543,Graduation,Married,29,19986.0,1,7,0,0.33,Lost Customers,0,0,0,0,0,0
+6878,Graduation,Widow,60,27421.0,0,7,0,2.61,Low Value Customers,0,0,0,0,0,0
+3310,Others,Married,41,35688.0,3,8,0,2.3,Low Value Customers,0,0,0,0,0,0
+2724,Master,Single,33,36143.0,1,3,0,0.64,Lost Customers,0,0,0,0,0,0
+948,Graduation,Single,43,10245.0,1,5,0,1.65,Low Value Customers,0,0,0,0,0,0
+6720,Master,Married,46,43795.0,1,7,0,3.13,Medium Value Customer,0,0,0,1,0,1
+6202,Graduation,Married,54,63381.0,1,2,0,4.08,High value Customer,0,0,0,0,0,0
+2066,Graduation,Married,65,38823.0,1,6,0,1.24,Lost Customers,0,0,0,0,0,0
+9799,PhD,Divorced,46,83664.0,2,5,0,3.14,Medium Value Customer,0,0,0,0,0,0
+8318,Graduation,Married,35,90300.0,0,1,0,3.52,Medium Value Customer,0,0,0,0,1,0
+5642,Master,Married,35,62499.0,1,4,0,2.52,Low Value Customers,0,0,0,0,0,0
+2669,Graduation,Single,21,74293.0,0,2,0,2.51,Low Value Customers,0,0,0,0,0,0
+455,PhD,Married,68,51012.0,0,6,0,1.6,Lost Customers,0,0,0,0,0,0
+7683,Master,Married,46,70777.0,1,3,0,3.69,Medium Value Customer,0,0,0,0,0,0
+3428,PhD,Married,23,68682.0,0,2,0,4.0,Medium Value Customer,0,0,0,0,0,0
+7414,Graduation,Married,43,43824.0,2,8,0,2.39,Low Value Customers,0,0,0,0,0,0
+6354,Graduation,Married,30,15345.0,1,8,0,1.02,Lost Customers,0,0,0,0,0,1
+798,Graduation,Single,27,23442.0,1,7,0,0.62,Lost Customers,0,0,0,0,0,0
+8213,Others,Married,34,14515.0,1,7,0,1.86,Low Value Customers,0,0,0,0,0,1
+2488,Others,Divorced,58,31395.0,2,6,0,1.65,Low Value Customers,0,0,0,0,0,0
+9999,Graduation,Married,49,75276.0,0,5,0,4.27,High value Customer,0,0,0,0,0,0
+7617,Graduation,Single,40,42373.0,2,5,0,2.0,Low Value Customers,0,0,0,0,0,0
+615,Graduation,Married,54,30507.0,0,7,0,2.17,Low Value Customers,0,0,0,0,0,0
+2552,PhD,Single,59,55521.0,3,7,0,4.34,High value Customer,0,0,0,1,0,1
+194,Graduation,Married,49,48006.0,2,6,0,0.73,Lost Customers,0,0,0,0,0,0
+3645,PhD,Single,42,27213.0,1,8,0,1.94,Low Value Customers,0,0,0,0,0,1
+8890,PhD,Divorced,43,65808.0,2,6,0,2.72,Low Value Customers,0,0,0,0,0,0
+5049,PhD,Married,40,30351.0,1,9,0,1.26,Lost Customers,0,0,0,0,0,0
+9973,Graduation,Married,51,50437.0,2,7,0,3.36,Medium Value Customer,0,0,0,0,0,0
+7301,Others,Single,32,23616.0,1,8,0,1.32,Lost Customers,0,0,0,0,0,1
+10882,Graduation,Married,38,53858.0,1,4,0,2.84,Low Value Customers,0,0,0,0,0,0
+7030,PhD,Married,59,66465.0,1,6,0,4.98,Top Customers,1,0,0,0,0,0
+7422,Graduation,Single,27,46923.0,1,7,0,2.33,Low Value Customers,0,0,0,0,0,0
+3523,Graduation,Married,52,75072.0,1,3,0,2.95,Low Value Customers,0,0,0,0,0,0
+7106,PhD,Married,71,75865.0,0,1,0,3.02,Medium Value Customer,0,0,0,0,0,0
+6504,Others,Married,39,19789.0,1,5,0,1.9,Low Value Customers,0,0,1,0,0,0
+5067,Graduation,Married,20,80134.0,0,5,0,3.85,Medium Value Customer,1,1,0,1,1,0
+4216,Graduation,Single,33,91065.0,0,3,0,4.42,High value Customer,1,0,0,0,1,1
+8581,Master,Married,43,49505.0,2,8,0,4.86,Top Customers,0,0,0,0,0,0
+5929,PhD,Married,41,37401.0,1,7,0,1.55,Lost Customers,0,0,0,0,0,0
+3129,Graduation,Married,31,30096.0,1,6,0,1.17,Lost Customers,0,0,0,0,0,0
+6528,Master,Married,32,18492.0,1,8,0,0.33,Lost Customers,0,0,0,0,0,0
+1361,Master,Married,40,82584.0,0,1,0,2.82,Low Value Customers,0,0,0,1,1,1
+6932,PhD,Married,73,93027.0,0,2,0,3.54,Medium Value Customer,0,0,0,0,1,0
+7284,Graduation,Married,61,48686.0,3,8,0,0.83,Lost Customers,0,0,0,0,0,0
+1340,Graduation,Married,28,92910.0,0,1,0,4.46,High value Customer,1,0,0,1,1,0
+8746,Graduation,Married,25,75433.0,1,6,0,3.36,Medium Value Customer,1,0,0,1,0,0
+5987,Others,Married,25,10404.0,1,5,0,1.27,Lost Customers,0,0,0,0,0,0
+3767,Graduation,Married,46,61314.0,1,3,0,4.42,High value Customer,0,0,0,0,0,0
+3725,PhD,Single,53,84865.0,0,4,0,3.01,Medium Value Customer,1,1,0,1,1,1
+4324,Graduation,Married,25,42387.0,1,8,0,3.62,Medium Value Customer,0,0,0,0,0,0
+238,Others,Married,47,67309.0,2,7,0,4.42,High value Customer,0,0,0,0,0,0
+6694,Graduation,Married,50,75236.0,1,4,0,4.34,High value Customer,0,0,0,0,0,0
+498,Graduation,Single,44,30015.0,1,5,0,1.45,Lost Customers,0,0,0,0,0,0
+9347,Master,Married,58,50943.0,1,5,0,0.78,Lost Customers,0,0,0,0,0,0
+9699,Graduation,Divorced,48,67272.0,1,5,0,4.2,High value Customer,0,0,0,0,0,0
+10664,Master,Widow,65,51529.0,1,8,0,3.11,Medium Value Customer,0,0,0,0,0,0
+5455,PhD,Married,43,32011.0,1,7,0,1.58,Lost Customers,0,0,0,0,0,0
+456,Others,Married,28,7500.0,1,8,0,0.94,Lost Customers,0,0,0,0,0,0
+5012,Graduation,Married,25,28691.0,1,8,0,0.72,Lost Customers,0,0,0,0,0,0
+7495,PhD,Married,66,56223.0,1,4,0,1.71,Low Value Customers,0,0,0,0,0,0
+5029,Graduation,Married,68,18100.0,0,5,0,0.78,Lost Customers,0,0,0,0,0,0
+10642,Graduation,Single,25,30279.0,1,8,0,1.05,Lost Customers,0,0,0,0,0,0
+2106,Others,Married,40,20130.0,0,8,0,0.41,Lost Customers,0,0,0,0,0,0
+10364,Graduation,Divorced,55,23295.0,0,8,0,0.35,Lost Customers,0,0,0,0,0,0
+5954,Master,Divorced,42,42618.0,1,8,0,1.7,Low Value Customers,0,0,0,0,0,0
+1137,Graduation,Single,50,81246.0,0,1,0,2.56,Low Value Customers,1,0,1,0,0,0
+2541,Graduation,Married,38,24027.0,1,8,0,1.61,Low Value Customers,0,0,0,0,0,0
+1142,PhD,Married,61,55707.0,1,3,0,2.33,Low Value Customers,0,0,0,0,0,0
+2276,Graduation,Single,59,57959.0,1,3,0,4.24,High value Customer,0,0,0,0,0,0
+2807,Graduation,Married,45,56796.0,1,7,0,4.59,Top Customers,0,0,0,0,0,0
+6471,Master,Single,43,36230.0,1,5,0,1.53,Lost Customers,0,0,0,0,0,0
+6131,Others,Married,34,70829.0,2,3,0,2.35,Low Value Customers,0,0,0,0,0,0
+6233,Graduation,Married,38,65991.0,1,7,0,4.61,Top Customers,0,0,0,0,0,0
+4148,Graduation,Married,42,38988.0,3,8,0,2.9,Low Value Customers,0,0,0,0,0,0
+4947,Others,Single,48,89572.0,0,4,0,4.1,High value Customer,1,0,0,1,0,1
+3225,Master,Married,30,42207.0,1,6,0,2.19,Low Value Customers,0,0,1,0,0,1
+7540,Graduation,Married,62,50300.0,1,2,0,2.24,Low Value Customers,0,0,0,0,0,0
+10648,Others,Married,32,66664.0,0,3,0,2.99,Low Value Customers,0,0,0,0,0,0
+1992,Graduation,Married,50,60597.0,1,7,0,3.0,Low Value Customers,1,0,0,0,0,1
+7851,Graduation,Widow,65,70165.0,0,1,0,3.66,Medium Value Customer,0,0,0,0,0,0
+8594,PhD,Widow,56,50520.0,1,6,0,1.89,Low Value Customers,0,0,0,0,0,0
+7059,Graduation,Married,51,80124.0,0,1,0,3.23,Medium Value Customer,0,0,1,0,0,0
+2815,Graduation,Married,39,33183.0,1,7,0,1.74,Low Value Customers,0,0,0,0,0,0
+2416,PhD,Single,45,66582.0,0,1,0,3.13,Medium Value Customer,0,0,0,0,0,0
+7999,PhD,Married,59,75261.0,0,2,0,3.09,Medium Value Customer,0,0,0,1,1,1
+9213,Graduation,Widow,44,31880.0,1,8,0,0.79,Lost Customers,0,0,0,0,0,0
+9697,Graduation,Married,63,53790.0,2,6,0,3.11,Medium Value Customer,0,0,0,0,0,0
+3916,PhD,Married,43,49269.0,1,7,0,3.85,Medium Value Customer,0,0,0,0,0,0
+2021,Graduation,Married,39,61456.0,1,4,0,4.63,Top Customers,0,0,0,0,0,0
+1581,Graduation,Married,34,37406.0,1,8,0,0.76,Lost Customers,0,0,0,0,0,1
+564,PhD,Married,33,56937.0,1,6,0,4.31,High value Customer,0,0,0,1,0,1
+6619,Graduation,Married,36,38415.0,2,7,0,0.72,Lost Customers,0,0,0,0,0,0
+9081,Graduation,Single,26,20518.0,1,5,0,0.71,Lost Customers,0,0,0,0,0,0
+178,Graduation,Married,58,62503.0,1,5,0,4.37,High value Customer,0,0,0,0,0,0
+916,PhD,Single,42,41644.0,2,3,0,0.9,Lost Customers,0,0,0,0,0,0
+5512,Master,Married,37,55842.0,1,5,0,3.08,Medium Value Customer,0,0,0,0,0,0
+8970,PhD,Married,42,62010.0,1,5,0,2.87,Low Value Customers,0,0,0,0,0,0
+10581,Graduation,Married,37,41124.0,1,8,0,3.63,Medium Value Customer,0,0,0,0,0,0
+5300,Master,Married,41,38961.0,1,7,0,0.95,Lost Customers,0,0,0,0,0,0
+5154,Master,Divorced,42,37760.0,1,6,0,1.0,Lost Customers,0,0,0,0,0,0
+8346,Graduation,Single,40,32233.0,1,9,0,2.33,Low Value Customers,0,0,1,0,0,1
+1676,Graduation,Married,39,43057.0,1,5,0,2.61,Low Value Customers,0,0,0,0,0,0
+9286,Master,Married,54,83151.0,0,3,0,2.87,Low Value Customers,0,0,0,0,0,0
+2426,PhD,Divorced,50,78825.0,0,3,0,4.63,Top Customers,0,0,0,0,0,1
+5172,Master,Married,38,65104.0,1,7,0,3.18,Medium Value Customer,0,0,0,0,0,0
+5562,Graduation,Married,40,60093.0,1,6,0,3.25,Medium Value Customer,0,0,0,0,0,0
+3436,Graduation,Married,45,14045.0,1,7,0,0.97,Lost Customers,0,0,0,0,0,0
+3921,Others,Widow,62,28457.0,0,8,0,1.53,Lost Customers,0,0,0,0,0,0
+3403,PhD,Married,56,78952.0,1,6,0,3.85,Medium Value Customer,0,0,0,0,0,0
+22,Graduation,Divorced,38,46310.0,1,8,0,1.98,Low Value Customers,0,0,0,0,0,0
+10965,Graduation,Married,59,76005.0,0,6,0,3.58,Medium Value Customer,1,0,0,0,0,0
+9426,Master,Single,50,58308.0,1,8,0,2.27,Low Value Customers,0,0,0,0,0,0
+6605,PhD,Divorced,70,55614.0,0,7,0,3.12,Medium Value Customer,0,0,0,1,0,0
+3136,Master,Divorced,52,59432.0,1,5,0,3.45,Medium Value Customer,0,0,0,0,0,0
+8737,Graduation,Divorced,36,55563.0,1,3,0,1.24,Lost Customers,0,0,0,0,0,0
+11088,PhD,Married,43,78642.0,1,6,0,2.78,Low Value Customers,0,0,0,0,0,0
+716,PhD,Married,65,67911.0,1,3,0,4.3,High value Customer,0,0,0,0,0,0
+466,Graduation,Married,70,65275.0,0,2,0,3.87,Medium Value Customer,0,0,0,0,0,0
+9135,Graduation,Married,64,27203.0,2,8,0,0.71,Lost Customers,0,0,0,0,0,0
+10623,Master,Married,53,48330.0,1,5,0,1.13,Lost Customers,0,0,0,0,0,0
+8151,Others,Married,24,24279.0,0,8,0,2.03,Low Value Customers,0,0,0,0,0,0
+5140,PhD,Married,29,64355.0,1,8,0,3.44,Medium Value Customer,0,0,0,0,0,0
+10160,Master,Married,58,50943.0,1,5,0,0.78,Lost Customers,0,0,0,0,0,0
+4945,Graduation,Widow,61,53653.0,0,6,0,4.62,Top Customers,0,0,0,0,0,0
+10584,Graduation,Married,38,65665.0,1,3,0,3.85,Medium Value Customer,0,0,0,0,0,0
+6071,Graduation,Single,25,81217.0,0,1,0,3.54,Medium Value Customer,0,0,0,0,0,0
+3386,Graduation,Married,22,34935.0,0,7,0,1.36,Lost Customers,0,0,0,0,0,0
+8939,Graduation,Divorced,55,61250.0,1,5,0,4.18,High value Customer,0,0,0,0,0,0
+9925,PhD,Married,33,39665.0,1,7,0,1.79,Low Value Customers,0,0,1,0,0,0
+4320,Graduation,Single,35,60152.0,1,3,0,4.24,High value Customer,0,0,0,0,0,0
+5389,Graduation,Married,50,48920.0,2,7,0,2.31,Low Value Customers,0,0,0,1,0,0
+6036,Master,Married,55,89120.0,0,1,0,2.99,Low Value Customers,0,0,0,0,1,0
+182,PhD,Married,68,44124.0,1,8,0,2.75,Low Value Customers,0,0,0,0,0,0
+203,Master,Single,39,81169.0,0,2,0,3.77,Medium Value Customer,0,0,0,0,0,0
+11025,Graduation,Married,53,36443.0,2,8,0,2.32,Low Value Customers,0,0,0,0,0,0
+10203,Graduation,Single,24,26095.0,1,7,0,0.57,Lost Customers,0,0,0,0,0,0
+4607,Graduation,Married,55,71367.0,0,2,0,3.04,Medium Value Customer,0,0,0,0,0,0
+3711,Master,Married,70,80184.0,0,3,0,3.62,Medium Value Customer,1,0,0,0,1,0
+3696,Graduation,Divorced,49,30630.0,2,7,0,1.16,Lost Customers,0,0,0,0,0,0
+2532,Master,Single,27,73454.0,0,5,0,1.91,Low Value Customers,0,0,1,0,0,0
+9214,Graduation,Married,23,42691.0,0,5,0,2.27,Low Value Customers,0,0,0,0,0,0
+4943,Graduation,Married,61,70503.0,0,6,0,2.46,Low Value Customers,0,0,0,1,1,0
+35,Graduation,Married,27,25545.0,1,6,0,1.99,Low Value Customers,0,0,0,0,0,1
+2258,Graduation,Married,28,32880.0,1,8,0,0.58,Lost Customers,0,0,0,0,0,0
+4322,PhD,Married,56,77863.0,0,2,0,3.61,Medium Value Customer,0,0,0,0,0,0
+713,Master,Married,37,50353.0,0,3,0,2.3,Low Value Customers,0,0,0,0,0,0
+4702,Graduation,Single,50,61839.0,0,8,0,3.07,Medium Value Customer,0,0,0,0,0,0
+3281,PhD,Married,54,49154.0,2,6,0,3.05,Medium Value Customer,0,0,0,0,0,0
+702,Others,Widow,39,47682.0,1,5,0,2.97,Low Value Customers,0,0,0,0,0,0
+2004,Graduation,Single,45,72679.0,1,1,0,2.73,Low Value Customers,0,0,0,0,0,0
+4769,Master,Married,37,57954.0,2,7,0,3.9,Medium Value Customer,0,0,0,1,0,0
+4437,Graduation,Married,52,65316.0,2,4,0,2.03,Low Value Customers,0,0,0,0,0,0
+8724,Graduation,Single,32,28567.0,1,6,0,1.23,Lost Customers,0,0,0,0,0,0
+10741,Master,Married,63,47352.0,1,7,0,2.49,Low Value Customers,0,0,0,0,0,0
+1991,Graduation,Married,47,44931.0,1,5,0,1.66,Low Value Customers,0,0,0,0,0,0
+6931,Graduation,Divorced,47,76982.0,0,4,0,2.87,Low Value Customers,0,0,0,0,1,1
+11096,Others,Married,62,57247.0,1,2,0,2.15,Low Value Customers,0,0,0,0,0,0
+304,Master,Single,33,22944.0,1,7,0,1.57,Lost Customers,0,0,0,0,0,0
+3665,Others,Married,37,25315.0,1,8,0,1.74,Low Value Customers,0,0,0,0,0,0
+10591,Graduation,Widow,45,43638.0,1,7,0,2.11,Low Value Customers,0,0,0,0,0,0
+5036,PhD,Single,30,42710.0,1,6,0,2.44,Low Value Customers,0,0,0,0,0,0
+5547,PhD,Married,32,84169.0,0,3,0,3.69,Medium Value Customer,0,0,0,1,1,1
+7822,Graduation,Married,38,54058.0,1,3,0,3.33,Medium Value Customer,0,0,0,0,0,0
+8541,Others,Married,24,24683.0,1,5,0,1.15,Lost Customers,0,0,0,0,0,0
+10955,Graduation,Widow,50,85620.0,0,1,0,2.21,Low Value Customers,0,0,0,0,0,1
+4368,Graduation,Married,34,47850.0,1,6,0,1.35,Lost Customers,0,0,0,0,0,0
+9671,Graduation,Married,46,19514.0,2,8,0,1.9,Low Value Customers,0,0,1,0,0,1
+2256,Master,Married,41,27159.0,2,6,0,1.15,Lost Customers,0,0,0,0,0,0
+4279,Others,Single,51,39548.0,2,3,0,1.0,Lost Customers,0,0,0,0,0,0
+5371,Graduation,Single,25,21474.0,1,7,0,1.9,Low Value Customers,0,0,1,0,0,1
+9240,PhD,Single,43,60504.0,1,6,0,2.85,Low Value Customers,0,0,0,0,0,0
+9460,Graduation,Married,51,22419.0,0,8,0,1.34,Lost Customers,0,0,0,0,0,0
+9504,Master,Married,65,81698.0,0,1,0,4.51,Top Customers,0,0,0,0,0,1
+8692,Graduation,Married,62,43462.0,2,8,0,2.64,Low Value Customers,0,0,0,0,0,0
+448,PhD,Single,36,54880.0,1,5,0,3.5,Medium Value Customer,0,0,0,0,0,0
+8314,Graduation,Married,32,79908.0,0,2,0,3.34,Medium Value Customer,0,0,0,0,1,0
+8420,Others,Married,44,15315.0,0,5,0,1.69,Low Value Customers,0,0,0,0,0,0
+3174,Graduation,Married,55,87771.0,1,6,0,3.3,Medium Value Customer,1,1,0,1,1,1
+7685,Graduation,Married,36,33039.0,1,5,0,1.63,Low Value Customers,0,0,0,0,0,0
+3179,Graduation,Single,34,81741.0,0,2,0,3.01,Medium Value Customer,0,0,0,0,0,0
+9780,Master,Married,43,71499.0,1,4,0,4.58,Top Customers,0,0,0,0,0,0
+10681,Others,Married,44,62466.0,1,4,0,4.57,Top Customers,0,0,0,0,0,0
+10232,PhD,Divorced,51,48799.0,1,3,0,2.78,Low Value Customers,0,0,0,0,0,0
+4184,PhD,Married,64,52157.0,1,4,0,2.16,Low Value Customers,0,0,0,0,0,0
+9120,Graduation,Single,52,66565.0,1,8,0,2.97,Low Value Customers,0,0,0,0,0,0
+891,Master,Married,63,29298.0,2,5,0,0.44,Lost Customers,0,0,0,0,0,0
+10381,Graduation,Single,35,47691.0,1,6,0,0.57,Lost Customers,0,0,0,0,0,0
+3525,Graduation,Married,44,38200.0,2,7,0,0.75,Lost Customers,0,0,0,0,0,0
+6818,Graduation,Married,40,44989.0,1,6,0,2.82,Low Value Customers,0,0,0,0,0,0
+3526,PhD,Married,46,38443.0,2,7,0,0.96,Lost Customers,0,0,0,0,0,0
+8181,Others,Single,36,38593.0,1,8,0,2.08,Low Value Customers,0,0,0,0,0,0
+1029,PhD,Married,44,64413.0,1,5,0,2.32,Low Value Customers,0,0,0,0,0,0
+7369,Master,Married,33,36959.0,1,8,0,1.24,Lost Customers,0,0,0,0,0,0
+2574,PhD,Married,37,61996.0,1,5,0,3.73,Medium Value Customer,1,1,0,1,0,1
+8159,Graduation,Married,46,51287.0,2,7,0,2.32,Low Value Customers,0,0,0,0,0,0
+1160,Graduation,Married,44,13260.0,2,8,0,1.9,Low Value Customers,0,0,0,0,0,0
+10242,PhD,Married,48,47472.0,2,5,0,1.6,Lost Customers,0,0,0,0,0,0
+5253,Master,Married,58,54603.0,2,7,0,2.37,Low Value Customers,0,0,0,0,0,0
+5966,PhD,Married,40,45207.0,2,6,0,2.36,Low Value Customers,0,0,0,1,0,0
+5314,Graduation,Married,63,40689.0,1,8,0,3.24,Medium Value Customer,0,0,0,0,0,0
+5081,Others,Married,47,47821.0,2,8,0,0.74,Lost Customers,0,0,0,0,0,0
+5123,Master,Married,63,27450.0,0,7,0,1.23,Lost Customers,0,0,0,0,0,0
+5756,Graduation,Married,31,39453.0,1,6,0,1.18,Lost Customers,0,0,0,0,0,0
+8036,Others,Married,43,26850.0,2,4,0,2.32,Low Value Customers,0,0,0,0,0,0
+9058,Graduation,Widow,59,79800.0,0,3,0,3.63,Medium Value Customer,1,0,1,0,1,1
+5057,Master,Married,53,61794.0,1,2,0,3.2,Medium Value Customer,0,0,0,0,0,0
+254,Graduation,Married,59,53863.0,1,7,0,3.37,Medium Value Customer,0,0,0,1,0,0
+4179,Graduation,Married,55,24221.0,0,4,0,0.7,Lost Customers,0,0,0,0,0,0
+3710,PhD,Single,30,39684.0,1,7,1,1.35,Lost Customers,0,0,0,0,0,1
+7627,Master,Married,39,92163.0,0,2,0,3.75,Medium Value Customer,1,0,0,0,1,1
+4501,Master,Single,49,69882.0,0,1,0,3.05,Medium Value Customer,0,0,0,0,0,0
+6424,Graduation,Married,37,33178.0,1,4,0,1.08,Lost Customers,0,0,0,0,0,0
+3075,PhD,Married,42,59973.0,0,1,0,2.5,Low Value Customers,0,0,0,0,0,0
+4992,Master,Married,39,17459.0,1,7,0,1.99,Low Value Customers,0,0,0,0,0,1
+5252,Graduation,Divorced,45,23910.0,1,7,0,0.8,Lost Customers,0,0,0,0,0,0
+7444,Master,Married,45,42169.0,2,8,0,1.25,Lost Customers,0,0,0,0,0,0
+6919,Others,Married,36,26224.0,1,6,0,1.78,Low Value Customers,0,0,0,0,0,0
+3537,Graduation,Married,33,31089.0,1,8,0,1.82,Low Value Customers,0,0,0,0,0,0
+10277,Graduation,Single,53,30081.0,1,7,0,0.95,Lost Customers,0,0,0,0,0,0
+2453,Graduation,Married,54,62807.0,1,5,0,3.66,Medium Value Customer,0,0,0,0,0,0
+7972,Graduation,Single,59,72906.0,0,1,0,2.62,Low Value Customers,0,0,0,0,0,0
+895,PhD,Married,66,61467.0,2,5,0,3.24,Medium Value Customer,0,0,0,0,0,0
+1177,Master,Married,48,49618.0,2,7,0,1.81,Low Value Customers,0,0,0,0,0,0
+7141,Master,Single,28,21888.0,1,10,0,2.41,Low Value Customers,0,0,0,0,0,1
+7232,Graduation,Widow,41,42429.0,1,5,0,0.92,Lost Customers,0,0,0,0,0,0
+8477,Graduation,Divorced,58,26150.0,3,7,0,0.69,Lost Customers,0,0,0,0,0,0
+2457,Others,Married,39,30801.0,1,7,0,1.23,Lost Customers,0,0,0,0,0,0
+988,Graduation,Married,49,81168.0,0,3,0,2.77,Low Value Customers,1,0,0,0,0,0
+7930,Master,Single,45,26877.0,0,6,0,1.96,Low Value Customers,0,0,0,0,0,0
+4587,Master,Widow,70,45006.0,0,3,0,1.84,Low Value Customers,0,0,0,0,0,0
+6682,Others,Married,41,18978.0,1,8,0,0.84,Lost Customers,0,0,0,0,0,0
+6222,Graduation,Married,47,22574.0,3,7,0,1.45,Lost Customers,0,0,0,0,0,0
+10299,PhD,Single,45,48240.0,0,5,0,3.99,Medium Value Customer,0,0,0,0,0,1
+3083,Graduation,Married,40,45837.0,2,7,0,2.74,Low Value Customers,0,0,0,0,0,0
+8953,Master,Single,49,35791.0,3,8,0,0.7,Lost Customers,0,0,0,0,0,0
+1503,PhD,Married,38,162397.0,2,1,0,0.52,Lost Customers,0,0,0,0,0,0
+8650,Graduation,Widow,36,54162.0,2,4,0,0.91,Lost Customers,0,0,0,0,0,0
+10862,Master,Married,54,30522.0,1,2,0,3.17,Medium Value Customer,0,0,0,0,0,0
+2782,PhD,Married,53,54456.0,1,6,0,3.05,Medium Value Customer,0,0,0,0,0,0
+6941,Graduation,Single,43,31632.0,0,7,0,0.71,Lost Customers,0,0,0,0,0,0
+10972,Graduation,Widow,65,72298.0,0,1,0,2.33,Low Value Customers,0,0,0,1,1,0
+10708,Others,Single,36,36975.0,1,7,0,0.78,Lost Customers,0,0,0,0,0,0
+6583,Others,Married,59,72635.0,0,3,0,3.53,Medium Value Customer,1,0,0,0,0,0
+3641,Graduation,Married,38,13624.0,1,6,0,0.96,Lost Customers,0,0,0,0,0,0
+10156,Graduation,Single,39,84196.0,1,3,0,3.33,Medium Value Customer,0,0,0,0,0,0
+4299,Graduation,Married,54,70971.0,1,7,0,4.77,Top Customers,0,0,0,0,0,1
+3469,PhD,Divorced,37,34487.0,2,9,0,1.37,Lost Customers,0,0,0,0,0,0
+5063,Graduation,Single,37,28769.0,1,9,0,1.95,Low Value Customers,0,0,0,0,0,0
+10727,PhD,Married,44,69084.0,1,8,0,4.22,High value Customer,0,0,0,0,0,0
+9624,PhD,Married,56,65488.0,0,1,0,2.38,Low Value Customers,0,0,0,0,0,0
+5156,Others,Married,44,62466.0,1,4,0,4.57,Top Customers,0,0,0,0,0,0
+4376,Others,Single,54,32218.0,0,7,0,1.46,Lost Customers,0,0,1,0,0,1
+8923,Graduation,Single,41,83917.0,0,3,0,3.84,Medium Value Customer,0,0,0,0,0,1
+8461,Graduation,Divorced,52,46102.0,3,7,0,0.87,Lost Customers,0,0,0,0,0,0
+6945,Graduation,Single,62,84574.0,0,5,0,4.42,High value Customer,0,0,0,0,0,0
+944,Graduation,Married,52,56181.0,1,4,0,2.68,Low Value Customers,0,0,0,0,0,0
+1907,Master,Divorced,64,63120.0,1,7,0,4.27,High value Customer,0,0,0,0,0,1
+701,Graduation,Married,43,73691.0,1,2,0,2.96,Low Value Customers,0,0,1,0,0,0
+3856,Graduation,Married,54,63381.0,1,2,0,4.08,High value Customer,0,0,0,0,0,0
+4149,PhD,Married,66,76140.0,0,2,0,3.5,Medium Value Customer,0,0,0,0,0,0
+2131,PhD,Divorced,55,62859.0,1,6,0,4.01,High value Customer,0,0,0,0,0,0
+2942,Graduation,Single,50,45906.0,1,5,0,2.7,Low Value Customers,0,0,1,0,0,0
+1173,Master,Married,67,77632.0,0,2,0,2.08,Low Value Customers,0,0,0,1,1,1
+4381,PhD,Married,43,46463.0,2,6,0,2.79,Low Value Customers,0,0,0,0,0,0
+4611,Graduation,Married,44,105471.0,0,3,0,4.65,Top Customers,1,0,0,0,1,1
+3376,Master,Divorced,44,55282.0,1,4,0,2.32,Low Value Customers,0,0,0,0,0,0
+4679,Master,Married,37,78710.0,1,4,0,4.53,Top Customers,0,0,0,0,0,0
+10928,Graduation,Married,56,66886.0,1,5,0,3.0,Low Value Customers,0,0,0,0,0,0
+4248,Master,Single,54,98777.0,0,1,0,3.4,Medium Value Customer,0,0,0,1,0,0
+6728,Graduation,Married,29,29103.0,1,9,0,1.12,Lost Customers,0,0,0,0,0,0
+6661,Graduation,Married,40,67445.0,1,6,0,4.49,High value Customer,0,0,0,0,0,0
+4725,PhD,Married,64,50616.0,1,2,0,1.13,Lost Customers,0,0,0,0,0,0
+3277,Graduation,Divorced,59,49431.0,1,8,0,2.78,Low Value Customers,0,0,0,0,0,0
+5555,Graduation,Divorced,39,153924.0,0,0,0,0.14,Lost Customers,0,0,0,0,0,0
+2564,Graduation,Married,61,61278.0,1,6,0,1.59,Lost Customers,0,0,0,0,0,0
+946,Others,Married,56,26490.0,0,6,0,1.7,Low Value Customers,0,0,0,0,0,0
+3867,PhD,Married,67,73059.0,1,4,0,4.4,High value Customer,0,0,0,0,0,0
+6940,PhD,Single,48,46734.0,3,6,0,1.87,Low Value Customers,0,0,1,0,0,0
+55,Graduation,Married,51,56253.0,1,6,0,3.49,Medium Value Customer,0,0,0,0,0,0
+7093,Graduation,Married,29,19986.0,1,7,0,0.33,Lost Customers,0,0,0,0,0,0
+5084,Graduation,Widow,39,58330.0,1,4,0,3.77,Medium Value Customer,0,0,0,0,0,0
+1777,Others,Married,34,25965.0,0,8,0,1.18,Lost Customers,0,0,0,0,0,0
+8162,Master,Married,58,14661.0,0,6,0,0.49,Lost Customers,0,0,0,0,0,0
+10826,Graduation,Married,55,18690.0,0,8,0,0.57,Lost Customers,0,0,0,0,0,0
+8754,PhD,Married,40,45068.0,1,7,0,0.7,Lost Customers,0,0,0,0,0,0
+1987,Others,Single,27,21063.0,1,6,0,1.4,Lost Customers,0,0,0,0,0,0
+11007,PhD,Married,46,29187.0,1,8,0,0.83,Lost Customers,0,0,0,0,0,0
+7426,Others,Married,43,54690.0,2,3,0,1.95,Low Value Customers,0,0,0,0,0,0
+9153,PhD,Married,50,59304.0,1,5,0,4.23,High value Customer,0,0,0,0,0,0
+10379,Master,Single,52,59247.0,2,6,0,3.28,Medium Value Customer,0,0,0,0,0,0
+9204,Graduation,Widow,44,66731.0,1,3,0,2.96,Low Value Customers,0,0,0,0,0,0
+3197,Graduation,Married,34,77353.0,1,4,0,3.47,Medium Value Customer,0,0,0,0,0,0
+2920,PhD,Single,39,52614.0,1,8,0,2.54,Low Value Customers,0,0,0,0,0,0
+6961,Graduation,Married,40,26751.0,2,8,0,0.7,Lost Customers,0,0,0,0,0,0
+4673,PhD,Married,51,81300.0,1,5,0,3.81,Medium Value Customer,1,0,0,0,0,1
+9937,Graduation,Single,35,70337.0,0,1,0,2.65,Low Value Customers,0,0,0,0,0,0
+8779,Others,Married,29,36145.0,1,9,0,2.42,Low Value Customers,0,0,1,0,0,1
+9596,PhD,Single,34,65295.0,0,2,0,3.62,Medium Value Customer,0,0,0,0,0,0
+2891,Graduation,Divorced,51,68118.0,1,6,0,3.91,Medium Value Customer,0,0,0,0,0,0
+4910,Graduation,Divorced,47,68743.0,0,7,0,4.31,High value Customer,0,0,0,0,0,0
+75,Others,Married,32,41039.0,0,8,0,2.6,Low Value Customers,0,0,0,0,0,0
+10120,Graduation,Married,59,38946.0,1,5,0,1.89,Low Value Customers,0,0,0,0,0,0
+6327,Graduation,Married,47,65777.0,0,1,0,2.56,Low Value Customers,0,0,0,0,0,0
+10142,PhD,Divorced,38,66476.0,1,4,0,3.01,Medium Value Customer,0,0,0,0,0,0
+9826,PhD,Single,42,86857.0,0,2,0,3.39,Medium Value Customer,0,0,0,0,0,1
+1501,PhD,Married,32,160803.0,0,0,0,4.84,Top Customers,0,0,0,0,0,0
+10767,PhD,Married,25,77845.0,0,1,0,3.64,Medium Value Customer,1,0,0,0,1,0
+7279,PhD,Married,45,69476.0,0,2,0,2.82,Low Value Customers,0,0,0,0,0,0
+7230,PhD,Divorced,54,50611.0,1,6,0,3.38,Medium Value Customer,0,0,0,1,0,1
+143,Graduation,Single,44,61209.0,0,2,0,2.08,Low Value Customers,0,0,0,0,0,0
+450,Master,Married,56,42315.0,1,3,0,1.84,Low Value Customers,0,0,0,0,0,0
+9316,Others,Married,62,13084.0,0,6,0,0.93,Lost Customers,0,0,0,0,0,0
+6379,Master,Widow,65,47570.0,2,7,0,2.05,Low Value Customers,0,0,0,0,0,1
+9239,Master,Married,53,61923.0,2,3,0,1.18,Lost Customers,0,0,0,0,0,0
+8315,Graduation,Single,19,34824.0,0,6,0,0.4,Lost Customers,0,0,0,0,0,0
+2868,PhD,Single,65,26518.0,2,8,0,1.64,Low Value Customers,0,0,0,0,0,1
+10888,Graduation,Single,53,45938.0,0,6,0,3.42,Medium Value Customer,0,0,0,0,0,0
+1277,Graduation,Married,54,78468.0,0,4,0,4.62,Top Customers,1,0,0,0,0,0
+9977,Graduation,Divorced,41,78901.0,1,4,0,3.01,Medium Value Customer,0,0,0,0,0,0
+10196,Graduation,Married,36,71427.0,2,4,0,3.56,Medium Value Customer,0,0,0,0,0,0
+6384,Graduation,Divorced,36,71022.0,1,8,0,3.71,Medium Value Customer,0,0,1,0,0,0
+8029,Master,Single,26,90247.0,0,1,0,2.64,Low Value Customers,1,0,0,1,1,1
+968,Master,Divorced,46,41335.0,1,7,0,2.34,Low Value Customers,0,0,0,0,0,0
+6988,Graduation,Married,28,71952.0,1,4,0,3.42,Medium Value Customer,0,0,1,0,1,0
+4472,PhD,Divorced,44,35682.0,1,2,0,1.14,Lost Customers,0,0,0,0,0,0
+6991,Graduation,Divorced,63,43185.0,1,8,0,3.09,Medium Value Customer,0,0,0,0,0,0
+3336,PhD,Married,66,66375.0,1,7,0,2.0,Low Value Customers,0,0,1,0,0,0
+4301,Master,Married,43,35178.0,1,7,0,1.07,Lost Customers,0,0,1,0,0,1
+1940,Graduation,Married,28,25252.0,1,8,0,0.7,Lost Customers,0,0,0,0,0,0
+1272,Master,Single,49,55250.0,1,5,0,4.3,High value Customer,0,0,0,0,0,0
+1388,Graduation,Single,39,33249.0,1,6,0,1.81,Low Value Customers,0,0,0,0,0,0
+1044,Graduation,Married,61,58398.0,0,4,0,3.43,Medium Value Customer,0,0,0,0,0,0
+6969,Graduation,Married,32,50272.0,1,7,0,2.06,Low Value Customers,0,0,0,0,0,0
+10479,PhD,Married,39,76618.0,0,1,0,1.91,Low Value Customers,0,0,0,0,0,0
+3619,Others,Divorced,54,87305.0,0,2,0,3.08,Medium Value Customer,0,0,0,0,1,1
+1715,Graduation,Married,36,25851.0,1,7,0,1.33,Lost Customers,0,0,0,0,0,0
+10159,Graduation,Divorced,44,58710.0,1,6,0,4.36,High value Customer,0,0,0,0,0,0
+1463,Graduation,Single,56,45160.0,2,7,0,0.82,Lost Customers,0,0,0,0,0,0
+5114,Master,Married,49,74806.0,1,4,0,3.01,Medium Value Customer,0,0,0,0,0,0
+4990,Graduation,Married,60,59111.0,0,7,0,3.26,Medium Value Customer,0,0,0,0,0,0
+4329,PhD,Married,30,18988.0,1,7,0,1.08,Lost Customers,0,0,0,0,0,0
+10936,Graduation,Married,49,72190.0,0,3,0,2.42,Low Value Customers,0,0,0,0,0,0
+4692,Graduation,Married,38,7500.0,1,9,0,2.38,Low Value Customers,0,0,1,0,0,1
+7212,Graduation,Married,48,44794.0,1,6,0,0.66,Lost Customers,0,0,0,0,0,0
+6086,Graduation,Married,59,80395.0,0,2,0,3.96,Medium Value Customer,1,0,0,0,0,0
+437,Master,Divorced,38,75012.0,0,1,0,3.98,Medium Value Customer,0,0,0,0,0,0
+11171,Master,Married,49,56962.0,3,7,0,3.48,Medium Value Customer,0,0,0,0,0,0
+11101,Graduation,Married,23,89891.0,0,4,0,4.54,Top Customers,0,0,0,0,1,0
+5329,PhD,Divorced,65,35946.0,2,5,0,0.71,Lost Customers,0,0,0,0,0,0
+610,PhD,Married,61,53593.0,2,8,0,3.84,Medium Value Customer,0,0,0,0,0,0
+9384,Graduation,Married,36,66373.0,2,3,0,3.85,Medium Value Customer,0,0,0,0,0,0
+5956,PhD,Divorced,66,45072.0,3,8,0,2.45,Low Value Customers,0,0,0,0,0,0
+10430,Graduation,Divorced,41,89694.0,2,5,0,2.56,Low Value Customers,1,0,0,1,1,0
+7875,Graduation,Married,65,72025.0,0,2,0,4.33,High value Customer,1,0,0,1,1,1
+7072,Graduation,Married,41,67432.0,1,4,0,3.05,Medium Value Customer,0,0,0,0,0,0
+6255,Master,Married,62,70545.0,1,2,0,2.41,Low Value Customers,0,0,0,0,0,0
+6516,Others,Married,25,17487.0,1,7,0,0.61,Lost Customers,0,0,0,0,0,0
+5564,Graduation,Married,45,62882.0,1,4,0,3.56,Medium Value Customer,0,0,0,0,0,0
+5682,PhD,Single,61,64108.0,1,5,0,4.86,Top Customers,0,0,0,0,0,0
+7458,Master,Married,58,34941.0,2,8,0,1.7,Low Value Customers,0,0,0,0,0,0
+5237,PhD,Single,64,48767.0,3,5,0,1.48,Lost Customers,0,0,0,0,0,0
+7761,Others,Married,36,38702.0,1,6,0,1.55,Lost Customers,0,0,0,0,0,0
+5278,Graduation,Married,50,82224.0,0,3,0,3.31,Medium Value Customer,1,0,0,0,0,0
+3560,Graduation,Married,62,83844.0,0,1,0,3.32,Medium Value Customer,0,0,0,0,1,0
+7235,Others,Married,39,17003.0,1,5,0,1.8,Low Value Customers,0,0,0,0,0,0
+10548,Graduation,Single,19,71163.0,0,1,0,4.19,High value Customer,0,0,0,0,0,0
+2281,Graduation,Single,44,33697.0,1,7,0,0.63,Lost Customers,0,0,1,0,0,0
+4073,Others,Married,60,63564.0,0,6,0,4.84,Top Customers,0,0,1,0,0,1
+6974,PhD,Married,42,83443.0,0,2,0,3.45,Medium Value Customer,0,0,0,0,0,0
+7938,PhD,Married,56,51518.0,1,3,0,2.53,Low Value Customers,0,0,0,0,0,0
+7094,Graduation,Widow,39,58330.0,1,4,0,3.77,Medium Value Customer,0,0,0,0,0,0
+3667,Graduation,Married,45,80952.0,0,8,0,4.39,High value Customer,1,0,0,1,1,1
+7723,Graduation,Married,35,75507.0,0,3,0,3.51,Medium Value Customer,0,0,0,0,0,0
+3870,Others,Married,36,63855.0,0,4,0,4.21,High value Customer,0,0,0,0,0,0
+4012,PhD,Married,42,62220.0,1,6,0,3.87,Medium Value Customer,0,0,0,0,0,1
+5909,Graduation,Married,50,58512.0,1,8,0,3.57,Medium Value Customer,0,0,0,0,0,0
+10470,Master,Married,35,40662.0,1,4,0,1.9,Low Value Customers,0,0,0,0,0,0
+6488,PhD,Married,55,38829.0,1,5,0,1.24,Lost Customers,0,0,0,0,0,0
+10270,Others,Married,33,35523.0,1,7,0,1.83,Low Value Customers,0,0,0,0,0,0
+6887,Graduation,Single,47,79146.0,2,6,0,3.32,Medium Value Customer,0,0,0,0,0,0
+6406,Master,Married,26,78285.0,0,3,0,3.84,Medium Value Customer,0,0,0,0,0,0
+7573,PhD,Single,36,31626.0,1,7,0,1.31,Lost Customers,0,0,1,0,0,1
+4508,Graduation,Single,62,75127.0,0,1,0,2.88,Low Value Customers,0,0,0,0,0,0
+221,Graduation,Married,59,48726.0,1,6,0,1.84,Low Value Customers,0,0,0,0,0,0
+5331,Graduation,Married,37,74985.0,0,2,0,3.16,Medium Value Customer,0,0,0,0,0,0
+1911,Graduation,Married,27,67430.0,0,6,0,4.84,Top Customers,0,0,0,0,0,0
+20,Others,Married,49,46891.0,1,4,0,1.21,Lost Customers,0,0,0,0,0,0
+8786,Master,Married,58,62058.0,1,6,0,3.01,Medium Value Customer,0,0,0,0,0,0
+10582,Graduation,Married,35,72063.0,1,2,0,3.91,Medium Value Customer,0,0,0,0,0,0
+1915,PhD,Married,63,78939.0,0,3,0,3.32,Medium Value Customer,0,0,0,0,0,0
+8897,Graduation,Single,49,42720.0,2,8,0,4.47,High value Customer,0,0,0,0,0,1
+2371,Graduation,Married,42,33622.0,2,7,0,1.92,Low Value Customers,0,0,0,0,0,0
+4303,PhD,Married,57,6835.0,1,20,0,0.19,Lost Customers,0,0,0,0,0,0
+6825,Graduation,Married,61,41452.0,2,7,0,0.24,Lost Customers,0,0,0,0,0,0
+1072,PhD,Single,49,40760.0,1,6,0,1.41,Lost Customers,0,0,0,0,0,0
+4964,PhD,Married,56,74250.0,0,1,0,2.72,Low Value Customers,0,0,0,0,0,0
+2461,Master,Single,59,51124.0,2,3,0,0.81,Lost Customers,0,0,0,0,0,0
+10736,Graduation,Single,43,72258.0,1,2,0,3.9,Medium Value Customer,0,0,0,0,0,0
+3194,PhD,Single,40,71466.0,0,1,0,2.92,Low Value Customers,0,0,0,0,0,0
+10839,Graduation,Married,38,36283.0,2,4,0,1.09,Lost Customers,0,0,0,0,0,0
+49,Graduation,Single,44,20587.0,1,7,0,0.86,Lost Customers,0,0,0,0,0,0
+4290,Graduation,Married,42,30467.0,1,7,0,0.83,Lost Customers,0,0,0,0,0,0
+10219,Graduation,Married,42,31590.0,1,8,0,0.85,Lost Customers,0,0,0,0,0,0
+4211,Others,Married,28,20425.0,1,7,0,1.62,Low Value Customers,0,0,0,0,0,0
+1135,Master,Married,54,17144.0,2,7,0,1.8,Low Value Customers,0,0,0,0,0,0
+6299,PhD,Divorced,46,42564.0,1,7,0,4.21,High value Customer,0,0,1,0,0,1
+10846,Master,Married,36,43783.0,1,7,0,3.95,Medium Value Customer,0,0,1,0,0,0
+347,Graduation,Divorced,38,40780.0,1,9,0,2.99,Low Value Customers,0,0,0,0,0,0
+6543,Master,Married,69,62847.0,0,2,0,2.39,Low Value Customers,0,0,0,0,0,0
+10446,PhD,Married,57,82017.0,0,2,0,2.77,Low Value Customers,1,0,0,1,1,1
+3479,Graduation,Single,64,16813.0,0,7,0,1.04,Lost Customers,0,0,1,0,0,0
+11075,Graduation,Married,36,51267.0,2,4,0,2.57,Low Value Customers,0,0,0,0,0,0
+4442,Graduation,Single,53,46524.0,1,3,0,1.55,Lost Customers,0,0,0,0,0,0
+199,Master,Single,52,45183.0,0,7,0,2.38,Low Value Customers,0,0,0,1,0,0
+6722,PhD,Married,60,70421.0,1,6,0,3.55,Medium Value Customer,0,0,0,0,0,0
+796,Others,Divorced,49,60161.0,1,8,0,4.54,Top Customers,0,0,0,0,0,0
+3749,Graduation,Married,41,73926.0,0,3,0,4.02,High value Customer,0,0,0,0,0,0
+8523,Graduation,Married,46,19329.0,1,8,0,1.96,Low Value Customers,0,0,0,0,0,0
+310,Master,Married,44,61872.0,1,4,0,3.33,Medium Value Customer,0,0,0,0,0,0
+8629,Graduation,Widow,58,46984.0,2,5,0,0.62,Lost Customers,0,0,0,0,0,0
+236,Graduation,Married,63,34838.0,2,6,0,1.78,Low Value Customers,0,0,0,0,0,0
+9930,PhD,Single,70,82716.0,0,2,0,4.78,Top Customers,0,0,0,0,0,0
+3483,Graduation,Married,56,48192.0,0,8,0,3.97,Medium Value Customer,1,1,0,1,0,1
+4599,Master,Married,38,49681.0,2,7,0,3.44,Medium Value Customer,0,0,0,0,0,0
+7326,Master,Married,43,56850.0,1,2,0,0.78,Lost Customers,0,0,0,0,0,0
+7352,Graduation,Married,57,55267.0,1,3,0,3.0,Low Value Customers,0,0,0,0,0,0
+2350,Graduation,Married,42,59666.0,2,8,0,3.1,Medium Value Customer,0,0,0,1,0,0
+9145,Graduation,Single,42,72504.0,1,2,0,3.8,Medium Value Customer,0,0,0,0,0,0
+2964,Graduation,Married,33,26872.0,0,6,0,1.15,Lost Customers,0,0,0,0,0,0
+5585,Graduation,Single,42,21359.0,1,8,0,1.66,Low Value Customers,0,0,0,0,0,1
+9687,Graduation,Single,39,73170.0,0,2,0,3.01,Medium Value Customer,0,0,0,0,0,0
+3732,Master,Married,59,52750.0,1,4,0,4.23,High value Customer,0,0,0,0,0,0
+6303,PhD,Married,28,91820.0,0,1,0,3.58,Medium Value Customer,0,0,0,0,0,0
+11176,PhD,Married,44,65968.0,1,3,0,3.31,Medium Value Customer,0,0,0,0,0,0
+2986,Graduation,Married,38,30772.0,2,6,0,0.22,Lost Customers,0,0,0,0,0,0
+7462,Graduation,Single,60,22507.0,0,9,0,3.07,Medium Value Customer,0,0,0,0,0,0
+3900,Graduation,Married,42,65685.0,1,5,0,3.53,Medium Value Customer,0,0,0,0,0,0
+7034,Others,Married,36,25804.0,1,8,0,1.4,Lost Customers,0,0,0,0,0,0
+9493,PhD,Single,34,76412.0,0,3,0,3.29,Medium Value Customer,1,0,0,0,1,1
+1143,Graduation,Married,42,22063.0,1,7,0,1.34,Lost Customers,0,0,0,0,0,0
+1,Graduation,Single,53,57091.0,0,5,0,3.4,Medium Value Customer,0,1,0,0,0,1
+3855,Graduation,Married,51,22419.0,0,8,0,1.34,Lost Customers,0,0,0,0,0,0
+5536,Graduation,Married,55,87771.0,1,6,0,3.3,Medium Value Customer,1,1,0,1,1,1
+5989,Others,Divorced,55,78353.0,1,8,0,4.04,High value Customer,0,0,0,0,0,0
+9499,Graduation,Married,60,93404.0,3,5,0,2.49,Low Value Customers,0,0,0,1,1,0
+6768,Graduation,Divorced,52,37859.0,3,8,0,0.84,Lost Customers,0,0,0,0,0,0
+2150,PhD,Widow,56,80995.0,1,4,0,3.49,Medium Value Customer,0,0,0,0,0,0
+6646,Graduation,Married,30,16529.0,1,6,0,0.98,Lost Customers,0,0,0,0,0,0
+4887,PhD,Divorced,38,55412.0,2,5,0,0.91,Lost Customers,0,0,0,0,0,0
+8560,Graduation,Single,22,48789.0,0,6,0,2.69,Low Value Customers,0,0,0,0,0,0
+3321,PhD,Married,47,56575.0,2,5,0,3.44,Medium Value Customer,0,0,0,0,0,0
+11003,Others,Married,34,25130.0,1,7,0,1.59,Lost Customers,0,0,0,0,0,0
+10402,Graduation,Married,47,35441.0,2,8,0,0.7,Lost Customers,0,0,0,0,0,0
+9904,Graduation,Married,58,71391.0,1,3,0,4.47,High value Customer,0,0,0,0,0,0
+6141,Master,Single,42,49494.0,1,7,0,2.38,Low Value Customers,0,0,0,0,0,0
+5687,Graduation,Divorced,34,81702.0,0,3,0,4.03,High value Customer,0,0,0,0,0,0
+10856,Others,Single,34,45889.0,1,6,0,0.83,Lost Customers,0,0,0,0,0,0
+5121,Graduation,Single,37,56628.0,1,5,0,3.53,Medium Value Customer,0,0,1,0,0,0
+4186,Graduation,Married,64,34026.0,2,5,0,1.99,Low Value Customers,0,0,0,0,0,0
+368,Graduation,Married,40,40049.0,1,5,0,2.26,Low Value Customers,0,0,0,0,0,0
+3312,Graduation,Single,26,34176.0,1,6,0,2.3,Low Value Customers,0,0,0,0,0,0
+11121,Graduation,Married,33,19419.0,1,9,0,1.82,Low Value Customers,0,0,0,0,0,0
+5332,Others,Married,54,82504.0,0,1,0,3.2,Medium Value Customer,0,0,0,0,0,0
+5848,Graduation,Married,44,81205.0,0,2,0,3.25,Medium Value Customer,0,1,1,0,1,1
+10343,Others,Single,23,61618.0,0,3,0,3.37,Medium Value Customer,0,0,0,0,0,0
+5935,Master,Single,58,55284.0,1,5,0,3.84,Medium Value Customer,0,0,0,0,0,0
+2895,Graduation,Single,51,49980.0,1,5,0,1.8,Low Value Customers,0,0,0,0,0,0
+10262,Graduation,Married,34,15072.0,2,5,0,1.67,Low Value Customers,0,0,0,0,0,0
+7848,Graduation,Single,40,49166.0,1,6,0,2.5,Low Value Customers,0,0,0,0,0,0
+9477,PhD,Married,60,65324.0,1,4,0,3.76,Medium Value Customer,0,0,0,0,0,0
+4856,Others,Married,57,82347.0,0,3,0,4.25,High value Customer,1,0,1,0,0,0
+7186,PhD,Married,48,30843.0,2,5,0,1.08,Lost Customers,0,0,1,0,0,0
+5794,PhD,Married,40,46374.0,1,8,0,3.4,Medium Value Customer,1,0,0,1,0,1
+1456,Graduation,Single,35,60474.0,1,7,0,4.75,Top Customers,0,0,0,0,0,0
+4877,Master,Married,41,38576.0,1,7,0,1.13,Lost Customers,0,0,0,0,0,0
+425,Graduation,Married,29,55357.0,2,5,0,3.62,Medium Value Customer,0,0,0,0,0,0
+3007,Graduation,Married,48,37758.0,2,8,0,1.04,Lost Customers,0,0,0,0,0,0
+1031,Others,Married,25,85710.0,0,2,0,4.63,Top Customers,0,0,0,0,1,0
+4297,Graduation,Married,45,23228.0,1,8,0,1.13,Lost Customers,0,0,0,0,0,0
+807,Master,Married,45,44602.0,2,8,0,2.95,Low Value Customers,0,0,0,0,0,0
+9553,Graduation,Married,27,7500.0,0,6,0,0.18,Lost Customers,0,0,0,0,0,0
+4271,Others,Married,25,38683.0,1,7,0,2.62,Low Value Customers,0,0,0,0,0,0
+4120,Others,Single,39,49514.0,1,7,0,2.17,Low Value Customers,0,0,0,0,0,0
+2036,PhD,Married,41,57906.0,1,4,0,3.0,Low Value Customers,0,0,0,0,0,0
+115,Master,Single,48,43456.0,1,5,0,3.22,Medium Value Customer,0,0,0,0,0,0
+4259,Master,Single,28,19485.0,2,7,0,0.29,Lost Customers,0,0,0,0,0,0
+8687,Graduation,Married,36,53172.0,1,3,0,2.6,Low Value Customers,0,0,0,0,0,0
+2447,Graduation,Married,35,30545.0,1,7,0,1.13,Lost Customers,0,0,0,0,0,0
+10140,PhD,Married,31,70123.0,0,3,0,3.01,Medium Value Customer,0,1,0,1,0,0
+9353,Graduation,Single,55,62450.0,1,3,0,2.55,Low Value Customers,0,0,0,1,0,0
+3623,Graduation,Married,38,21675.0,1,7,0,1.84,Low Value Customers,0,0,0,0,0,0
+738,Others,Single,33,42395.0,2,7,0,2.25,Low Value Customers,0,0,0,0,0,0
+7631,Master,Married,36,61346.0,1,3,0,4.03,High value Customer,0,0,0,0,0,0
+4789,Graduation,Married,61,80812.0,0,2,0,2.69,Low Value Customers,1,0,1,0,1,0
+773,Master,Divorced,43,42835.0,2,6,0,3.81,Medium Value Customer,0,0,0,0,0,0
+10602,Graduation,Married,31,39922.0,1,8,0,1.85,Low Value Customers,0,0,0,0,0,0
+1446,Master,Single,58,86424.0,0,1,0,4.75,Top Customers,0,0,0,0,0,0
+3270,Others,Married,36,17117.0,1,9,0,1.67,Low Value Customers,0,0,0,0,0,0
+8443,Graduation,Single,42,24762.0,1,8,0,1.96,Low Value Customers,0,0,1,0,0,1
+9653,Graduation,Married,39,35797.0,1,8,0,1.54,Lost Customers,0,0,0,0,0,0
+8916,Graduation,Divorced,39,36627.0,2,5,0,0.3,Lost Customers,0,0,0,0,0,0
+8017,Others,Married,33,51111.0,2,6,0,1.04,Lost Customers,0,0,0,0,0,0
+5830,PhD,Single,42,86857.0,0,2,0,3.39,Medium Value Customer,0,0,0,0,0,1
+4597,PhD,Married,44,82072.0,0,1,0,3.07,Medium Value Customer,0,0,0,0,0,0
+7023,PhD,Single,61,46231.0,3,9,0,2.19,Low Value Customers,0,0,0,0,0,0
+8086,Graduation,Married,55,42243.0,2,7,0,1.4,Lost Customers,0,0,0,0,0,0
+8825,Graduation,Married,52,51195.0,2,8,0,4.08,High value Customer,0,0,0,0,0,0
+2930,Master,Single,36,68092.0,0,5,0,3.71,Medium Value Customer,0,0,0,0,0,0
+1928,Graduation,Married,41,31814.0,1,9,0,1.11,Lost Customers,0,0,1,0,0,0
+7108,Master,Widow,49,51390.0,2,5,0,3.0,Low Value Customers,0,0,0,0,0,0
+10925,Graduation,Married,31,76630.0,0,1,0,3.84,Medium Value Customer,0,0,0,0,0,0
+9960,Others,Single,23,26868.0,1,7,0,0.5,Lost Customers,0,0,0,0,0,0
+8800,PhD,Divorced,71,48948.0,0,6,0,4.03,High value Customer,0,0,1,0,0,1
+9224,PhD,Single,42,55260.0,1,6,0,3.93,Medium Value Customer,0,0,0,0,0,0
+5519,Graduation,Married,58,64090.0,1,5,0,3.7,Medium Value Customer,0,0,0,0,0,1
+5046,Graduation,Divorced,56,78331.0,1,4,0,3.81,Medium Value Customer,0,0,0,0,0,0
+7037,PhD,Married,40,37087.0,1,6,0,2.84,Low Value Customers,0,0,0,0,0,0
+905,Graduation,Divorced,28,21846.0,1,8,0,2.1,Low Value Customers,0,0,0,0,0,0
+8624,Graduation,Married,56,81320.0,0,2,0,2.94,Low Value Customers,0,0,0,0,0,0
+8945,Graduation,Divorced,44,54137.0,1,6,0,2.05,Low Value Customers,0,0,0,0,0,0
+6445,Graduation,Married,47,66825.0,0,2,0,2.46,Low Value Customers,0,0,0,0,0,0
+2727,Graduation,Married,41,57100.0,0,3,0,2.49,Low Value Customers,0,0,0,0,0,0
+6404,Graduation,Married,45,58917.0,3,5,0,2.94,Low Value Customers,0,0,0,0,0,0
+11074,Graduation,Single,37,85072.0,0,0,0,2.69,Low Value Customers,0,0,0,0,0,0
+10150,Graduation,Single,53,86429.0,0,2,0,3.33,Medium Value Customer,1,0,0,0,0,1
+1968,Graduation,Widow,43,45684.0,1,7,0,0.61,Lost Customers,0,0,0,0,0,0
+6534,Graduation,Married,40,47889.0,1,5,0,0.7,Lost Customers,0,0,0,0,0,0
+9485,PhD,Married,28,45921.0,0,4,0,2.08,Low Value Customers,0,0,0,0,0,0
+7053,PhD,Single,48,78420.0,0,1,0,3.55,Medium Value Customer,0,0,0,0,0,0
+4654,Graduation,Married,22,75114.0,0,2,0,3.27,Medium Value Customer,0,0,0,0,0,0
+9760,PhD,Widow,51,52278.0,1,8,0,4.76,Top Customers,0,0,0,0,0,1
+1048,Master,Married,42,35641.0,1,7,0,2.17,Low Value Customers,0,0,0,0,0,1
+10619,Graduation,Single,20,95529.0,0,3,0,3.18,Medium Value Customer,0,0,0,0,1,1
+9308,Graduation,Married,60,62820.0,0,1,0,2.34,Low Value Customers,0,0,0,0,0,0
+10505,Master,Married,54,73113.0,0,2,0,2.2,Low Value Customers,0,0,0,0,0,0
+8362,PhD,Married,32,84169.0,0,3,0,3.69,Medium Value Customer,0,0,0,1,1,1
+2625,Others,Single,60,42607.0,1,3,0,2.49,Low Value Customers,0,0,0,0,0,0
+4637,PhD,Single,60,74637.0,0,3,0,3.99,Medium Value Customer,1,0,0,0,0,0
+9972,PhD,Married,59,46015.0,2,7,0,0.96,Lost Customers,0,1,1,0,0,0
+4483,Graduation,Single,21,72354.0,0,1,0,3.07,Medium Value Customer,0,0,0,0,0,0
+4487,Master,Single,45,39858.0,1,6,0,1.16,Lost Customers,0,0,0,0,0,1
+4988,PhD,Married,66,34469.0,2,4,0,1.64,Low Value Customers,0,0,0,0,0,0
+8931,Graduation,Married,28,83033.0,1,5,0,4.05,High value Customer,1,0,0,0,0,0
+5871,Master,Married,35,24401.0,0,8,0,2.27,Low Value Customers,0,0,0,0,0,0
+2008,Graduation,Married,36,77583.0,0,2,0,2.87,Low Value Customers,1,0,0,0,0,0
+3139,Others,Single,32,74116.0,0,2,0,3.17,Medium Value Customer,0,0,0,1,0,0
+10037,Graduation,Single,21,74293.0,0,2,0,2.51,Low Value Customers,0,0,0,0,0,0
+10673,PhD,Married,38,68397.0,1,3,0,3.89,Medium Value Customer,0,0,0,0,0,0
+5303,PhD,Married,40,79632.0,0,2,0,3.44,Medium Value Customer,0,0,0,0,0,0
+538,Graduation,Single,25,46107.0,1,3,0,1.08,Lost Customers,0,0,0,0,0,0
+7922,PhD,Single,63,64950.0,1,7,0,4.32,High value Customer,0,0,0,1,0,0
+5692,Others,Married,25,25443.0,1,8,0,0.53,Lost Customers,0,0,0,0,0,0
+4843,Graduation,Single,62,75127.0,0,1,0,2.88,Low Value Customers,0,0,0,0,0,0
+6383,PhD,Married,43,32892.0,1,8,0,1.31,Lost Customers,0,0,0,0,0,0
+1628,Graduation,Married,43,71796.0,0,4,0,2.81,Low Value Customers,0,0,0,0,0,0
+1204,PhD,Married,44,67536.0,1,8,0,4.59,Top Customers,1,0,0,0,0,0
+3673,Graduation,Single,43,55239.0,1,5,0,4.22,High value Customer,0,0,0,0,0,0
+760,PhD,Divorced,39,60554.0,1,6,0,4.23,High value Customer,0,0,0,0,0,0
+8957,Others,Single,62,64831.0,2,6,0,3.73,Medium Value Customer,0,0,0,0,0,0
+4128,PhD,Married,52,56067.0,1,5,0,3.38,Medium Value Customer,0,0,0,0,0,0
+6810,Graduation,Divorced,31,82025.0,0,1,0,1.95,Low Value Customers,0,0,0,0,1,1
+5386,Graduation,Married,61,94384.0,0,2,0,2.94,Low Value Customers,1,0,0,1,1,1
+8700,Others,Single,28,14906.0,0,7,0,1.43,Lost Customers,0,0,0,0,0,0
+3202,PhD,Married,27,51563.0,0,8,0,3.12,Medium Value Customer,0,0,0,1,1,0
+1328,Others,Married,32,57937.0,1,3,0,3.33,Medium Value Customer,0,0,0,0,0,0
+8405,Graduation,Divorced,35,68274.0,2,3,0,2.0,Low Value Customers,0,0,0,0,0,0
+6515,Graduation,Married,37,39771.0,1,4,0,0.71,Lost Customers,0,0,0,0,0,0
+2882,Others,Divorced,39,67893.0,1,8,0,2.77,Low Value Customers,0,0,0,0,0,0
+7574,PhD,Married,35,27922.0,1,4,0,0.8,Lost Customers,0,0,0,0,0,0
+6387,PhD,Married,38,52190.0,2,5,0,1.78,Low Value Customers,0,0,1,0,0,0
+5320,Master,Divorced,41,44051.0,2,6,0,2.37,Low Value Customers,0,0,0,0,0,1
+5048,PhD,Single,43,42767.0,2,8,0,1.26,Lost Customers,0,0,0,0,0,0
+8146,Master,Married,38,46106.0,2,6,0,0.52,Lost Customers,0,0,0,0,0,0
+10031,PhD,Married,38,16927.0,2,8,0,2.15,Low Value Customers,0,0,0,0,0,0
+5748,Graduation,Married,49,59754.0,1,5,0,2.29,Low Value Customers,0,0,0,0,0,1
+2134,Graduation,Single,62,53700.0,1,5,0,3.41,Medium Value Customer,0,0,0,0,0,0
+1523,Graduation,Married,41,59041.0,2,5,0,1.7,Low Value Customers,0,0,0,0,0,0
+9665,PhD,Divorced,57,54237.0,1,6,0,2.66,Low Value Customers,0,0,0,0,0,0
+4640,Graduation,Divorced,47,70647.0,1,2,0,4.18,High value Customer,0,0,0,0,0,0
+3635,PhD,Single,52,52597.0,1,5,0,3.24,Medium Value Customer,0,0,0,0,0,0
+3547,Master,Married,45,41021.0,1,6,0,1.57,Lost Customers,0,0,0,0,0,1
+2456,PhD,Married,39,40233.0,1,6,0,1.99,Low Value Customers,0,0,0,0,0,0
+5633,Graduation,Married,34,50183.0,2,5,0,2.87,Low Value Customers,0,0,0,0,0,0
+7801,Graduation,Married,55,54753.0,1,4,0,3.28,Medium Value Customer,0,0,0,0,0,0
+10489,Graduation,Married,41,92955.0,0,2,0,4.02,High value Customer,1,0,0,0,1,1
+7011,Graduation,Married,41,33471.0,1,7,0,1.9,Low Value Customers,0,0,0,0,0,0
+2620,PhD,Married,40,34596.0,1,8,0,0.53,Lost Customers,0,0,0,0,0,1
+3933,Graduation,Married,34,44010.0,1,9,0,4.08,High value Customer,0,0,0,0,0,0
+10981,Graduation,Married,26,84219.0,0,1,0,3.2,Medium Value Customer,0,0,0,0,0,0
+1734,PhD,Married,46,40706.0,3,7,0,2.11,Low Value Customers,0,0,0,0,0,0
+10995,Others,Married,26,15716.0,1,8,1,2.19,Low Value Customers,0,0,0,0,0,0
+6357,Others,Divorced,55,59052.0,1,5,0,3.18,Medium Value Customer,0,0,0,0,0,0
+9209,Master,Married,43,80573.0,0,2,0,3.78,Medium Value Customer,0,0,0,0,0,0
+10286,Graduation,Married,52,83715.0,0,0,0,4.41,High value Customer,0,0,0,0,0,0
+2611,Master,Married,55,82576.0,0,1,0,3.07,Medium Value Customer,0,0,0,0,1,0
+1600,Master,Married,49,56962.0,3,7,0,3.48,Medium Value Customer,0,0,0,0,0,0
+3308,Graduation,Married,62,35704.0,2,4,0,1.67,Low Value Customers,0,0,0,0,0,0
+5407,Graduation,Married,60,53103.0,1,7,0,4.32,High value Customer,0,0,1,0,0,0
+2166,Others,Widow,54,46779.0,2,4,0,0.47,Lost Customers,0,0,0,0,0,0
+3955,Graduation,Divorced,49,4861.0,0,14,0,0.6,Lost Customers,0,0,0,0,0,0
+6634,Master,Divorced,35,33462.0,1,7,0,0.82,Lost Customers,0,0,0,0,0,0
+3056,Graduation,Divorced,36,63693.0,1,6,0,4.42,High value Customer,0,0,0,0,0,0
+5718,Graduation,Married,64,80763.0,0,3,0,4.16,High value Customer,1,0,0,0,1,1
+6872,PhD,Married,40,65352.0,1,4,0,2.69,Low Value Customers,0,0,0,0,0,0
+8164,PhD,Married,36,82170.0,0,2,0,3.47,Medium Value Customer,0,0,0,0,0,0
+4580,Graduation,Married,45,75759.0,0,5,0,4.33,High value Customer,1,0,1,0,1,1
+9305,Others,Single,38,79689.0,0,2,0,4.28,High value Customer,0,0,0,0,0,0
+453,PhD,Widow,58,35340.0,2,5,0,1.66,Low Value Customers,0,0,0,0,0,0
+8545,Graduation,Divorced,60,85683.0,0,1,0,3.17,Medium Value Customer,1,1,0,1,1,1
+9850,Others,Married,42,24884.0,1,7,0,0.64,Lost Customers,0,0,0,0,0,0
+7378,Master,Married,33,42021.0,1,9,0,3.86,Medium Value Customer,0,0,1,0,0,0
+7646,Graduation,Single,25,64449.0,1,4,0,3.9,Medium Value Customer,0,0,0,0,0,0
+1640,Graduation,Divorced,60,64587.0,2,3,0,1.53,Lost Customers,0,0,0,0,0,0
+5184,Graduation,Single,19,34824.0,0,6,0,0.4,Lost Customers,0,0,0,0,0,0
+8492,Graduation,Married,36,75437.0,0,6,0,4.1,High value Customer,1,0,0,0,0,0
+11188,Graduation,Married,57,26091.0,2,5,0,1.44,Lost Customers,0,0,0,0,0,0
+1212,Graduation,Married,41,52845.0,1,6,0,4.49,High value Customer,0,0,1,0,0,0
+9097,Graduation,Divorced,58,46086.0,1,4,0,2.75,Low Value Customers,0,0,0,0,0,0
+10473,PhD,Widow,58,78028.0,1,7,0,3.47,Medium Value Customer,0,0,0,1,1,1
+7962,PhD,Single,27,95169.0,0,1,0,2.51,Low Value Customers,1,0,0,0,1,1
+9984,Others,Married,33,56337.0,2,8,0,3.93,Medium Value Customer,1,0,1,0,0,1
+5527,Graduation,Married,27,22434.0,1,8,0,1.47,Lost Customers,0,0,0,0,0,0
+6374,PhD,Married,60,36930.0,1,8,0,2.64,Low Value Customers,0,0,0,0,0,0
+7453,Graduation,Single,60,36130.0,1,4,0,3.6,Medium Value Customer,0,0,1,0,0,1
+8952,Master,Married,61,65569.0,1,3,0,3.57,Medium Value Customer,0,0,0,0,0,0
+241,Graduation,Married,62,83844.0,0,1,0,3.32,Medium Value Customer,0,0,0,0,1,0
+8975,Graduation,Married,46,19514.0,2,8,0,1.9,Low Value Customers,0,0,1,0,0,0
+6119,PhD,Single,51,36736.0,2,6,0,0.5,Lost Customers,0,0,0,0,0,0
+5236,Graduation,Married,35,77568.0,1,5,0,3.71,Medium Value Customer,1,0,0,1,1,0
+5723,PhD,Married,38,49187.0,1,2,0,1.42,Lost Customers,0,0,0,0,0,0
+1710,Graduation,Single,36,30168.0,1,9,0,3.02,Medium Value Customer,0,0,0,0,0,0
+1970,Master,Married,46,34053.0,1,8,0,1.55,Lost Customers,0,0,0,0,0,0
+5313,Master,Married,43,38196.0,2,5,0,1.93,Low Value Customers,0,0,0,0,0,0
+10634,Master,Married,63,59412.0,0,3,0,2.42,Low Value Customers,0,0,0,0,0,0
+7010,Others,Married,49,70924.0,0,3,0,3.45,Medium Value Customer,0,0,0,0,1,0
+8562,Graduation,Married,45,54165.0,0,2,0,1.85,Low Value Customers,0,0,0,0,0,0
+3158,Graduation,Married,41,32300.0,1,8,0,1.14,Lost Customers,0,0,0,0,0,0
+4436,Graduation,Single,38,20180.0,0,7,0,1.69,Low Value Customers,0,0,0,0,0,0
+5287,Graduation,Married,41,34961.0,1,7,0,1.67,Low Value Customers,0,0,0,0,0,0
+2445,PhD,Married,40,28440.0,1,8,0,0.75,Lost Customers,0,0,0,0,0,0
+6059,PhD,Married,61,64504.0,3,7,0,3.93,Medium Value Customer,0,0,0,0,0,1
+4550,Master,Married,48,33564.0,1,5,0,1.02,Lost Customers,0,0,0,0,0,0
+4240,Graduation,Married,36,17345.0,1,8,0,1.07,Lost Customers,0,0,0,0,0,0
+8911,PhD,Married,47,56320.0,1,4,0,3.85,Medium Value Customer,0,0,0,0,0,0
+3706,Graduation,Single,36,28647.0,1,7,0,1.26,Lost Customers,0,0,1,0,0,1
+3628,Others,Single,27,15038.0,1,9,0,0.96,Lost Customers,0,0,0,0,0,0
+10175,PhD,Divorced,56,32173.0,1,4,0,1.15,Lost Customers,0,0,0,0,0,0
+8985,Others,Married,50,68316.0,1,6,0,4.56,Top Customers,0,0,0,0,0,0
+5204,Graduation,Married,43,74538.0,0,3,0,3.96,Medium Value Customer,0,0,0,0,1,1
+9220,Graduation,Single,43,91700.0,0,3,0,3.32,Medium Value Customer,0,0,0,0,0,1
+9888,Graduation,Married,45,68695.0,0,2,0,2.99,Low Value Customers,0,0,0,0,0,0
+5263,Others,Married,37,31056.0,1,8,0,0.41,Lost Customers,0,0,0,0,0,0
+1020,Graduation,Married,41,79593.0,0,2,0,3.05,Medium Value Customer,0,0,0,0,1,0
+9503,Graduation,Single,34,28071.0,0,8,0,2.14,Low Value Customers,0,0,0,0,0,0
+10613,PhD,Married,56,37334.0,2,4,0,2.06,Low Value Customers,0,0,0,0,0,0
+67,Master,Single,42,46423.0,2,7,0,2.03,Low Value Customers,0,0,0,0,0,0
+6019,PhD,Married,43,37126.0,1,6,0,1.34,Lost Customers,0,0,1,0,0,1
+5863,Graduation,Married,61,47703.0,1,5,0,3.22,Medium Value Customer,0,0,0,0,0,0
+3717,Graduation,Married,55,61180.0,1,3,0,2.88,Low Value Customers,0,0,1,0,0,0
+6730,Graduation,Married,60,38998.0,2,8,1,1.2,Lost Customers,0,0,0,0,0,0
+10749,Graduation,Single,23,8028.0,0,19,0,2.54,Low Value Customers,0,0,0,0,0,0
+4998,Graduation,Married,52,76081.0,0,2,0,2.08,Low Value Customers,1,0,0,0,0,0
+6287,Graduation,Married,28,34728.0,1,6,0,1.13,Lost Customers,0,0,0,0,0,1
+5985,Master,Single,49,33168.0,1,7,0,2.25,Low Value Customers,0,0,0,0,0,0
+4754,Master,Married,48,33585.0,1,4,0,0.98,Lost Customers,0,0,0,0,0,0
+4002,PhD,Married,54,77037.0,1,3,0,4.75,Top Customers,0,0,0,0,0,0
+8870,Graduation,Married,30,35196.0,1,8,0,2.89,Low Value Customers,0,0,0,0,0,1
+966,Graduation,Married,48,44529.0,1,5,0,3.8,Medium Value Customer,0,0,0,1,0,0
+4767,Others,Married,49,70924.0,0,3,0,3.45,Medium Value Customer,0,0,0,0,1,0
+9725,PhD,Married,48,28764.0,2,8,0,0.77,Lost Customers,0,0,1,0,0,0
+4475,PhD,Married,65,69098.0,0,5,0,3.92,Medium Value Customer,0,0,0,0,0,0
+5740,Others,Divorced,44,25959.0,2,6,0,1.66,Low Value Customers,0,0,0,0,0,1
+5731,Master,Married,31,27100.0,1,7,0,0.67,Lost Customers,0,0,0,0,0,0
+7290,Graduation,Single,29,70596.0,0,2,0,3.43,Medium Value Customer,0,0,0,0,0,0
+3846,Graduation,Married,40,42557.0,1,8,0,2.11,Low Value Customers,0,0,0,0,0,0
+8104,PhD,Married,63,53312.0,0,7,0,2.27,Low Value Customers,0,0,0,0,0,0
+4507,Graduation,Single,62,72228.0,0,3,0,3.46,Medium Value Customer,0,0,0,0,0,0
+11013,Graduation,Married,27,67605.0,0,1,0,2.58,Low Value Customers,0,0,0,0,0,0
+4491,Master,Married,65,62845.0,2,8,0,4.82,Top Customers,0,0,0,1,0,0
+3759,Graduation,Married,56,65196.0,2,5,0,4.41,High value Customer,0,0,1,0,0,0
+1162,PhD,Single,27,42000.0,0,5,0,3.59,Medium Value Customer,0,0,0,0,0,1
+2055,PhD,Divorced,41,35860.0,2,5,0,1.12,Lost Customers,0,0,1,0,0,0
+10766,PhD,Married,50,65526.0,1,2,0,3.05,Medium Value Customer,0,0,0,0,0,0
+4415,Graduation,Married,53,16860.0,2,7,0,1.75,Low Value Customers,0,0,0,0,0,0
+3005,Graduation,Single,22,83528.0,0,1,0,4.24,High value Customer,1,0,1,0,0,1
+2223,Others,Divorced,49,64176.0,1,6,0,4.59,Top Customers,0,0,0,0,0,0
+4817,Graduation,Divorced,58,22304.0,0,8,0,0.21,Lost Customers,0,0,0,0,0,0
+2875,Graduation,Married,36,67023.0,0,2,1,3.72,Medium Value Customer,0,0,0,0,0,0
+10536,PhD,Married,43,32892.0,1,8,0,1.31,Lost Customers,0,0,0,0,0,0
+11112,Graduation,Married,48,70713.0,1,3,0,4.37,High value Customer,0,0,0,0,0,0
+3807,Graduation,Married,59,59925.0,1,6,0,3.66,Medium Value Customer,0,0,0,0,0,0
+9197,Graduation,Married,61,39722.0,1,5,0,0.97,Lost Customers,0,0,0,0,0,0
+10832,Graduation,Married,56,46610.0,0,6,0,2.69,Low Value Customers,0,0,0,0,0,0
+6421,Graduation,Married,53,88347.0,0,1,0,3.69,Medium Value Customer,1,0,0,0,0,0
+4207,PhD,Married,33,87171.0,0,2,0,4.34,High value Customer,0,0,1,0,1,0
+577,Others,Married,38,26907.0,2,7,0,1.33,Lost Customers,0,0,0,0,0,0
+10855,Master,Single,46,50014.0,1,5,0,2.78,Low Value Customers,0,0,0,0,0,0
+3081,PhD,Married,36,41014.0,1,7,0,0.4,Lost Customers,0,0,0,0,0,0
+3535,Graduation,Single,49,66294.0,0,2,0,2.12,Low Value Customers,0,0,0,0,0,0
+247,Graduation,Married,43,36715.0,1,9,0,3.45,Medium Value Customer,0,0,0,0,0,1
+8707,Graduation,Married,58,79456.0,0,3,0,2.92,Low Value Customers,0,0,0,0,0,1
+9523,Graduation,Married,32,40479.0,1,4,0,0.17,Lost Customers,0,0,0,0,0,0
+6072,Master,Single,44,75345.0,0,3,0,3.64,Medium Value Customer,1,0,0,0,0,1
+6295,Graduation,Married,37,54233.0,1,8,0,4.33,High value Customer,0,0,0,0,0,0
+10914,Graduation,Single,44,24163.0,2,4,0,1.38,Lost Customers,0,0,0,0,0,0
+1509,PhD,Married,56,84460.0,0,5,0,3.52,Medium Value Customer,1,1,0,1,1,1
+5577,Graduation,Married,31,43776.0,1,6,0,0.31,Lost Customers,0,0,0,0,0,0
+7348,PhD,Single,56,71691.0,0,2,0,3.22,Medium Value Customer,0,0,0,0,0,1
+1127,PhD,Married,41,85844.0,0,2,0,3.29,Medium Value Customer,0,0,0,0,1,0
+1833,PhD,Single,40,39190.0,1,5,0,1.4,Lost Customers,0,0,0,0,0,0
+4944,Graduation,Married,55,71367.0,0,2,0,3.04,Medium Value Customer,0,0,0,0,0,0
+9080,PhD,Single,42,38578.0,2,8,0,2.06,Low Value Customers,0,0,0,0,0,0
+6466,PhD,Married,49,57236.0,2,3,0,2.09,Low Value Customers,0,0,0,0,0,0
+9964,Graduation,Single,35,61825.0,1,4,0,2.42,Low Value Customers,0,0,0,0,0,0
+4790,Graduation,Divorced,56,79803.0,1,1,0,2.22,Low Value Customers,0,0,0,0,0,0
+10245,Others,Single,28,80910.0,0,1,0,2.31,Low Value Customers,0,0,0,0,0,0
+1109,Master,Married,32,27590.0,1,7,0,0.6,Lost Customers,0,0,0,0,0,0
+6001,Graduation,Married,35,56775.0,1,5,0,4.07,High value Customer,0,0,0,0,0,0
+5538,Graduation,Divorced,39,83829.0,0,1,0,2.63,Low Value Customers,1,0,1,0,1,1
+10552,Others,Married,35,54210.0,1,5,0,2.59,Low Value Customers,0,0,0,0,0,0
+1545,Graduation,Married,28,38508.0,1,8,0,3.04,Medium Value Customer,0,0,0,0,0,0
+7409,Graduation,Married,44,53187.0,1,5,0,2.13,Low Value Customers,0,0,0,0,0,0
+4444,Graduation,Married,42,30023.0,1,8,0,1.19,Lost Customers,0,0,0,0,0,0
+146,PhD,Single,54,76045.0,0,2,0,3.35,Medium Value Customer,1,0,0,0,0,0
+6271,PhD,Married,62,50870.0,1,5,0,1.3,Lost Customers,0,0,0,0,0,0
+10065,Others,Married,44,15315.0,0,5,0,1.69,Low Value Customers,0,0,0,0,0,0
+4741,Others,Married,40,65463.0,1,5,0,3.44,Medium Value Customer,0,0,0,1,0,0
+246,Graduation,Married,49,66480.0,2,4,0,3.04,Medium Value Customer,0,0,0,0,0,0
+375,Graduation,Divorced,60,76773.0,0,1,0,2.42,Low Value Customers,0,0,0,0,0,0
+1524,Others,Single,31,81698.0,0,5,0,3.01,Medium Value Customer,1,0,0,0,0,1
+10022,PhD,Single,41,54466.0,2,5,0,0.3,Lost Customers,0,0,0,0,0,0
+7451,Master,Single,54,98777.0,0,1,0,3.4,Medium Value Customer,0,0,0,1,0,0
+11010,PhD,Single,30,16269.0,1,8,0,1.51,Lost Customers,0,0,0,0,0,0
+4356,Graduation,Married,43,71819.0,1,6,0,2.2,Low Value Customers,0,0,0,1,1,0
+3885,PhD,Married,31,33569.0,1,8,0,1.07,Lost Customers,0,0,1,0,0,1
+1175,Master,Married,31,36262.0,0,6,0,2.34,Low Value Customers,0,0,1,0,0,1
+880,Others,Married,48,22634.0,0,8,0,1.06,Lost Customers,0,0,0,0,0,0
+2320,Others,Married,36,47025.0,1,9,0,3.55,Medium Value Customer,0,0,0,0,0,0
+850,Graduation,Single,46,70566.0,1,3,0,4.08,High value Customer,0,0,0,0,0,0
+4713,PhD,Married,35,31605.0,1,7,0,1.96,Low Value Customers,0,0,0,0,0,0
+675,Master,Divorced,41,52034.0,2,7,0,2.51,Low Value Customers,0,0,0,0,0,0
+5025,Graduation,Single,35,48526.0,1,3,0,1.65,Low Value Customers,0,0,0,0,0,0
+2308,Graduation,Married,60,46734.0,1,7,0,2.42,Low Value Customers,0,0,0,0,0,0
+5995,Graduation,Divorced,52,39552.0,2,8,0,3.35,Medium Value Customer,0,0,0,0,0,1
+6749,Graduation,Single,48,86358.0,2,8,0,2.82,Low Value Customers,0,0,0,0,0,0
+1010,Graduation,Married,37,46931.0,3,3,0,0.95,Lost Customers,0,0,0,0,0,0
+8977,Others,Single,29,16581.0,0,4,0,0.51,Lost Customers,0,0,0,0,0,0
+4756,Others,Divorced,62,63998.0,0,4,0,4.23,High value Customer,0,0,0,0,0,1
+3412,Master,Married,63,67381.0,1,7,0,2.71,Low Value Customers,0,0,0,1,0,0
+606,Graduation,Single,47,25930.0,2,7,0,0.23,Lost Customers,0,0,0,0,0,0
+5961,Graduation,Married,36,42693.0,1,5,0,0.93,Lost Customers,0,0,0,0,0,0
+2975,Graduation,Married,38,85606.0,1,3,0,3.75,Medium Value Customer,1,0,0,0,0,0
+2894,Graduation,Single,29,72903.0,0,4,0,3.38,Medium Value Customer,1,0,0,1,1,1
+7613,Others,Married,40,49669.0,1,6,0,1.99,Low Value Customers,0,0,0,0,0,0
+10542,PhD,Married,46,36778.0,2,9,0,1.6,Lost Customers,0,0,0,0,0,0
+8015,PhD,Divorced,52,85696.0,0,1,0,3.09,Medium Value Customer,0,0,0,0,0,1
+10617,Master,Divorced,25,10979.0,0,5,0,1.63,Low Value Customers,0,0,0,0,0,0
+11166,Graduation,Married,53,49678.0,1,7,0,2.11,Low Value Customers,0,0,0,0,0,0
+849,Master,Married,61,56129.0,1,4,0,3.63,Medium Value Customer,0,0,0,0,0,0
+523,Graduation,Married,25,37155.0,1,5,0,1.28,Lost Customers,0,0,0,0,0,0
+4066,Others,Divorced,36,21282.0,1,6,0,1.09,Lost Customers,0,0,0,0,0,0
+8414,PhD,Single,52,33419.0,1,7,0,1.32,Lost Customers,0,0,0,0,0,0
+819,Graduation,Widow,69,63285.0,0,3,0,3.91,Medium Value Customer,0,0,0,0,0,0
+4961,Master,Married,40,21255.0,1,4,0,1.97,Low Value Customers,0,0,0,0,0,0
+749,Graduation,Married,33,42162.0,1,6,0,1.84,Low Value Customers,0,0,1,0,0,1
+5430,Graduation,Married,58,54450.0,2,8,0,4.94,Top Customers,0,0,0,0,0,0
+7755,PhD,Married,60,57744.0,1,8,0,2.33,Low Value Customers,0,0,0,0,0,0
+10525,Graduation,Single,28,26576.0,1,9,0,0.59,Lost Customers,0,0,1,0,0,1
+1453,PhD,Widow,71,57513.0,0,6,0,4.32,High value Customer,0,0,0,0,0,0
+8310,Graduation,Married,50,68142.0,1,6,0,3.7,Medium Value Customer,0,0,0,0,0,0
+10710,Graduation,Married,35,7500.0,1,8,0,0.43,Lost Customers,0,0,0,0,0,0
+5031,Graduation,Married,40,83145.0,0,2,0,4.56,Top Customers,0,0,0,0,1,1
+2613,Master,Married,54,54197.0,1,1,0,2.4,Low Value Customers,0,0,0,0,0,0
+213,PhD,Single,51,23091.0,2,7,0,1.51,Lost Customers,0,0,0,0,0,0
+967,Graduation,Married,38,46049.0,2,7,0,4.59,Top Customers,0,0,0,0,0,1
+1077,Graduation,Married,40,56715.0,0,4,0,2.45,Low Value Customers,0,0,0,0,0,0
+7959,Graduation,Married,53,79410.0,0,1,0,2.25,Low Value Customers,0,0,0,0,0,0
+640,Graduation,Married,63,57304.0,1,5,0,4.08,High value Customer,0,0,0,0,0,0
+4252,Graduation,Married,49,44375.0,1,5,0,1.97,Low Value Customers,0,0,0,0,0,0
+8432,Graduation,Married,58,54450.0,2,8,0,4.94,Top Customers,0,0,0,0,0,0
+6218,Graduation,Married,49,59594.0,1,7,0,2.66,Low Value Customers,0,0,0,1,0,0
+6905,Graduation,Married,20,80685.0,0,2,0,3.52,Medium Value Customer,0,0,0,0,0,0
+5922,PhD,Married,40,40344.0,1,7,0,2.16,Low Value Customers,0,0,0,0,0,0
+3598,Graduation,Married,42,62710.0,1,4,0,3.72,Medium Value Customer,0,0,0,0,0,0
+6116,Others,Married,46,48985.0,1,3,0,1.3,Lost Customers,0,0,0,0,0,0
+6263,Graduation,Married,46,35322.0,3,8,0,1.82,Low Value Customers,0,0,0,0,0,0
+10486,Graduation,Married,66,77142.0,0,2,0,2.81,Low Value Customers,0,0,0,0,0,0
+2410,Graduation,Single,45,81657.0,0,1,0,2.49,Low Value Customers,0,0,0,0,0,0
+193,Others,Married,18,14421.0,0,5,0,0.28,Lost Customers,0,0,1,0,0,0
+3363,Others,Married,40,20130.0,0,8,0,0.41,Lost Customers,0,0,0,0,0,0
+8278,PhD,Married,24,74214.0,0,5,0,2.99,Low Value Customers,0,0,0,0,0,0
+10660,Master,Married,57,66726.0,2,7,0,2.76,Low Value Customers,0,0,0,1,0,0
+8686,Others,Married,35,23724.0,1,8,0,1.17,Lost Customers,0,0,0,0,0,0
+1604,Master,Married,54,47353.0,1,5,0,1.93,Low Value Customers,0,0,0,0,0,0
+5907,Master,Married,62,33444.0,2,8,0,0.71,Lost Customers,0,0,0,0,0,0
+10669,Graduation,Married,33,54386.0,1,3,0,3.16,Medium Value Customer,0,0,0,0,0,0
+2918,Graduation,Divorced,33,28510.0,2,5,0,1.54,Lost Customers,0,0,0,0,0,0
+5735,Master,Single,23,90638.0,0,1,0,3.18,Medium Value Customer,0,0,0,0,1,0
+359,Graduation,Married,64,48070.0,1,7,1,3.32,Medium Value Customer,0,0,0,0,0,0
+8387,Graduation,Married,57,43140.0,1,6,0,1.88,Low Value Customers,0,0,0,0,0,0
+1829,PhD,Divorced,53,54959.0,1,7,0,3.52,Medium Value Customer,0,0,0,1,0,1
+3839,Others,Single,56,15056.0,2,5,0,1.95,Low Value Customers,0,0,0,0,0,0
+9392,Graduation,Single,43,26954.0,1,7,0,0.76,Lost Customers,0,0,0,0,0,0
+2292,Graduation,Single,29,22327.0,1,5,0,0.44,Lost Customers,0,0,0,0,0,0
+10466,Graduation,Married,49,44393.0,2,4,0,1.01,Lost Customers,0,0,0,0,0,0
+9855,PhD,Single,62,62000.0,1,4,0,4.48,High value Customer,1,0,0,0,0,0
+4088,PhD,Married,52,31497.0,1,8,0,2.09,Low Value Customers,0,0,0,0,0,0
+5231,Others,Married,40,45894.0,2,5,0,1.03,Lost Customers,0,0,0,0,0,0
+590,Master,Divorced,44,78579.0,0,3,0,2.75,Low Value Customers,0,0,0,0,0,1
+8732,Master,Widow,45,67369.0,1,4,0,3.93,Medium Value Customer,0,0,0,1,1,1
+2315,Graduation,Divorced,54,58401.0,1,4,0,0.99,Lost Customers,0,0,0,0,0,0
+3515,Graduation,Single,62,62307.0,1,5,0,1.37,Lost Customers,0,0,0,0,0,0
+2245,Master,Married,45,43641.0,2,6,0,1.88,Low Value Customers,0,0,0,0,0,0
+6283,Master,Divorced,46,63841.0,1,6,0,3.63,Medium Value Customer,0,0,0,0,0,0
+2246,Others,Married,49,46891.0,1,4,0,1.21,Lost Customers,0,0,0,0,0,0
+6606,Master,Married,45,70091.0,1,8,0,3.49,Medium Value Customer,0,0,0,1,0,0
+5545,PhD,Married,42,78075.0,0,1,0,2.18,Low Value Customers,0,0,0,0,0,0
+7342,Others,Widow,53,59184.0,1,5,0,4.72,Top Customers,0,0,0,0,0,0
+837,Graduation,Married,37,54809.0,2,4,0,2.52,Low Value Customers,0,0,0,0,0,0
+9500,Graduation,Married,55,58113.0,1,7,1,3.62,Medium Value Customer,0,0,0,0,0,0
+3602,Master,Married,56,51412.0,1,4,0,2.08,Low Value Customers,0,0,0,0,0,0
+234,Graduation,Divorced,35,15287.0,1,7,0,0.95,Lost Customers,0,0,1,0,0,1
+2995,Master,Married,57,66636.0,0,1,0,2.74,Low Value Customers,0,0,0,0,0,0
+1118,Master,Married,58,50965.0,1,8,0,3.46,Medium Value Customer,0,0,1,0,0,0
+7789,PhD,Married,49,84618.0,0,2,0,3.95,Medium Value Customer,0,0,0,0,1,0
+3068,Graduation,Married,24,18351.0,0,7,0,1.4,Lost Customers,0,0,0,0,0,0
+8955,PhD,Married,57,40451.0,2,5,0,0.74,Lost Customers,0,0,1,0,0,0
+945,Graduation,Married,49,36317.0,1,7,0,1.68,Low Value Customers,0,0,0,0,0,0
+5644,Graduation,Married,57,42213.0,1,7,0,2.12,Low Value Customers,0,0,0,1,0,0
+7192,Graduation,Married,59,65748.0,1,1,1,2.96,Low Value Customers,0,0,0,0,0,0
+2324,Graduation,Married,42,77044.0,1,4,0,4.85,Top Customers,0,0,1,0,0,0
+697,Graduation,Married,45,74918.0,0,3,0,3.35,Medium Value Customer,0,0,0,0,1,0
+3439,Graduation,Married,42,56721.0,2,6,0,2.36,Low Value Customers,0,0,0,0,0,0
+1506,Graduation,Single,39,42160.0,2,6,0,2.2,Low Value Customers,0,0,0,0,0,1
+232,Graduation,Single,49,61559.0,1,3,0,3.16,Medium Value Customer,0,0,0,0,0,0
+8876,PhD,Married,51,33629.0,2,9,0,2.26,Low Value Customers,0,0,0,0,0,0
+4500,PhD,Married,23,68682.0,0,2,0,4.0,Medium Value Customer,0,0,0,0,0,0
+9739,Graduation,Single,51,34377.0,1,7,0,1.48,Lost Customers,0,0,0,0,0,0
+10395,Others,Single,28,8940.0,1,8,0,2.06,Low Value Customers,0,0,0,0,0,0
+1176,Graduation,Married,41,26228.0,1,8,0,0.52,Lost Customers,0,0,0,0,0,0
+1627,Others,Divorced,57,77297.0,0,4,0,3.48,Medium Value Customer,1,0,0,0,0,0
+938,Graduation,Married,33,40211.0,2,8,0,1.43,Lost Customers,0,0,1,0,0,0
+2740,PhD,Widow,56,33438.0,2,5,0,1.78,Low Value Customers,0,0,0,0,0,0
+257,PhD,Married,55,75032.0,1,3,0,3.2,Medium Value Customer,0,0,0,0,0,0
+4058,PhD,Single,59,61284.0,0,6,0,3.55,Medium Value Customer,0,0,0,1,0,0
+7736,Graduation,Married,28,22518.0,1,5,0,1.39,Lost Customers,0,0,1,0,0,1
+8210,Master,Married,39,54730.0,1,4,0,2.92,Low Value Customers,0,0,0,0,0,0
+833,Master,Married,59,38452.0,2,7,0,1.61,Low Value Customers,0,0,0,0,0,0
+6230,Graduation,Divorced,43,44421.0,2,8,0,2.32,Low Value Customers,0,0,0,0,0,0
+7325,PhD,Married,28,38197.0,1,5,0,0.5,Lost Customers,0,0,0,0,0,0
+1307,Graduation,Divorced,36,41986.0,1,4,0,2.14,Low Value Customers,0,0,0,0,0,0
+1502,Graduation,Married,31,28427.0,1,8,0,1.16,Lost Customers,0,0,0,0,0,0
+6211,PhD,Married,38,37395.0,1,6,0,0.8,Lost Customers,0,0,0,0,0,0
+843,Graduation,Married,43,64722.0,1,6,0,4.19,High value Customer,0,0,0,0,0,0
+4174,Master,Married,58,55249.0,1,3,0,1.28,Lost Customers,0,0,0,0,0,0
+9757,Graduation,Married,42,84906.0,0,2,0,3.69,Medium Value Customer,0,1,0,1,1,0
+6918,Graduation,Married,25,28691.0,1,8,0,0.72,Lost Customers,0,0,0,0,0,0
+286,Graduation,Single,62,44213.0,2,6,0,2.16,Low Value Customers,0,0,0,0,0,0
+11086,Others,Single,30,25707.0,1,7,0,1.02,Lost Customers,0,0,0,0,0,0
+1921,PhD,Married,47,59062.0,3,4,0,1.1,Lost Customers,0,0,0,0,0,0
+4138,Graduation,Single,52,76624.0,1,1,0,3.78,Medium Value Customer,0,0,1,0,0,0
+7718,Master,Married,67,66000.0,0,1,0,1.98,Low Value Customers,0,0,0,0,0,0
+1291,PhD,Married,36,27683.0,1,8,0,2.33,Low Value Customers,0,0,0,0,0,0
+6862,Graduation,Divorced,43,1730.0,0,20,0,2.35,Low Value Customers,0,0,0,0,0,0
+4136,Others,Single,22,7500.0,1,9,0,1.92,Low Value Customers,0,0,0,0,0,0
+803,Graduation,Married,46,40521.0,2,5,0,0.27,Lost Customers,0,0,0,0,0,0
+4298,PhD,Married,41,20427.0,1,8,0,0.42,Lost Customers,0,0,0,0,0,0
+10833,Graduation,Married,39,65106.0,1,6,0,4.35,High value Customer,0,0,0,1,0,0
+9606,PhD,Married,49,69969.0,0,3,0,2.15,Low Value Customers,1,0,0,0,1,1
+8534,Graduation,Married,62,67433.0,2,4,0,4.46,High value Customer,0,0,0,1,0,0
+5153,PhD,Married,47,77766.0,1,6,0,4.25,High value Customer,0,0,1,0,0,1
+961,Graduation,Married,42,74716.0,1,4,0,2.53,Low Value Customers,0,0,0,0,0,0
+5011,Graduation,Divorced,51,68118.0,1,6,0,3.91,Medium Value Customer,0,0,0,0,0,0
+6653,PhD,Married,44,55158.0,2,7,0,2.86,Low Value Customers,0,0,0,0,0,1
+9094,Others,Married,59,62972.0,1,6,0,2.72,Low Value Customers,0,0,0,0,0,1
+810,Graduation,Married,39,74190.0,1,2,0,3.21,Medium Value Customer,0,0,0,0,0,0
+5493,Graduation,Married,38,39356.0,2,6,0,0.73,Lost Customers,0,0,1,0,0,0
+2147,Graduation,Married,45,76653.0,0,2,0,3.6,Medium Value Customer,1,0,0,0,1,0
+5107,PhD,Divorced,41,35860.0,2,5,0,1.12,Lost Customers,0,0,1,0,0,0
+3979,PhD,Divorced,31,90687.0,0,2,0,2.48,Low Value Customers,0,0,0,0,1,1
+6049,Master,Married,32,73450.0,0,3,0,4.13,High value Customer,1,0,1,0,0,0
+8147,Graduation,Married,54,31454.0,2,8,0,1.59,Lost Customers,0,0,0,0,0,0
+1857,Graduation,Single,62,47139.0,2,7,0,1.65,Low Value Customers,0,0,0,0,0,1
+3910,Graduation,Divorced,39,83829.0,0,1,0,2.63,Low Value Customers,1,0,1,0,1,1
+5207,PhD,Married,51,53378.0,2,8,0,4.58,Top Customers,0,0,0,0,0,1
+11114,Graduation,Married,44,19656.0,1,7,0,1.37,Lost Customers,0,0,0,0,0,0
+5429,PhD,Married,66,45579.0,1,6,0,2.18,Low Value Customers,0,0,0,0,0,0
+9400,Others,Single,56,85485.0,0,2,0,3.02,Medium Value Customer,0,0,0,0,0,0
+1740,Graduation,Married,70,55956.0,0,4,0,2.85,Low Value Customers,0,0,0,1,0,0
+7488,Master,Single,51,64191.0,1,3,0,4.19,High value Customer,0,0,0,0,0,0
+195,Graduation,Single,42,38808.0,1,8,0,2.57,Low Value Customers,0,0,1,0,0,1
+635,Master,Married,48,57183.0,2,8,0,4.16,High value Customer,0,0,0,0,0,0
+7527,Master,Divorced,46,23748.0,1,8,0,1.35,Lost Customers,0,0,0,0,0,0
+10319,Graduation,Married,43,66303.0,1,8,0,3.69,Medium Value Customer,0,0,0,1,0,0
+2296,Master,Married,39,37368.0,1,6,0,0.86,Lost Customers,0,0,1,0,0,0
+10637,Graduation,Married,50,40800.0,3,7,1,1.31,Lost Customers,0,0,0,0,0,0
+2931,Graduation,Divorced,36,71847.0,0,3,0,3.4,Medium Value Customer,1,0,0,0,0,0
+907,Graduation,Married,39,46149.0,1,5,0,3.13,Medium Value Customer,0,0,0,0,0,0
+3698,Graduation,Married,31,78687.0,0,2,0,3.47,Medium Value Customer,0,0,0,0,1,1
+9516,Others,Divorced,43,49118.0,0,7,0,4.16,High value Customer,0,1,0,1,0,1
+679,PhD,Married,57,37633.0,2,9,0,1.04,Lost Customers,0,0,0,0,0,0
+7384,Master,Married,63,39767.0,0,8,0,3.08,Medium Value Customer,0,0,0,0,0,0
+5043,Others,Married,63,26997.0,0,7,0,1.96,Low Value Customers,0,0,0,0,0,0
+5267,Graduation,Divorced,44,33986.0,1,7,0,0.83,Lost Customers,0,0,0,0,0,0
+339,PhD,Married,42,57091.0,1,7,0,2.78,Low Value Customers,0,0,0,1,0,1
+2516,Others,Married,45,46831.0,2,4,0,1.03,Lost Customers,0,0,0,0,0,0
+9010,Master,Married,42,83151.0,0,2,0,3.69,Medium Value Customer,1,0,1,0,1,1
+378,Graduation,Married,43,52531.0,0,6,0,3.43,Medium Value Customer,0,0,0,0,0,0
+4808,Graduation,Married,58,15759.0,0,7,0,0.8,Lost Customers,0,0,0,0,0,0
+5068,Graduation,Single,43,22804.0,1,9,0,0.59,Lost Customers,0,0,0,0,0,0
+7628,Others,Married,41,43050.0,1,5,0,1.82,Low Value Customers,0,0,0,0,0,0
+7128,PhD,Single,37,42997.0,2,7,0,0.21,Lost Customers,0,0,0,0,0,0
+2811,PhD,Single,51,48918.0,2,4,0,1.51,Lost Customers,0,0,0,0,0,0
+3551,Master,Married,60,60033.0,1,2,0,2.04,Low Value Customers,0,0,0,0,0,0
+1663,PhD,Married,36,34043.0,1,9,0,0.42,Lost Customers,0,0,0,0,0,0
+5543,Graduation,Married,48,57811.0,1,5,0,4.18,High value Customer,0,0,0,1,0,0
+1577,Graduation,Married,68,78569.0,0,1,0,2.74,Low Value Customers,0,0,0,0,1,1
+10641,Graduation,Single,36,7500.0,2,6,0,2.21,Low Value Customers,0,0,0,0,0,0
+5336,Master,Married,43,157733.0,1,1,0,0.49,Lost Customers,0,0,0,0,0,0
+6024,Graduation,Married,61,94384.0,0,2,0,2.94,Low Value Customers,1,0,0,1,1,1
+1878,Others,Married,29,23148.0,0,7,0,0.78,Lost Customers,0,0,0,0,0,0
+3099,Graduation,Divorced,44,44267.0,2,9,0,2.66,Low Value Customers,0,0,0,0,0,0
+6055,Graduation,Married,35,71626.0,0,3,0,2.86,Low Value Customers,0,0,0,1,0,0
+5841,Graduation,Married,48,60894.0,1,7,0,4.21,High value Customer,0,0,0,0,0,0
+3972,Graduation,Married,38,50200.0,2,8,0,3.05,Medium Value Customer,0,0,0,0,0,0
+4394,PhD,Married,49,81051.0,0,2,0,3.97,Medium Value Customer,0,0,0,1,1,0
+5758,Graduation,Married,32,65169.0,0,6,0,4.67,Top Customers,1,1,1,0,1,1
+6658,Graduation,Married,42,59868.0,1,6,0,4.68,Top Customers,0,0,0,0,0,0
+4603,PhD,Married,54,65695.0,1,4,0,3.56,Medium Value Customer,0,0,0,0,0,0
+8427,Master,Single,58,64857.0,0,4,0,3.7,Medium Value Customer,0,0,0,0,0,0
+10260,Master,Married,49,45143.0,1,7,0,2.29,Low Value Customers,0,0,0,0,0,0
+7143,Others,Married,59,74805.0,1,2,0,4.56,Top Customers,0,0,0,0,0,0
+8789,Others,Married,25,59060.0,1,4,0,2.14,Low Value Customers,0,0,0,0,0,0
+6197,PhD,Single,52,27238.0,2,9,0,1.78,Low Value Customers,0,0,0,0,0,0
+4554,Graduation,Married,49,47009.0,1,4,0,2.55,Low Value Customers,0,0,0,0,0,0
+4937,Others,Married,41,46094.0,2,7,0,0.68,Lost Customers,0,0,0,0,0,0
+1920,Graduation,Married,42,40321.0,2,7,0,1.45,Lost Customers,0,0,0,0,0,0
+8749,Graduation,Married,30,37235.0,1,4,0,0.64,Lost Customers,0,0,0,0,0,0
+1650,Master,Married,54,81843.0,0,3,0,4.67,Top Customers,0,0,0,0,0,0
+10377,Master,Married,56,46692.0,1,6,0,2.57,Low Value Customers,0,0,0,0,0,0
+9206,Graduation,Married,46,77382.0,1,1,0,4.4,High value Customer,0,0,0,0,1,0
+10971,Graduation,Single,37,37774.0,2,9,1,2.8,Low Value Customers,0,0,1,0,0,1
+6398,Others,Married,40,18393.0,1,8,0,1.88,Low Value Customers,0,0,0,0,0,0
+9212,Master,Married,52,72828.0,1,7,0,4.71,Top Customers,0,0,0,0,0,0
+7937,Graduation,Married,32,24711.0,0,7,0,1.01,Lost Customers,0,0,0,0,0,0
+839,PhD,Married,39,45503.0,1,5,0,1.67,Low Value Customers,0,0,0,0,0,0
+4246,Master,Single,32,6560.0,0,17,0,0.75,Lost Customers,0,0,0,0,0,0
+158,PhD,Married,69,71604.0,0,4,0,3.19,Medium Value Customer,0,0,1,0,0,1
+4832,Graduation,Married,35,27244.0,1,7,0,1.26,Lost Customers,0,0,0,0,0,0
+5621,Graduation,Married,45,48752.0,2,9,0,3.16,Medium Value Customer,0,0,0,0,0,1
+1945,Graduation,Married,52,71434.0,1,4,0,3.9,Medium Value Customer,1,0,0,1,0,0
+5147,Graduation,Single,66,90842.0,0,1,0,4.33,High value Customer,0,0,0,0,0,0
+2535,Master,Married,36,88097.0,1,9,0,3.58,Medium Value Customer,1,0,0,1,1,1
+11039,Graduation,Married,39,51948.0,1,5,0,2.25,Low Value Customers,0,0,0,0,0,0
+9495,Graduation,Married,32,71853.0,0,1,0,3.0,Low Value Customers,0,0,0,0,0,0
+9635,Master,Married,31,35876.0,0,6,0,1.79,Low Value Customers,0,0,0,0,0,0
+2173,Graduation,Widow,62,40049.0,1,6,0,0.98,Lost Customers,0,0,0,0,0,0
+942,Graduation,Single,32,39660.0,1,9,0,2.45,Low Value Customers,0,0,0,0,0,1
+9386,Graduation,Married,52,50127.0,1,6,0,1.96,Low Value Customers,0,0,0,1,0,0
+5510,Master,Married,37,43263.0,1,5,0,3.0,Low Value Customers,0,0,0,0,0,0
+873,Master,Married,65,62845.0,2,8,0,4.82,Top Customers,0,0,0,1,0,1
+2253,Graduation,Married,24,18929.0,0,6,0,1.29,Lost Customers,0,0,0,0,0,0
+5181,Others,Single,32,24367.0,1,9,0,0.45,Lost Customers,0,0,0,0,0,0
+979,Graduation,Single,39,33249.0,1,6,0,1.81,Low Value Customers,0,0,0,0,0,0
+10390,Others,Married,55,26887.0,1,6,0,0.95,Lost Customers,0,0,0,0,0,0
+4698,PhD,Married,31,50150.0,0,5,0,2.77,Low Value Customers,0,0,0,0,0,0
+7793,Graduation,Married,38,62061.0,1,6,0,4.33,High value Customer,0,0,0,1,0,0
+1745,PhD,Divorced,52,85696.0,0,1,0,3.09,Medium Value Customer,0,0,0,0,0,1
+10590,PhD,Married,58,76542.0,0,2,0,3.6,Medium Value Customer,0,0,0,0,0,0
+5080,Graduation,Single,21,70515.0,0,2,0,3.12,Medium Value Customer,0,0,0,0,0,1
+8369,Graduation,Married,27,18227.0,1,8,0,0.73,Lost Customers,0,0,0,0,0,0
+5232,Graduation,Married,49,69139.0,1,4,0,2.22,Low Value Customers,0,0,0,0,0,0
+2407,Graduation,Married,32,69109.0,0,4,0,3.68,Medium Value Customer,0,0,0,0,1,1
+3834,Graduation,Single,52,69627.0,1,5,0,4.02,High value Customer,0,0,0,0,0,0
+7912,Graduation,Married,36,38136.0,1,8,0,1.37,Lost Customers,0,0,1,0,0,0
+7712,PhD,Single,68,62159.0,0,4,0,3.06,Medium Value Customer,0,0,0,0,0,0
+1065,Graduation,Single,51,80695.0,0,2,0,2.93,Low Value Customers,0,0,0,0,0,0
+7275,Master,Single,43,33316.0,2,6,0,1.99,Low Value Customers,0,0,0,0,0,0
+1343,Graduation,Married,46,58554.0,2,7,0,3.7,Medium Value Customer,0,0,0,0,0,0
+1384,Others,Married,22,17256.0,1,8,0,1.59,Lost Customers,0,0,1,0,0,0
+9967,Graduation,Divorced,40,53034.0,2,8,0,3.89,Medium Value Customer,0,0,0,0,0,0
+6181,Others,Married,64,52203.0,0,6,0,4.5,High value Customer,0,0,0,0,0,0
+10507,Others,Divorced,37,59601.0,1,8,0,2.74,Low Value Customers,0,0,0,1,0,0
+2674,Master,Single,56,75154.0,1,3,0,2.42,Low Value Customers,0,0,0,0,0,1
+2698,Graduation,Single,38,47025.0,1,6,0,2.83,Low Value Customers,0,0,0,0,0,0
+3231,Graduation,Married,41,37971.0,1,8,0,0.42,Lost Customers,0,0,0,0,0,0
+4096,Master,Divorced,46,41335.0,1,7,0,2.34,Low Value Customers,0,0,0,0,0,0
+10476,Graduation,Married,56,67267.0,1,2,0,2.39,Low Value Customers,0,0,0,0,0,0
+5948,Graduation,Single,39,57338.0,1,5,0,1.8,Low Value Customers,0,0,0,0,0,0
+9140,Others,Married,54,50523.0,2,6,0,1.22,Lost Customers,0,0,0,0,0,0
+10258,Master,Single,49,35791.0,3,8,0,0.7,Lost Customers,0,0,0,0,0,0
+5675,PhD,Divorced,54,50611.0,1,6,0,3.38,Medium Value Customer,0,0,0,1,0,0
+4743,PhD,Married,45,56242.0,1,6,0,4.3,High value Customer,0,0,0,0,0,0
+8805,Graduation,Single,54,48904.0,1,8,0,3.21,Medium Value Customer,0,0,0,0,0,0
+1542,Graduation,Single,39,56243.0,3,5,0,3.56,Medium Value Customer,0,0,0,0,0,0
+6770,Graduation,Married,29,21355.0,1,6,0,1.62,Low Value Customers,0,0,1,0,0,1
+8773,Master,Married,43,57420.0,1,7,0,2.68,Low Value Customers,0,0,0,1,0,0
+10475,Master,Married,44,,1,5,0,2.43,Low Value Customers,0,0,0,0,0,0
+10420,Master,Divorced,59,46390.0,1,7,0,1.83,Low Value Customers,0,0,0,0,0,0
+7514,Others,Married,58,54342.0,2,6,0,1.96,Low Value Customers,0,0,0,0,0,0
+2902,Graduation,Married,56,,2,5,0,0.49,Lost Customers,0,0,0,0,0,0
+4345,Others,Single,50,,2,7,0,0.53,Lost Customers,0,0,0,0,0,0
+793,Graduation,Married,41,20895.0,1,9,0,1.23,Lost Customers,0,0,0,0,0,0
+10909,Graduation,Married,66,92344.0,0,1,0,3.69,Medium Value Customer,0,0,1,0,1,0
+3769,PhD,Married,42,,1,7,0,1.02,Lost Customers,0,0,0,0,0,0
+8702,Others,Married,38,26907.0,2,7,0,1.33,Lost Customers,0,0,0,0,0,0
+4791,Graduation,Married,34,44964.0,2,8,0,0.88,Lost Customers,0,0,0,0,0,0
+2963,Graduation,Married,35,75507.0,0,3,0,3.51,Medium Value Customer,0,0,0,0,0,0
+8216,Master,Married,42,53761.0,2,5,0,3.16,Medium Value Customer,0,0,0,0,0,0
+8140,Graduation,Married,41,22682.0,1,4,0,1.87,Low Value Customers,0,0,0,0,0,0
+10146,PhD,Married,42,38887.0,1,7,0,1.02,Lost Customers,0,0,0,0,0,0
+5289,Others,Single,39,41658.0,2,4,0,1.17,Lost Customers,0,0,0,0,0,0
+2587,PhD,Married,42,29791.0,1,5,0,1.51,Lost Customers,0,0,0,0,0,0
+4405,Master,Married,58,63915.0,2,5,0,4.27,High value Customer,0,0,0,0,0,0
+8663,Graduation,Divorced,40,39996.0,2,6,0,0.25,Lost Customers,0,0,0,0,0,0
+2589,Graduation,Divorced,42,26759.0,1,6,0,1.4,Lost Customers,0,0,0,0,0,0
+3421,Master,Divorced,46,63841.0,1,6,0,3.63,Medium Value Customer,0,0,0,0,0,0
+10490,PhD,Married,45,51039.0,2,7,0,2.64,Low Value Customers,0,0,0,0,0,0
+4094,Graduation,Married,53,60544.0,2,6,0,2.15,Low Value Customers,0,0,0,0,0,0
+9958,Graduation,Married,42,65685.0,1,5,0,3.53,Medium Value Customer,0,0,0,0,0,0
+2534,Graduation,Married,61,37716.0,1,7,0,2.22,Low Value Customers,0,0,0,0,0,0
+4188,Graduation,Single,57,36864.0,1,8,0,2.32,Low Value Customers,0,0,0,0,0,1
+6613,Master,Married,44,44511.0,1,8,0,4.38,High value Customer,0,0,0,0,0,0
+10827,PhD,Married,47,36947.0,2,9,0,2.03,Low Value Customers,0,0,0,0,0,0
+5491,Master,Married,63,47352.0,1,7,0,2.49,Low Value Customers,0,0,0,0,0,0
+8402,Master,Married,61,67087.0,1,4,0,3.81,Medium Value Customer,0,0,0,0,0,0
+8783,Graduation,Married,64,57045.0,1,3,0,3.1,Medium Value Customer,0,0,0,0,0,0
+10010,PhD,Divorced,61,36957.0,2,9,0,2.07,Low Value Customers,0,0,0,0,0,1
+618,PhD,Married,37,69389.0,1,4,0,3.99,Medium Value Customer,0,0,0,0,0,0
+9121,Graduation,Married,42,80134.0,1,6,0,2.71,Low Value Customers,1,0,0,1,1,1
+361,Master,Married,45,43142.0,2,7,0,0.26,Lost Customers,0,0,0,0,0,0
+4310,Graduation,Married,70,80589.0,0,1,0,3.75,Medium Value Customer,1,0,0,0,0,1
+2678,Graduation,Single,24,34412.0,1,9,0,1.92,Low Value Customers,0,0,0,0,0,0
+6376,Graduation,Single,35,57537.0,1,4,0,2.95,Low Value Customers,0,0,0,0,0,0
+524,Others,Married,48,22634.0,0,8,0,1.06,Lost Customers,0,0,0,0,0,0
+10341,Graduation,Married,66,51315.0,0,2,0,1.92,Low Value Customers,0,0,0,0,0,0
+5654,Graduation,Married,42,36026.0,3,6,0,1.4,Lost Customers,0,0,0,0,0,0
+4098,Graduation,Married,41,24639.0,2,6,0,2.05,Low Value Customers,0,0,0,0,0,0
+5824,PhD,Married,42,34578.0,3,6,0,0.88,Lost Customers,0,0,0,0,0,0
+7000,Others,Single,42,65704.0,0,1,0,4.15,High value Customer,0,0,0,0,0,0
+2561,Graduation,Single,48,63810.0,1,8,0,3.96,Medium Value Customer,0,0,0,1,0,0
+5229,PhD,Married,45,54132.0,1,7,0,0.54,Lost Customers,0,0,0,0,0,0
+4086,Graduation,Married,55,18690.0,0,8,0,0.57,Lost Customers,0,0,0,0,0,0
+2428,Graduation,Married,44,28164.0,1,7,0,1.91,Low Value Customers,0,0,0,0,0,0
+8254,PhD,Married,40,34596.0,1,8,0,0.53,Lost Customers,0,0,0,0,0,0
+2836,PhD,Married,42,43269.0,1,8,0,0.43,Lost Customers,0,0,0,0,0,0
+8418,Others,Single,56,38741.0,2,7,0,1.21,Lost Customers,0,0,0,0,0,0
+1362,Graduation,Single,42,31907.0,0,7,0,2.16,Low Value Customers,0,0,0,0,0,0
+7152,Master,Married,31,27100.0,1,7,0,0.67,Lost Customers,0,0,0,0,0,0
+10033,Others,Divorced,41,31163.0,1,6,0,0.74,Lost Customers,0,0,0,0,0,0
+9349,Graduation,Married,29,92533.0,0,2,0,3.65,Medium Value Customer,1,0,0,0,1,0
+274,Graduation,Single,41,34853.0,2,6,0,1.1,Lost Customers,0,0,0,0,0,0
+3388,Graduation,Divorced,47,70844.0,2,7,0,3.1,Medium Value Customer,0,0,0,0,0,0
+922,Others,Married,35,31086.0,2,8,0,0.81,Lost Customers,0,0,1,0,0,0
+8588,Graduation,Married,53,60544.0,2,6,0,2.15,Low Value Customers,0,0,0,0,0,0
+2518,Others,Married,28,20491.0,0,7,0,0.77,Lost Customers,0,0,0,0,0,0
+574,Graduation,Married,50,42523.0,0,2,0,0.94,Lost Customers,0,0,0,0,0,0
+3220,Graduation,Married,31,39922.0,1,8,0,1.85,Low Value Customers,0,0,0,0,0,0
+5967,Graduation,Married,62,33402.0,2,8,0,1.63,Low Value Customers,0,0,0,0,0,0
+1183,Master,Married,65,36408.0,2,6,0,0.81,Lost Customers,0,0,0,0,0,0
+6856,Graduation,Married,35,21645.0,1,9,0,1.51,Lost Customers,0,0,0,0,0,1
+4530,Master,Widow,66,78427.0,0,3,0,4.02,High value Customer,1,0,0,0,0,1
+1553,Graduation,Married,68,82657.0,0,4,0,3.76,Medium Value Customer,1,0,0,1,0,0
+4682,Graduation,Married,56,51876.0,0,1,0,1.96,Low Value Customers,0,0,0,0,0,0
+8204,Others,Married,43,78041.0,0,2,0,2.7,Low Value Customers,0,0,0,0,0,0
+5221,Graduation,Married,57,52852.0,1,8,0,3.97,Medium Value Customer,0,0,1,0,0,0
+1232,PhD,Married,32,70038.0,0,2,0,2.81,Low Value Customers,0,0,0,0,0,0
+1927,Others,Married,41,69401.0,1,2,0,2.91,Low Value Customers,0,0,0,0,0,0
+5788,Graduation,Married,42,46053.0,1,5,0,2.18,Low Value Customers,0,0,0,0,0,0
+6652,Graduation,Married,49,77343.0,0,1,0,3.0,Low Value Customers,0,0,0,0,0,0
+6246,Graduation,Single,61,73892.0,0,1,0,3.99,Medium Value Customer,0,0,0,0,0,1
+5975,PhD,Single,47,40304.0,1,7,0,0.79,Lost Customers,0,0,0,0,0,0
+6875,PhD,Married,49,32727.0,0,8,0,2.93,Low Value Customers,0,0,0,0,0,0
+4399,Graduation,Married,45,68695.0,0,2,0,2.99,Low Value Customers,0,0,0,0,0,0
+4042,Graduation,Divorced,43,43300.0,1,8,0,1.73,Low Value Customers,0,0,0,0,0,1
+2157,Graduation,Married,42,26290.0,2,6,0,1.89,Low Value Customers,0,0,0,0,0,0
+10133,Graduation,Single,44,93790.0,0,2,0,4.42,High value Customer,1,0,0,1,1,1
+2525,PhD,Married,40,38410.0,0,6,0,2.91,Low Value Customers,0,0,0,0,0,1
+8233,Master,Widow,64,64866.0,1,5,0,3.87,Medium Value Customer,0,0,0,1,0,0
+9483,Graduation,Married,55,57957.0,1,3,1,4.36,High value Customer,0,0,0,0,0,0
+2945,PhD,Married,59,46015.0,2,7,0,0.96,Lost Customers,0,1,1,0,0,0
+10403,Graduation,Married,36,16531.0,1,7,0,1.76,Low Value Customers,0,0,0,0,0,0
+5074,Master,Married,28,28072.0,1,7,0,1.07,Lost Customers,0,0,0,0,0,0
+10524,Master,Divorced,51,49476.0,1,2,0,3.9,Medium Value Customer,0,0,0,0,0,0
+4690,Graduation,Married,61,50725.0,1,8,0,3.61,Medium Value Customer,0,0,0,0,0,0
+7521,Graduation,Married,62,83844.0,0,1,0,3.32,Medium Value Customer,0,0,0,0,1,0
+7196,PhD,Married,64,41145.0,2,3,0,0.74,Lost Customers,0,0,0,0,0,0
+4406,Graduation,Married,44,67419.0,1,5,0,4.32,High value Customer,0,0,0,0,0,0
+9672,Others,Married,44,23162.0,2,6,0,1.27,Lost Customers,0,0,0,0,0,0
+4864,Graduation,Married,37,34380.0,1,8,0,2.01,Low Value Customers,0,0,0,0,0,0
+4706,Graduation,Single,48,34704.0,1,5,0,0.66,Lost Customers,0,0,0,0,0,0
+4070,PhD,Married,45,94871.0,2,7,0,2.66,Low Value Customers,0,0,0,1,1,1
+25,Graduation,Married,56,65148.0,1,4,0,3.87,Medium Value Customer,0,0,0,0,0,0
+3697,Graduation,Married,60,39898.0,1,7,0,1.93,Low Value Customers,0,0,0,0,0,0
+217,Master,Single,58,64857.0,0,4,0,3.7,Medium Value Customer,0,0,0,0,0,0
+4220,PhD,Married,44,59892.0,1,3,0,1.47,Lost Customers,0,0,0,0,0,0
+5286,Master,Single,27,41020.0,0,3,0,1.74,Low Value Customers,0,0,0,0,0,0
+9559,PhD,Married,53,57072.0,1,5,0,4.18,High value Customer,0,0,1,0,0,0
+2849,Graduation,Single,35,60474.0,1,7,0,4.75,Top Customers,0,0,0,0,0,0
+7787,Graduation,Married,54,62807.0,1,5,0,3.66,Medium Value Customer,0,0,0,0,0,0
+3102,Others,Married,33,19414.0,1,8,0,0.9,Lost Customers,0,0,0,0,0,0
+5868,Graduation,Married,34,19107.0,1,7,0,1.04,Lost Customers,0,0,0,0,0,0
+8370,Others,Married,38,75484.0,1,4,0,3.03,Medium Value Customer,0,0,0,0,0,0
+9988,Master,Single,38,70379.0,1,4,0,3.91,Medium Value Customer,0,0,0,0,0,0
+2939,Master,Married,44,79419.0,0,2,0,2.12,Low Value Customers,0,0,0,0,0,0
+5529,PhD,Married,68,64014.0,3,7,0,3.69,Medium Value Customer,1,0,0,0,0,0
+9743,Graduation,Married,59,76998.0,1,6,0,4.25,High value Customer,0,0,0,0,1,0
+5763,Master,Married,42,49854.0,1,6,0,2.93,Low Value Customers,0,0,0,0,0,0
+3478,PhD,Married,43,60585.0,2,5,0,4.79,Top Customers,0,0,0,0,0,1
+7494,PhD,Divorced,64,42873.0,2,8,0,2.76,Low Value Customers,0,0,0,0,0,0
+1763,Graduation,Married,26,87679.0,0,4,0,4.42,High value Customer,1,0,1,0,1,1
+7250,Graduation,Married,36,57867.0,1,6,0,4.19,High value Customer,0,0,0,0,0,0
+2005,Graduation,Married,24,35765.0,1,6,0,1.24,Lost Customers,0,0,0,0,0,0
+10770,Graduation,Married,55,65492.0,0,2,0,4.12,High value Customer,0,0,0,0,0,0
+6885,Graduation,Divorced,37,32952.0,1,7,0,1.13,Lost Customers,0,0,0,0,0,0
+2072,PhD,Married,45,53374.0,1,9,0,3.68,Medium Value Customer,0,0,1,0,0,1
+9463,Graduation,Married,55,71706.0,1,5,0,4.42,High value Customer,0,0,0,0,0,0
+6318,Graduation,Married,26,68487.0,0,4,0,4.56,Top Customers,0,0,0,0,0,0
+4093,Master,Married,39,53253.0,2,5,0,3.11,Medium Value Customer,0,0,0,0,0,0
+5751,Others,Divorced,41,31163.0,1,6,0,0.74,Lost Customers,0,0,0,0,0,0
+3340,Graduation,Married,37,42014.0,1,8,0,3.33,Medium Value Customer,0,0,0,0,0,1
+3594,Master,Married,41,54108.0,2,8,0,4.41,High value Customer,0,0,0,0,0,0
+3584,PhD,Single,59,49667.0,0,8,0,3.85,Medium Value Customer,0,0,1,0,0,1
+3643,Master,Married,40,63206.0,0,2,0,2.23,Low Value Customers,0,0,0,0,1,0
+851,Master,Married,42,57136.0,2,6,0,4.31,High value Customer,0,0,0,0,0,0
+7706,Others,Married,39,46772.0,1,8,0,4.26,High value Customer,0,0,1,0,0,0
+3967,PhD,Married,43,78931.0,0,1,0,4.28,High value Customer,0,0,0,0,0,0
+10128,Graduation,Married,56,53977.0,1,5,0,4.61,Top Customers,0,0,0,0,0,0
+486,Graduation,Married,26,84219.0,0,1,0,3.2,Medium Value Customer,0,0,0,0,0,0
+9,Master,Single,39,46098.0,2,8,0,1.74,Low Value Customers,0,0,0,0,0,0
+9451,Graduation,Married,49,73538.0,1,7,0,3.98,Medium Value Customer,0,0,0,0,0,0
+9264,Graduation,Married,28,79529.0,0,2,0,4.11,High value Customer,0,0,0,0,0,0
+3865,Others,Married,37,20981.0,0,8,0,1.55,Lost Customers,0,0,0,0,0,1
+2853,Graduation,Single,34,51766.0,1,5,0,1.96,Low Value Customers,0,0,0,0,0,0
+1490,Graduation,Married,52,55759.0,1,8,0,4.04,High value Customer,0,0,0,0,0,0
+6310,Graduation,Married,36,33039.0,1,5,0,1.63,Low Value Customers,0,0,0,0,0,0
+10380,Master,Married,42,37787.0,1,8,0,1.29,Lost Customers,0,0,0,0,0,0
+3887,Graduation,Single,44,27242.0,1,9,0,1.65,Low Value Customers,0,0,0,0,0,1
+4278,PhD,Single,31,87188.0,0,3,0,3.02,Medium Value Customer,0,0,0,0,0,1
+8643,Graduation,Married,43,69930.0,0,3,0,3.96,Medium Value Customer,0,0,0,0,0,0
+1998,Graduation,Single,38,37697.0,1,6,0,1.04,Lost Customers,0,0,0,0,0,0
+10795,PhD,Married,41,37401.0,1,7,0,1.55,Lost Customers,0,0,0,0,0,0
+11110,Graduation,Single,41,3502.0,1,14,0,0.33,Lost Customers,0,0,0,0,0,0
+2408,Graduation,Married,38,58597.0,2,7,0,4.81,Top Customers,0,0,0,0,0,0
+202,PhD,Widow,66,82032.0,0,1,0,2.81,Low Value Customers,0,0,0,0,0,0
+7998,Graduation,Married,56,28087.0,2,7,0,1.5,Lost Customers,0,0,0,0,0,0
+830,PhD,Single,27,74004.0,0,3,0,2.8,Low Value Customers,1,0,0,0,1,1
+3536,Graduation,Married,54,19740.0,1,5,0,1.17,Lost Customers,0,0,0,0,0,0
+6050,Others,Married,39,57036.0,1,9,0,4.42,High value Customer,0,0,1,0,0,0
+125,Others,Married,56,53083.0,2,7,0,2.73,Low Value Customers,0,0,0,1,0,0
+3463,PhD,Married,39,69283.0,1,5,0,4.46,High value Customer,0,0,0,0,0,0
+2804,Master,Single,39,46098.0,2,8,0,1.74,Low Value Customers,0,0,0,0,0,1
+3745,Others,Married,26,23331.0,1,8,0,1.2,Lost Customers,0,0,0,0,0,0
+9771,Others,Single,26,23331.0,1,9,0,2.49,Low Value Customers,0,0,0,0,0,0
+451,Graduation,Single,25,9255.0,1,8,0,0.47,Lost Customers,0,0,0,0,0,0
+10530,PhD,Widow,55,67786.0,0,1,0,3.01,Medium Value Customer,0,0,0,0,0,1
+1079,PhD,Married,43,71969.0,1,8,0,3.13,Medium Value Customer,0,0,0,1,0,0
+8920,Master,Single,47,59235.0,1,7,0,4.81,Top Customers,0,0,0,0,0,0
+6678,Graduation,Married,25,31928.0,1,7,0,2.04,Low Value Customers,0,0,0,0,0,0
+3852,Master,Married,53,74881.0,2,5,0,4.41,High value Customer,0,0,0,0,0,0
+528,Graduation,Married,36,65819.0,0,3,0,3.01,Medium Value Customer,0,0,0,0,0,0
+73,PhD,Single,61,51411.0,3,5,0,0.28,Lost Customers,0,0,0,0,0,0
+5589,Graduation,Divorced,50,51983.0,1,7,0,3.71,Medium Value Customer,0,0,0,0,0,0
+10212,Master,Married,28,42386.0,1,8,0,1.34,Lost Customers,0,0,0,0,0,0
+6365,Others,Married,27,30390.0,0,6,0,1.36,Lost Customers,0,0,0,0,0,0
+5636,Graduation,Single,51,30983.0,0,8,0,1.52,Lost Customers,0,0,0,0,0,1
+591,Graduation,Widow,57,66033.0,1,7,0,3.19,Medium Value Customer,0,0,0,0,0,0
+2217,Others,Married,39,37284.0,2,6,0,0.55,Lost Customers,0,0,0,0,0,0
+2544,Master,Divorced,63,57530.0,1,1,0,1.15,Lost Customers,0,0,0,0,0,0
+7725,Others,Married,49,76800.0,0,1,0,2.76,Low Value Customers,0,0,0,0,0,0
+8091,Graduation,Married,58,63943.0,1,5,0,2.84,Low Value Customers,0,0,0,0,0,0
+7321,Graduation,Married,52,76081.0,0,2,0,2.08,Low Value Customers,1,0,0,0,0,0
+5462,Graduation,Married,40,67445.0,1,6,0,4.49,High value Customer,0,0,0,0,0,0
+7791,Master,Married,47,37054.0,2,7,0,0.73,Lost Customers,0,0,0,0,0,0
+955,Master,Married,52,47175.0,2,8,0,2.61,Low Value Customers,0,0,1,0,0,1
+4037,Graduation,Divorced,38,31859.0,1,7,0,0.31,Lost Customers,0,0,0,0,0,0
+6642,Graduation,Divorced,53,27215.0,3,6,0,2.02,Low Value Customers,0,0,0,0,0,0
+2793,PhD,Divorced,38,70179.0,1,5,0,4.59,Top Customers,0,0,0,0,0,0
+5424,Graduation,Married,31,39922.0,1,8,0,1.85,Low Value Customers,0,0,0,0,0,0
+879,Master,Married,38,49681.0,2,7,0,3.44,Medium Value Customer,0,0,0,0,0,0
+9530,Graduation,Married,26,24645.0,1,8,0,0.77,Lost Customers,0,0,0,0,0,0
+4828,Graduation,Divorced,60,79865.0,1,1,0,3.84,Medium Value Customer,0,0,0,0,0,0
+10699,Graduation,Married,29,44322.0,1,8,0,1.66,Low Value Customers,0,0,0,0,0,0
+1497,Graduation,Single,62,47958.0,1,5,0,2.95,Low Value Customers,0,0,0,0,0,0
+7476,Master,Single,50,63972.0,1,4,0,3.59,Medium Value Customer,0,0,0,1,0,0
+4390,Graduation,Married,60,75315.0,1,2,0,4.18,High value Customer,0,0,0,0,0,0
+10478,PhD,Married,64,55517.0,2,9,0,3.89,Medium Value Customer,0,0,0,0,0,1
+1081,PhD,Married,57,75283.0,3,4,0,4.35,High value Customer,0,0,0,0,0,0
+4261,PhD,Single,68,82800.0,0,3,0,4.5,High value Customer,1,0,0,0,1,1
+9916,Graduation,Married,60,38998.0,2,8,1,1.2,Lost Customers,0,0,0,0,0,0
+5350,Master,Single,23,90638.0,0,1,0,3.18,Medium Value Customer,0,0,0,0,1,1
+8135,Master,Married,28,27161.0,1,7,0,0.84,Lost Customers,0,0,0,0,0,0
+8685,Graduation,Married,37,42014.0,1,8,0,3.33,Medium Value Customer,0,0,0,0,0,1
+4967,PhD,Married,54,38201.0,1,8,0,2.7,Low Value Customers,0,0,0,0,0,0
+2130,Graduation,Married,32,45203.0,2,6,0,1.86,Low Value Customers,0,0,0,0,0,1
+9298,PhD,Married,67,81574.0,0,1,0,2.73,Low Value Customers,0,0,0,1,1,0
+8175,Graduation,Married,22,34935.0,0,7,0,1.36,Lost Customers,0,0,0,0,0,0
+6257,Master,Single,38,60482.0,1,7,0,2.61,Low Value Customers,0,0,0,0,0,0
+3790,Graduation,Married,58,34633.0,3,6,0,0.65,Lost Customers,0,0,0,0,0,0
+9952,Master,Married,67,78093.0,0,1,0,2.82,Low Value Customers,0,0,0,0,0,0
+3503,Graduation,Divorced,64,82460.0,0,1,0,2.26,Low Value Customers,0,0,0,0,0,0
+5223,Master,Married,48,45903.0,1,4,0,1.29,Lost Customers,0,0,0,0,0,0
+4608,Graduation,Divorced,27,81361.0,0,1,0,4.64,Top Customers,0,0,0,0,0,1
+1626,PhD,Divorced,41,35860.0,2,5,0,1.12,Lost Customers,0,0,1,0,0,1
+4764,Master,Married,62,40442.0,2,7,0,2.13,Low Value Customers,0,0,0,0,0,1
+2471,Graduation,Married,49,61482.0,0,2,0,2.23,Low Value Customers,0,0,0,0,0,0
+5892,Graduation,Married,34,34968.0,1,7,0,3.13,Medium Value Customer,0,0,0,0,0,0
+2612,Graduation,Married,27,75794.0,0,3,0,4.29,High value Customer,1,0,0,0,0,0
+4971,PhD,Married,52,31497.0,1,8,0,2.09,Low Value Customers,0,0,0,0,0,0
+5185,Graduation,Married,59,74268.0,0,2,0,2.0,Low Value Customers,0,0,0,0,0,0
+10069,Others,Married,26,13724.0,1,9,0,0.83,Lost Customers,0,0,1,0,0,0
+2262,Master,Married,49,45143.0,1,7,0,2.29,Low Value Customers,0,0,0,0,0,0
+1131,PhD,Single,47,52569.0,1,3,0,1.26,Lost Customers,0,0,0,0,0,0
+1041,PhD,Single,41,48432.0,1,8,0,3.55,Medium Value Customer,0,0,0,0,0,1
+24,Master,Married,54,17144.0,2,7,0,1.8,Low Value Customers,0,0,0,0,0,0
+3409,Graduation,Single,30,36108.0,1,9,0,2.33,Low Value Customers,0,0,1,0,0,0
+7022,Graduation,Married,43,76445.0,1,6,0,3.92,Medium Value Customer,0,0,0,0,0,0
+7943,PhD,Married,39,36663.0,1,2,0,1.1,Lost Customers,0,0,0,0,0,0
+5272,Master,Married,49,53843.0,1,7,0,3.28,Medium Value Customer,0,0,0,0,0,0
+5453,Master,Married,58,90226.0,0,2,0,4.23,High value Customer,1,0,0,0,0,0
+2565,Master,Divorced,59,70638.0,0,3,0,3.24,Medium Value Customer,0,0,0,1,0,0
+800,Graduation,Married,54,44512.0,2,4,0,0.97,Lost Customers,0,0,0,0,0,0
+11092,Graduation,Married,53,27116.0,2,7,0,1.08,Lost Customers,0,0,0,0,0,0
+5062,PhD,Married,51,54072.0,2,8,0,0.62,Lost Customers,0,0,0,0,0,0
+8969,Graduation,Married,37,71855.0,1,3,0,4.09,High value Customer,0,0,0,0,0,0
+4656,Others,Single,24,51250.0,1,9,0,4.21,High value Customer,0,0,1,0,0,0
+4480,Master,Married,41,60432.0,1,6,0,3.11,Medium Value Customer,0,0,0,0,0,0
+9971,PhD,Married,50,65526.0,1,2,0,3.05,Medium Value Customer,0,0,0,0,0,0
+6729,Graduation,Single,26,68655.0,0,3,0,3.22,Medium Value Customer,0,0,0,0,0,0
+1773,Others,Married,36,12393.0,0,9,0,1.12,Lost Customers,0,0,0,0,0,0
+9242,Graduation,Single,24,64509.0,0,4,0,3.43,Medium Value Customer,0,0,1,0,0,1
+1764,Graduation,Single,39,33955.0,1,8,0,2.15,Low Value Customers,0,0,0,0,0,0
+6215,Graduation,Married,37,31353.0,2,8,0,1.23,Lost Customers,0,0,0,0,0,1
+10099,Graduation,Married,30,55434.0,1,4,0,4.27,High value Customer,0,0,0,0,0,0
+5423,Graduation,Married,31,28359.0,1,7,0,0.62,Lost Customers,0,0,0,0,0,0
+940,Graduation,Single,27,57100.0,1,3,0,2.66,Low Value Customers,0,0,0,0,0,0
+3011,Graduation,Married,49,69139.0,1,4,0,2.22,Low Value Customers,0,0,0,0,0,0
+3298,Master,Married,58,52973.0,1,8,0,4.25,High value Customer,0,0,0,0,0,0
+8286,PhD,Married,49,51717.0,1,7,0,1.48,Lost Customers,0,0,0,1,0,0
+9668,Graduation,Married,43,18793.0,1,8,0,1.97,Low Value Customers,0,0,0,0,0,0
+5120,Others,Married,32,66664.0,0,3,0,2.99,Low Value Customers,0,0,0,0,0,0
+6097,Graduation,Single,55,50664.0,2,9,0,3.94,Medium Value Customer,0,0,0,0,0,0
+7019,Graduation,Married,51,54414.0,2,4,0,2.26,Low Value Customers,0,0,0,0,0,0
+7408,PhD,Married,62,54549.0,1,7,0,2.46,Low Value Customers,0,0,0,0,0,0
+8041,PhD,Widow,43,47111.0,1,9,0,3.67,Medium Value Customer,0,0,0,0,0,0
+252,PhD,Divorced,51,41003.0,0,6,0,3.13,Medium Value Customer,0,0,0,0,0,0
+9986,Graduation,Married,32,19444.0,1,7,0,2.19,Low Value Customers,0,0,0,0,0,1
+3276,Others,Married,38,36301.0,1,7,0,1.26,Lost Customers,0,0,0,0,0,0
+3859,PhD,Married,67,73059.0,1,4,0,4.4,High value Customer,0,0,0,0,0,0
+3570,PhD,Married,45,42731.0,1,5,0,2.15,Low Value Customers,0,0,0,0,0,0
+3783,PhD,Married,55,52854.0,2,5,0,1.76,Low Value Customers,0,0,0,0,0,0
+10207,Graduation,Married,36,22775.0,1,8,0,0.59,Lost Customers,0,0,0,0,0,0
+10906,PhD,Married,66,46681.0,2,5,0,2.62,Low Value Customers,0,0,0,0,0,0
+3427,PhD,Married,59,59821.0,1,8,0,4.59,Top Customers,0,0,0,0,0,0
+5209,Graduation,Divorced,60,50002.0,1,7,0,3.42,Medium Value Customer,0,0,0,0,0,0
+10711,Graduation,Married,69,69755.0,0,1,0,3.95,Medium Value Customer,0,0,0,0,0,0
+10785,Graduation,Married,45,44078.0,2,5,0,1.53,Lost Customers,0,0,0,0,0,0
+2814,Master,Married,38,30560.0,1,7,0,1.1,Lost Customers,0,0,0,0,0,0
+6866,Master,Married,45,35924.0,2,5,0,0.72,Lost Customers,0,0,0,0,0,0
+1665,PhD,Divorced,50,64140.0,2,5,0,2.87,Low Value Customers,0,1,1,0,1,1
+6575,Graduation,Married,33,56386.0,2,9,0,4.16,High value Customer,0,0,0,0,0,0
+3829,Others,Married,35,24594.0,1,5,0,0.44,Lost Customers,0,0,0,0,0,0
+3091,Others,Married,33,75774.0,1,4,0,3.73,Medium Value Customer,0,0,0,0,0,0
+10141,Master,Divorced,54,39228.0,0,4,0,0.88,Lost Customers,0,0,0,0,0,0
+5177,Master,Married,40,58494.0,1,6,0,2.59,Low Value Customers,0,0,0,0,0,0
+7005,Graduation,Single,33,58684.0,0,2,0,3.41,Medium Value Customer,0,0,0,1,0,0
+6409,Graduation,Divorced,47,57136.0,0,6,0,3.62,Medium Value Customer,0,0,0,0,0,1
+7485,PhD,Widow,64,56551.0,2,4,0,1.9,Low Value Customers,0,0,0,0,0,0
+8079,Graduation,Married,32,22448.0,1,3,0,1.43,Lost Customers,0,0,0,0,0,0
+8395,Graduation,Single,53,82014.0,0,6,0,3.76,Medium Value Customer,0,0,0,0,0,1
+10352,Graduation,Widow,51,34213.0,2,9,0,2.06,Low Value Customers,0,0,0,0,0,1
+4931,Graduation,Married,37,157146.0,0,1,0,4.74,Top Customers,0,0,0,0,0,0
+13,PhD,Widow,67,25358.0,1,6,0,0.97,Lost Customers,0,0,0,0,0,0
+1834,Master,Single,36,35544.0,1,7,0,0.83,Lost Customers,0,0,0,0,0,0
+2285,Master,Married,60,36634.0,1,7,0,2.85,Low Value Customers,0,0,0,0,0,0
+2295,PhD,Married,60,62670.0,1,3,0,3.68,Medium Value Customer,0,0,0,0,0,0
+1378,Others,Married,42,50334.0,1,6,0,4.11,High value Customer,0,0,0,0,0,0
+2781,Graduation,Single,33,72066.0,0,2,0,2.8,Low Value Customers,1,0,0,0,1,1
+1165,PhD,Single,56,50729.0,2,6,0,3.96,Medium Value Customer,0,0,0,0,0,0
+1404,Graduation,Married,46,34916.0,2,9,0,1.96,Low Value Customers,0,0,0,0,0,0
+6457,Graduation,Divorced,38,64892.0,1,4,0,3.85,Medium Value Customer,0,0,0,0,0,0
+2639,Graduation,Single,48,43602.0,2,6,0,1.75,Low Value Customers,0,0,0,0,0,0
+8299,PhD,Single,25,33996.0,0,4,0,1.06,Lost Customers,0,0,0,0,0,0
+6437,Others,Single,29,41473.0,1,7,0,0.8,Lost Customers,0,0,0,0,0,0
+6912,PhD,Married,47,63246.0,2,4,0,3.66,Medium Value Customer,0,0,0,0,0,0
+7327,PhD,Married,55,36732.0,2,2,0,1.55,Lost Customers,0,0,0,0,0,0
+5299,PhD,Married,44,69084.0,1,8,0,4.22,High value Customer,0,0,0,0,0,0
+4127,PhD,Married,47,77766.0,1,6,0,4.25,High value Customer,0,0,1,0,0,1
+8143,PhD,Single,29,37929.0,0,7,0,2.26,Low Value Customers,1,0,0,1,0,1
+1964,Graduation,Married,63,86610.0,0,2,0,2.9,Low Value Customers,0,0,0,0,0,0
+3690,Master,Married,28,80141.0,0,6,0,3.97,Medium Value Customer,0,0,0,0,1,1
+3433,Others,Married,59,72635.0,0,3,0,3.53,Medium Value Customer,1,0,0,0,0,0
+3389,Graduation,Married,44,69016.0,1,5,0,4.53,Top Customers,0,0,0,0,0,0
+4712,Others,Married,23,20193.0,0,4,0,1.53,Lost Customers,0,0,0,0,0,0
+1170,Graduation,Married,39,27573.0,1,8,0,2.39,Low Value Customers,0,0,0,0,0,0
+6347,Others,Single,35,15862.0,1,8,0,0.95,Lost Customers,0,0,0,0,0,0
+4065,PhD,Married,38,49544.0,1,7,0,3.01,Medium Value Customer,0,0,0,0,0,0
+8230,Graduation,Married,34,33228.0,1,7,0,1.19,Lost Customers,0,0,0,0,0,0
+1215,Graduation,Married,36,70440.0,0,3,0,3.92,Medium Value Customer,1,0,0,0,0,0
+5939,Graduation,Married,43,38232.0,2,5,0,1.76,Low Value Customers,0,0,0,0,0,0
+2156,PhD,Married,59,22554.0,2,5,0,1.96,Low Value Customers,0,0,0,0,0,0
+7788,PhD,Married,31,23536.0,1,3,0,0.49,Lost Customers,0,0,0,0,0,0
+10323,Graduation,Married,62,49413.0,1,5,0,1.96,Low Value Customers,0,0,0,0,0,0
+7947,Graduation,Married,45,42231.0,2,5,0,0.41,Lost Customers,0,0,0,0,0,0
+1891,Master,Divorced,34,78789.0,0,2,0,2.92,Low Value Customers,0,0,0,0,0,1
+2570,Graduation,Married,46,56534.0,1,8,0,4.28,High value Customer,0,1,0,1,0,1
+9256,Graduation,Single,43,58350.0,1,6,0,4.73,Top Customers,0,0,0,0,0,0
+295,Graduation,Single,25,81217.0,0,1,0,3.54,Medium Value Customer,0,0,0,0,0,0
+7397,Graduation,Single,63,49090.0,1,7,0,3.61,Medium Value Customer,0,0,0,0,0,0
+6349,Master,Divorced,27,61787.0,0,5,0,3.04,Medium Value Customer,0,0,0,0,0,0
+10790,PhD,Married,29,18169.0,1,8,0,0.59,Lost Customers,0,0,0,0,0,0
+10398,Others,Single,33,24336.0,1,7,0,0.27,Lost Customers,0,0,0,0,0,0
+2431,Graduation,Married,24,18222.0,0,8,0,0.88,Lost Customers,0,0,0,0,0,0
+550,Graduation,Divorced,62,62335.0,1,2,0,3.28,Medium Value Customer,0,0,0,0,0,0
+1890,Others,Married,43,42033.0,2,7,0,0.17,Lost Customers,0,0,0,0,0,0
+10742,PhD,Married,31,86580.0,0,1,0,1.85,Low Value Customers,0,0,0,0,1,0
+10356,PhD,Divorced,57,41437.0,2,7,0,1.11,Lost Customers,0,0,0,0,0,0
+4676,Master,Widow,63,73705.0,2,5,0,3.89,Medium Value Customer,0,0,0,0,0,0
+8852,Graduation,Married,38,61064.0,1,6,0,4.24,High value Customer,0,0,0,0,0,0
+3565,Master,Married,59,38452.0,2,7,0,1.61,Low Value Customers,0,0,0,0,0,0
+5294,Graduation,Single,25,18358.0,1,7,0,1.89,Low Value Customers,0,0,0,0,0,0
+1958,PhD,Married,41,55012.0,1,5,0,3.9,Medium Value Customer,0,0,0,0,0,0
+7349,Others,Married,41,9722.0,1,8,0,2.34,Low Value Customers,0,0,0,0,0,1
+8799,PhD,Married,30,38175.0,1,7,0,2.34,Low Value Customers,0,0,0,0,0,0
+1351,Master,Married,58,58656.0,1,6,0,4.78,Top Customers,0,0,0,0,1,0
+1045,Graduation,Married,49,52117.0,1,7,0,2.21,Low Value Customers,0,0,0,0,0,0
+7732,Graduation,Married,36,64813.0,1,5,0,3.15,Medium Value Customer,0,0,0,0,0,0
+8070,PhD,Married,41,54222.0,1,3,0,1.78,Low Value Customers,0,0,0,0,0,0
+477,Graduation,Married,28,83512.0,0,1,0,3.88,Medium Value Customer,1,1,1,0,1,1
+7832,Master,Married,55,77520.0,1,4,0,4.06,High value Customer,1,0,1,0,1,1
+2202,Graduation,Married,36,41154.0,1,5,0,0.67,Lost Customers,0,0,0,0,0,0
+7396,Graduation,Married,48,80398.0,0,3,0,3.98,Medium Value Customer,0,0,0,0,1,0
+4055,Others,Single,22,18746.0,1,6,0,1.58,Lost Customers,0,0,0,0,0,0
+10340,Graduation,Married,30,35196.0,1,8,0,2.89,Low Value Customers,0,0,0,0,0,0
+10091,Graduation,Single,58,60230.0,1,5,0,2.63,Low Value Customers,0,0,0,0,0,0
+7629,Graduation,Married,37,22108.0,2,7,0,1.32,Lost Customers,0,0,0,0,0,0
+10640,Graduation,Married,40,44392.0,2,7,0,2.19,Low Value Customers,0,0,0,0,0,0
+3498,PhD,Married,38,55424.0,1,6,0,4.49,High value Customer,0,0,1,0,0,1
+6742,Graduation,Married,35,17688.0,1,8,1,0.27,Lost Customers,0,0,0,0,0,0
+1172,PhD,Married,31,92491.0,0,3,0,4.01,High value Customer,1,0,0,1,1,1
+569,Graduation,Single,23,90273.0,0,2,0,3.33,Medium Value Customer,1,0,0,1,1,1
+4686,PhD,Widow,52,82571.0,0,2,0,4.21,High value Customer,0,0,0,0,1,0
+1381,PhD,Single,32,38513.0,1,8,0,3.07,Medium Value Customer,0,0,0,0,0,1
+2634,Master,Single,35,16653.0,1,6,0,2.0,Low Value Customers,0,0,0,0,0,1
+10905,Graduation,Married,59,42586.0,2,8,0,2.96,Low Value Customers,0,0,0,0,0,1
+1744,Others,Single,49,23529.0,1,6,0,0.65,Lost Customers,0,0,0,0,0,0
+1000,Master,Married,53,74881.0,2,5,0,4.41,High value Customer,0,0,0,0,0,0
+3828,Graduation,Married,63,71107.0,1,4,0,4.38,High value Customer,0,0,0,0,0,0
+8605,PhD,Married,50,46910.0,2,6,0,1.39,Lost Customers,0,0,0,0,0,0
+10304,Graduation,Married,55,18690.0,0,8,0,0.57,Lost Customers,0,0,0,0,0,0
+4351,Graduation,Divorced,59,37244.0,2,7,0,0.47,Lost Customers,0,0,1,0,0,0
+10129,Graduation,Married,48,82427.0,0,1,0,3.67,Medium Value Customer,0,0,0,0,1,0
+2499,Others,Single,56,75342.0,1,4,0,3.11,Medium Value Customer,0,0,0,0,0,0
+10092,Graduation,Divorced,60,70044.0,1,5,0,4.33,High value Customer,0,0,0,0,0,0
+7500,Graduation,Single,47,79146.0,2,6,0,3.32,Medium Value Customer,0,0,0,0,0,0
+5796,Graduation,Married,51,77437.0,0,1,0,3.76,Medium Value Customer,0,0,0,0,1,0
+10556,Graduation,Married,55,54984.0,1,7,0,2.83,Low Value Customers,1,0,0,0,0,0
+1064,PhD,Married,43,42403.0,1,8,0,1.02,Lost Customers,0,0,0,0,0,0
+48,Graduation,Married,50,55761.0,1,6,0,1.52,Lost Customers,0,0,0,1,0,0
+7610,Graduation,Married,31,37292.0,1,8,0,3.33,Medium Value Customer,0,0,0,0,0,0
+263,PhD,Single,69,45576.0,0,8,0,1.83,Low Value Customers,0,0,0,0,0,1
+10814,Graduation,Married,67,70321.0,0,4,0,4.49,High value Customer,0,0,0,0,0,1
+9710,PhD,Divorced,45,58086.0,1,8,0,3.69,Medium Value Customer,0,0,0,0,0,0
+9292,Graduation,Married,62,81795.0,0,2,0,3.73,Medium Value Customer,0,0,0,0,0,0
+10250,Others,Married,67,28389.0,0,7,0,0.53,Lost Customers,0,0,0,0,0,0
+7881,Master,Married,68,66835.0,0,2,0,4.27,High value Customer,0,0,0,0,0,0
+5847,Graduation,Divorced,45,69901.0,1,5,0,3.57,Medium Value Customer,0,0,0,0,0,0
+737,PhD,Married,65,80360.0,0,2,0,2.42,Low Value Customers,1,0,0,1,1,0
+3571,PhD,Married,53,63342.0,1,6,0,3.22,Medium Value Customer,0,0,0,1,0,1
+7807,Graduation,Married,40,44989.0,1,6,0,2.82,Low Value Customers,0,0,0,0,0,0
+3878,Others,Single,34,31859.0,1,7,0,1.13,Lost Customers,0,0,0,0,0,0
+5092,PhD,Widow,65,51569.0,1,8,0,3.28,Medium Value Customer,0,0,0,1,0,1
+2154,Graduation,Widow,43,30372.0,2,7,0,1.64,Low Value Customers,0,0,0,0,0,0
+5394,Others,Single,35,16014.0,2,3,0,1.94,Low Value Customers,0,0,0,0,0,0
+3798,Graduation,Married,46,41120.0,2,6,0,1.48,Lost Customers,0,0,0,0,0,0
+3524,Master,Single,43,39763.0,1,9,0,2.18,Low Value Customers,0,0,0,0,0,1
+5247,PhD,Married,59,38725.0,2,4,0,1.27,Lost Customers,0,0,0,0,0,0
+5883,Graduation,Married,42,77981.0,1,5,0,3.35,Medium Value Customer,0,0,0,0,0,0
+2118,Others,Married,50,62905.0,1,4,0,3.25,Medium Value Customer,0,0,0,0,0,0
+8812,Others,Divorced,35,13533.0,1,7,0,1.33,Lost Customers,0,0,0,0,0,0
+6616,Graduation,Married,39,59481.0,1,2,0,2.66,Low Value Customers,0,0,0,0,0,0
+2797,Graduation,Married,37,72117.0,1,5,0,4.41,High value Customer,0,0,0,0,0,0
+4328,Others,Married,28,21955.0,1,6,0,1.28,Lost Customers,0,0,0,0,0,0
+9167,Graduation,Married,58,67131.0,1,6,0,4.13,High value Customer,0,0,0,0,0,0
+10560,PhD,Single,34,36802.0,1,5,0,0.98,Lost Customers,0,0,0,0,0,0
+2631,Graduation,Married,32,71853.0,0,1,0,3.0,Low Value Customers,0,0,0,0,0,0
+8312,Others,Married,53,28249.0,0,6,0,0.8,Lost Customers,0,0,0,0,0,0
+5534,Master,Married,39,47808.0,1,7,0,2.02,Low Value Customers,0,0,1,0,0,0
+5093,PhD,Divorced,40,25509.0,1,9,0,1.96,Low Value Customers,0,0,0,0,0,1
+7592,PhD,Married,68,51012.0,0,6,0,1.6,Lost Customers,0,0,0,0,0,0
+8895,Graduation,Single,29,70596.0,0,2,0,3.43,Medium Value Customer,0,0,0,0,0,0
+8584,PhD,Married,62,85431.0,0,0,0,2.81,Low Value Customers,0,0,0,0,0,0
+2694,Graduation,Married,47,42664.0,1,6,0,0.82,Lost Customers,0,0,0,0,0,0
+8910,Graduation,Married,59,42586.0,2,8,0,2.96,Low Value Customers,0,0,0,0,0,1
+7433,Graduation,Single,29,29760.0,1,8,0,1.86,Low Value Customers,0,0,0,0,0,0
+164,PhD,Married,37,28973.0,0,8,0,2.18,Low Value Customers,0,0,0,0,0,0
+10477,PhD,Married,41,39435.0,1,7,0,1.54,Lost Customers,0,0,0,0,0,0
+2681,Others,Married,30,65370.0,0,1,0,3.57,Medium Value Customer,0,0,0,0,0,0
+5150,Others,Single,35,20194.0,1,6,0,1.18,Lost Customers,0,0,0,0,0,0
+5283,PhD,Single,38,42473.0,2,5,0,1.71,Low Value Customers,0,0,0,0,0,0
+9645,Graduation,Married,46,64590.0,0,6,0,3.69,Medium Value Customer,0,0,0,0,0,0
+10678,Graduation,Married,55,71232.0,1,7,0,3.86,Medium Value Customer,0,0,0,0,0,0
+7261,Graduation,Married,43,34600.0,2,8,0,3.16,Medium Value Customer,0,0,0,0,0,1
+9648,Graduation,Single,47,46904.0,2,8,0,2.57,Low Value Customers,0,0,0,0,0,0
+2870,Graduation,Married,41,49094.0,1,6,0,3.71,Medium Value Customer,0,0,0,0,0,0
+8008,Graduation,Married,31,36075.0,1,6,0,1.26,Lost Customers,0,0,0,0,0,0
+1513,Others,Married,35,60839.0,2,8,0,4.35,High value Customer,0,0,0,0,0,0
+6173,Graduation,Married,35,77298.0,1,3,0,4.08,High value Customer,0,0,0,0,0,0
+1419,Graduation,Married,64,34026.0,2,5,0,1.99,Low Value Customers,0,0,0,0,0,0
+9150,PhD,Single,51,48918.0,2,4,0,1.51,Lost Customers,0,0,0,0,0,0
+7960,Others,Married,52,82122.0,0,1,0,4.0,Medium Value Customer,0,0,0,0,1,0
+1250,Graduation,Single,38,37697.0,1,6,0,1.04,Lost Customers,0,0,0,0,0,0
+9905,Graduation,Married,62,34074.0,2,6,0,2.2,Low Value Customers,0,0,1,0,0,0
+10691,Master,Married,54,28520.0,2,6,0,0.73,Lost Customers,0,0,0,0,0,0
+7002,Graduation,Single,59,62535.0,1,3,0,2.62,Low Value Customers,0,0,0,0,0,0
+2952,Master,Single,37,36273.0,1,6,0,1.29,Lost Customers,0,0,0,0,0,0
+8439,Graduation,Married,50,63404.0,2,4,0,2.11,Low Value Customers,1,0,0,0,0,0
+762,Others,Married,33,75774.0,1,4,0,3.73,Medium Value Customer,0,0,0,0,0,0
+2831,Graduation,Married,38,78416.0,1,3,0,3.93,Medium Value Customer,0,0,0,0,0,0
+6977,Graduation,Married,40,75702.0,1,6,0,4.23,High value Customer,0,0,0,0,1,0
+6289,Master,Married,63,59385.0,2,5,0,1.61,Low Value Customers,0,0,0,0,0,0
+4168,Graduation,Single,48,37070.0,2,7,0,4.06,High value Customer,0,0,0,0,0,1
+8397,Graduation,Married,63,44689.0,2,7,0,0.79,Lost Customers,0,0,1,0,0,0
+9284,Graduation,Married,56,53977.0,1,5,0,4.61,Top Customers,0,0,0,0,0,0
+6237,PhD,Single,48,7144.0,2,0,0,3.85,Medium Value Customer,0,0,0,0,0,0
+3130,Graduation,Single,50,18701.0,2,5,0,1.54,Lost Customers,0,0,0,0,0,0
+1619,Graduation,Married,58,90369.0,0,1,0,3.2,Medium Value Customer,0,0,0,0,0,1
+1990,PhD,Single,40,63159.0,0,3,0,2.66,Low Value Customers,0,0,1,0,0,0
+5513,Graduation,Married,48,37758.0,2,8,0,1.04,Lost Customers,0,0,0,0,0,0
+269,PhD,Single,51,46757.0,1,9,0,3.41,Medium Value Customer,0,0,0,0,0,0
+8093,Master,Married,45,79734.0,0,1,0,2.18,Low Value Customers,1,0,0,0,0,0
+10513,Graduation,Married,22,63207.0,0,7,0,2.01,Low Value Customers,1,0,0,0,0,0
+10177,Graduation,Divorced,60,72071.0,1,2,0,3.72,Medium Value Customer,0,0,0,0,0,0
+2549,PhD,Married,31,21840.0,1,9,0,0.55,Lost Customers,0,0,0,0,0,0
+5782,Others,Married,32,58582.0,1,5,0,4.0,Medium Value Customer,0,0,0,1,0,0
+10057,Graduation,Single,63,72282.0,0,7,0,3.59,Medium Value Customer,0,0,0,0,0,1
+10307,Graduation,Married,58,50387.0,2,5,0,2.89,Low Value Customers,0,0,0,0,0,0
+8566,PhD,Married,53,32583.0,2,7,0,0.82,Lost Customers,0,0,0,0,0,0
+2415,Graduation,Married,52,62568.0,1,4,0,2.27,Low Value Customers,1,0,0,0,0,0
+5684,Master,Divorced,43,44635.0,2,7,0,1.47,Lost Customers,0,0,0,0,0,0
+8334,Master,Single,43,33316.0,2,6,0,1.99,Low Value Customers,0,0,0,0,0,0
+9166,Graduation,Married,46,63967.0,1,2,0,3.85,Medium Value Customer,0,0,0,0,0,0
+1440,Others,Married,36,52513.0,0,7,0,3.91,Medium Value Customer,0,0,0,0,0,0
+78,Graduation,Married,45,25293.0,1,8,0,0.77,Lost Customers,0,0,0,0,0,0
+5441,PhD,Widow,49,54111.0,1,5,0,2.11,Low Value Customers,0,0,0,0,0,0
+5302,Graduation,Married,28,78394.0,0,2,0,2.91,Low Value Customers,0,0,0,0,0,1
+4687,Master,Married,56,80739.0,0,1,0,3.73,Medium Value Customer,0,0,0,0,0,0
+1087,Master,Married,39,22669.0,1,9,0,2.02,Low Value Customers,0,0,0,0,0,1
+6859,Graduation,Single,27,29236.0,1,9,0,1.85,Low Value Customers,0,0,0,0,0,0
+9860,Graduation,Married,55,44911.0,1,7,0,2.44,Low Value Customers,0,0,0,0,0,0
+7129,PhD,Married,52,54693.0,1,6,0,4.4,High value Customer,0,0,0,0,0,0
+5866,Graduation,Married,40,48186.0,1,7,0,2.23,Low Value Customers,0,0,0,0,0,0
+10521,Graduation,Married,37,54809.0,2,4,0,2.52,Low Value Customers,0,0,0,0,0,1
+7393,Graduation,Married,36,41580.0,2,5,0,1.96,Low Value Customers,0,0,0,0,0,0
+7849,PhD,Married,44,80336.0,0,1,0,4.45,High value Customer,0,0,0,0,0,0
+332,Graduation,Married,57,47743.0,1,6,0,2.3,Low Value Customers,0,0,0,1,0,0
+9847,Others,Married,59,62972.0,1,6,0,2.72,Low Value Customers,0,0,0,0,0,0
+531,PhD,Divorced,60,57333.0,1,6,0,4.56,Top Customers,0,0,0,0,0,1
+9576,PhD,Married,32,32313.0,1,9,0,1.94,Low Value Customers,0,0,0,0,0,0
+6906,Master,Widow,61,84953.0,0,2,0,2.85,Low Value Customers,1,0,0,1,1,1
+7419,Master,Divorced,46,27071.0,1,6,0,0.98,Lost Customers,0,0,0,0,0,0
+3170,Master,Married,57,68148.0,0,2,0,2.2,Low Value Customers,0,0,0,0,0,0
+8527,Master,Married,49,65735.0,2,7,0,3.29,Medium Value Customer,0,0,0,0,0,0
+7872,PhD,Married,39,86836.0,0,5,0,4.24,High value Customer,1,0,1,0,1,1
+9931,PhD,Married,51,4023.0,2,19,0,2.62,Low Value Customers,0,0,0,0,0,0
+10595,Graduation,Married,24,30093.0,0,7,0,1.26,Lost Customers,0,0,0,0,0,0
+4609,PhD,Married,48,57705.0,1,6,0,3.29,Medium Value Customer,0,0,0,0,0,0
+5010,Graduation,Single,26,25008.0,1,8,0,0.86,Lost Customers,0,0,0,0,0,0
+4427,Others,Single,19,83257.0,0,6,1,4.42,High value Customer,0,0,1,0,1,1
+11148,Graduation,Married,39,22280.0,1,8,0,0.25,Lost Customers,0,0,0,0,0,0
+1168,PhD,Married,36,72159.0,0,2,0,3.47,Medium Value Customer,0,0,0,0,0,0
+9595,Graduation,Married,53,64260.0,0,3,0,2.72,Low Value Customers,0,0,0,0,0,1
+10163,PhD,Single,30,82733.0,0,4,0,3.55,Medium Value Customer,0,0,0,0,0,1
+2886,Master,Divorced,43,74290.0,1,6,0,4.44,High value Customer,1,0,0,1,0,0
+6710,Master,Single,63,58217.0,3,6,0,1.03,Lost Customers,0,0,0,0,0,0
+5316,Master,Married,38,21024.0,0,7,0,0.99,Lost Customers,0,0,0,0,0,0
+9029,PhD,Married,42,70116.0,0,1,0,3.74,Medium Value Customer,0,0,0,0,0,0
+521,Graduation,Married,29,54006.0,1,7,0,3.09,Medium Value Customer,0,0,0,0,0,0
+1459,PhD,Married,48,69063.0,1,3,0,2.6,Low Value Customers,0,0,0,0,0,0
+10241,Others,Divorced,39,11448.0,0,6,0,0.77,Lost Customers,0,0,0,0,0,0
+1630,Graduation,Single,35,61825.0,1,4,0,2.42,Low Value Customers,0,0,0,0,0,0
+3254,Graduation,Married,43,70886.0,1,2,0,2.23,Low Value Customers,0,0,0,0,0,0
+9064,Graduation,Married,32,69109.0,0,4,0,3.68,Medium Value Customer,0,0,0,0,1,1
+3678,Graduation,Widow,41,60208.0,2,7,0,4.79,Top Customers,0,0,0,1,0,1
+4227,Master,Married,46,32889.0,2,5,0,1.49,Lost Customers,0,0,0,0,0,0
+9467,Graduation,Single,30,34738.0,1,6,0,0.77,Lost Customers,0,0,0,0,0,0
+8486,Master,Married,43,30538.0,1,10,0,3.01,Medium Value Customer,0,0,0,0,0,0
+2186,Others,Married,37,82326.0,0,2,0,3.89,Medium Value Customer,1,0,0,1,1,1
+3286,PhD,Divorced,47,26642.0,1,6,0,1.13,Lost Customers,0,0,0,0,0,0
+8602,Graduation,Divorced,50,69932.0,1,4,0,3.94,Medium Value Customer,0,0,0,0,0,0
+3722,Graduation,Single,42,44503.0,2,6,0,1.04,Lost Customers,0,0,0,0,0,0
+6715,PhD,Single,66,60200.0,1,6,0,4.52,Top Customers,0,0,0,0,0,0
+4796,Graduation,Divorced,62,49638.0,1,2,0,0.62,Lost Customers,0,0,0,0,0,0
+9612,Others,Single,27,23830.0,0,7,0,1.13,Lost Customers,0,0,0,0,0,0
+3766,Master,Widow,55,33051.0,0,9,0,3.82,Medium Value Customer,0,0,0,0,0,1
+1399,Graduation,Married,56,72905.0,0,1,0,3.37,Medium Value Customer,1,0,0,0,0,0
+1570,PhD,Married,63,69702.0,1,4,0,4.61,Top Customers,0,0,0,0,0,0
+3426,Graduation,Divorced,39,70300.0,1,8,0,4.0,Medium Value Customer,0,0,0,0,0,0
+3074,PhD,Married,30,70643.0,0,6,0,2.9,Low Value Customers,0,0,0,0,0,1
+8341,PhD,Married,45,30396.0,1,7,0,1.24,Lost Customers,0,0,1,0,0,1
+5180,PhD,Divorced,46,50616.0,1,7,0,1.83,Low Value Customers,0,0,0,0,0,0
+6461,Master,Single,45,62772.0,1,2,0,3.73,Medium Value Customer,0,0,0,1,0,0
+7679,PhD,Single,29,30298.0,0,3,0,1.05,Lost Customers,0,0,0,0,0,0
+10702,Graduation,Single,30,52413.0,1,7,0,2.71,Low Value Customers,0,0,0,0,0,0
+7505,PhD,Married,57,44155.0,2,4,0,0.97,Lost Customers,0,0,0,0,0,0
+5113,PhD,Divorced,43,86979.0,0,2,0,2.51,Low Value Customers,0,0,1,0,0,1
+10858,Graduation,Married,39,76532.0,2,5,0,4.25,High value Customer,0,0,0,0,0,0
+2961,Graduation,Married,32,42081.0,1,6,0,2.2,Low Value Customers,0,0,1,0,0,0
+2747,PhD,Married,26,67546.0,0,3,0,3.08,Medium Value Customer,0,0,0,0,0,0
+3010,Master,Married,25,88420.0,0,1,0,3.1,Medium Value Customer,1,0,1,0,1,0
+5790,Graduation,Married,29,31158.0,1,8,0,1.19,Lost Customers,0,0,0,0,0,0
+6892,Graduation,Divorced,46,61671.0,1,8,0,4.67,Top Customers,1,0,0,1,0,0
+1743,Graduation,Single,40,69719.0,0,1,0,1.65,Low Value Customers,0,0,0,0,0,0
+3578,Graduation,Divorced,65,49160.0,1,6,0,2.3,Low Value Customers,0,0,0,0,0,0
+8462,Others,Married,36,24882.0,1,6,0,0.76,Lost Customers,0,0,1,0,0,0
+5558,PhD,Single,60,90933.0,0,1,0,2.17,Low Value Customers,0,0,0,0,1,0
+4619,PhD,Single,69,113734.0,0,1,0,4.7,Top Customers,0,0,0,0,0,0
+8780,PhD,Married,64,59292.0,1,3,0,2.87,Low Value Customers,0,0,0,0,0,0
+10789,PhD,Married,50,45759.0,2,7,0,1.56,Lost Customers,0,0,0,0,0,0
+10779,Graduation,Single,31,22148.0,0,7,0,1.03,Lost Customers,0,0,0,0,0,0
+5896,Master,Married,27,73395.0,0,2,0,2.14,Low Value Customers,0,0,0,0,0,0
+2337,Graduation,Divorced,43,29819.0,1,6,0,1.5,Lost Customers,0,0,0,0,0,0
+10951,Graduation,Married,46,45688.0,1,4,0,2.57,Low Value Customers,0,0,0,1,0,0
+544,Graduation,Married,60,62820.0,0,1,0,2.34,Low Value Customers,0,0,0,0,0,0
+17,PhD,Married,43,60491.0,1,5,0,4.23,High value Customer,0,0,0,0,0,0
+10680,Graduation,Married,28,33235.0,1,7,0,1.13,Lost Customers,0,0,0,0,0,0
+3265,Graduation,Married,55,35701.0,0,6,0,0.88,Lost Customers,0,0,0,0,0,0
+5623,Master,Married,34,31535.0,1,7,0,0.43,Lost Customers,0,0,1,0,0,0
+5832,Others,Married,54,92556.0,0,0,0,3.69,Medium Value Customer,0,0,0,0,0,0
+5544,Graduation,Single,44,67384.0,1,5,0,3.87,Medium Value Customer,0,0,0,1,0,0
+6417,Master,Married,43,80573.0,0,2,0,3.78,Medium Value Customer,0,0,0,0,0,0
+5831,Graduation,Married,47,77870.0,1,8,0,2.7,Low Value Customers,1,0,0,1,0,1
+7101,PhD,Widow,51,52278.0,1,8,0,4.76,Top Customers,0,0,0,0,0,0
+10176,Graduation,Single,46,57107.0,1,8,0,3.96,Medium Value Customer,0,1,0,1,0,1
+2326,Graduation,Married,24,18929.0,0,6,0,1.29,Lost Customers,0,0,0,0,0,0
+4385,PhD,Single,33,36038.0,1,6,0,1.27,Lost Customers,0,0,0,0,0,0
+2929,Graduation,Single,38,20180.0,0,7,0,1.69,Low Value Customers,0,0,0,0,0,0
+10686,PhD,Married,49,34230.0,2,7,0,0.35,Lost Customers,0,0,0,0,0,0
+2546,Others,Single,37,31878.0,1,3,0,1.35,Lost Customers,0,0,0,0,0,0
+3283,Others,Married,42,70932.0,1,3,0,3.68,Medium Value Customer,0,0,0,0,0,0
+3138,Graduation,Single,58,91249.0,0,4,0,3.48,Medium Value Customer,1,1,0,1,1,1
+4994,Master,Single,71,77598.0,0,3,0,4.27,High value Customer,0,0,0,0,1,0
+7966,Graduation,Single,55,80982.0,2,5,1,4.56,Top Customers,0,0,0,0,0,0
+3112,Master,Married,37,22701.0,1,5,0,1.13,Lost Customers,0,0,0,0,0,0
+10872,PhD,Married,45,55212.0,1,8,0,3.27,Medium Value Customer,0,1,0,1,0,0
+2181,Graduation,Married,44,70617.0,0,2,0,2.39,Low Value Customers,0,0,0,0,0,0
+1867,Graduation,Single,57,64849.0,0,5,0,3.26,Medium Value Customer,0,0,0,0,0,1
+1518,Master,Married,49,62694.0,2,7,0,4.2,High value Customer,0,0,0,0,0,0
+5734,PhD,Married,40,61917.0,2,5,0,1.04,Lost Customers,0,0,0,0,0,0
+2878,PhD,Married,67,67472.0,1,3,0,2.14,Low Value Customers,0,0,0,0,0,0
+1458,Master,Married,32,21059.0,1,6,0,1.78,Low Value Customers,0,0,0,0,0,0
+7007,Master,Married,46,29543.0,2,7,0,1.54,Lost Customers,0,0,0,0,0,0
+6200,Graduation,Married,63,75903.0,1,3,0,3.91,Medium Value Customer,0,0,0,0,0,0
+1403,Others,Married,39,34984.0,2,7,0,1.1,Lost Customers,0,0,0,0,0,0
+4827,PhD,Single,58,54998.0,1,4,0,3.73,Medium Value Customer,0,0,0,0,0,1
+6250,PhD,Widow,65,54356.0,1,8,0,3.96,Medium Value Customer,0,0,0,0,0,1
+9291,Master,Married,55,34242.0,1,5,0,0.7,Lost Customers,0,0,0,0,0,0
+2478,Graduation,Married,41,25410.0,1,4,0,1.05,Lost Customers,0,0,0,0,0,0
+1139,PhD,Married,30,73356.0,0,2,0,3.69,Medium Value Customer,1,0,1,0,1,1
+5138,Graduation,Married,64,28320.0,1,8,0,0.64,Lost Customers,0,0,0,0,0,0
+5393,Graduation,Single,37,23763.0,1,7,0,0.67,Lost Customers,0,0,0,0,0,0
+10413,Graduation,Married,30,72570.0,0,1,0,3.78,Medium Value Customer,0,0,0,0,0,0
+5015,Master,Married,38,34529.0,1,7,0,1.37,Lost Customers,0,0,0,0,0,0
+10868,Graduation,Widow,63,70792.0,0,3,0,2.95,Low Value Customers,0,0,0,0,0,0
+10676,Graduation,Married,32,63211.0,0,2,0,3.73,Medium Value Customer,0,0,0,0,0,1
+2495,Master,Married,40,83891.0,1,1,0,3.94,Medium Value Customer,0,0,0,0,0,0
+7842,Graduation,Single,46,36065.0,2,8,0,1.67,Low Value Customers,0,0,0,0,0,0
+9955,Graduation,Married,60,39898.0,1,7,0,1.93,Low Value Customers,0,0,0,0,0,0
+6663,PhD,Single,74,51141.0,0,5,0,1.36,Lost Customers,0,0,0,0,0,0
+2162,Graduation,Married,38,56939.0,1,3,0,3.26,Medium Value Customer,0,0,0,0,0,0
+3434,Graduation,Single,63,80872.0,0,1,0,3.12,Medium Value Customer,0,0,0,0,0,0
+7919,PhD,Married,38,72335.0,0,8,0,4.27,High value Customer,0,0,0,0,0,1
+5626,PhD,Single,50,61798.0,0,4,0,2.91,Low Value Customers,0,0,0,0,0,0
+6428,PhD,Widow,64,76842.0,0,0,0,2.94,Low Value Customers,0,0,0,0,0,0
+8514,Graduation,Married,38,29478.0,1,6,0,0.7,Lost Customers,0,0,0,0,0,0
+10448,Graduation,Single,58,46998.0,1,7,0,2.99,Low Value Customers,0,0,1,0,0,0
+2109,Graduation,Single,24,96843.0,0,2,0,4.39,High value Customer,0,0,0,0,1,1
+7530,PhD,Widow,64,56551.0,2,4,0,1.9,Low Value Customers,0,0,0,0,0,0
+8925,Master,Married,49,70053.0,1,5,0,4.38,High value Customer,0,0,0,0,0,0
+3009,PhD,Widow,52,71670.0,0,6,0,2.79,Low Value Customers,0,1,0,1,1,1
+6355,Graduation,Married,36,44359.0,2,3,0,1.94,Low Value Customers,0,0,0,0,0,0
+3517,Graduation,Single,62,40887.0,2,9,0,2.01,Low Value Customers,0,0,0,0,0,1
+1158,Graduation,Divorced,48,48877.0,1,7,0,1.69,Low Value Customers,0,0,0,0,0,0
+6203,Graduation,Married,67,74485.0,0,3,0,4.23,High value Customer,0,0,0,0,0,0
+7165,Graduation,Married,42,64474.0,1,5,0,3.67,Medium Value Customer,0,0,0,0,0,0
+3595,Graduation,Married,51,77226.0,1,3,0,4.62,Top Customers,0,0,0,0,0,0
+8537,Graduation,Widow,65,72643.0,0,2,0,3.48,Medium Value Customer,1,0,0,0,0,1
+4331,Master,Married,36,85738.0,0,1,0,3.63,Medium Value Customer,0,0,0,1,1,0
+6281,Graduation,Divorced,48,55686.0,1,4,0,2.81,Low Value Customers,0,0,1,0,0,0
+4338,Graduation,Single,31,39062.0,1,4,0,0.94,Lost Customers,0,0,1,0,0,0
+2452,Graduation,Married,43,34600.0,2,8,0,3.16,Medium Value Customer,0,0,0,0,0,1
+9507,Graduation,Married,39,40794.0,1,7,0,2.88,Low Value Customers,0,0,0,0,0,0
+8360,Others,Married,43,54690.0,2,3,0,1.95,Low Value Customers,0,0,0,0,0,0
+10311,Graduation,Married,45,4428.0,1,1,0,4.54,Top Customers,0,0,0,0,0,0
+5117,Others,Married,51,32632.0,0,5,0,3.16,Medium Value Customer,0,0,0,0,0,0
+4867,PhD,Single,46,38236.0,2,7,0,2.38,Low Value Customers,0,0,0,0,0,0
+9289,Graduation,Married,35,36781.0,1,8,0,1.28,Lost Customers,0,0,0,0,0,1
+10913,Master,Single,30,31385.0,1,8,0,0.47,Lost Customers,0,0,1,0,0,1
+3032,Graduation,Married,30,24570.0,1,9,0,1.66,Low Value Customers,0,0,0,0,0,0
+8524,PhD,Divorced,40,25509.0,1,9,0,1.96,Low Value Customers,0,0,0,0,0,1
+3334,Graduation,Married,63,94642.0,0,1,0,3.67,Medium Value Customer,1,0,0,0,1,0
+4470,Master,Married,52,58646.0,1,4,0,1.87,Low Value Customers,0,0,0,0,0,0
+1406,Graduation,Single,39,53201.0,2,7,0,3.75,Medium Value Customer,0,0,0,0,0,0
+8619,Graduation,Married,57,21994.0,1,5,0,0.86,Lost Customers,0,0,0,0,0,0
+10821,Graduation,Married,36,57113.0,2,7,0,2.68,Low Value Customers,0,0,0,0,0,0
+4552,Graduation,Married,23,51373.0,0,4,0,2.24,Low Value Customers,0,0,0,0,0,0
+898,Graduation,Married,28,23477.0,1,8,0,1.96,Low Value Customers,0,0,0,0,0,0
+9797,Graduation,Married,58,58116.0,1,2,0,2.72,Low Value Customers,0,0,0,0,0,0
+10949,PhD,Divorced,51,72968.0,0,3,0,3.51,Medium Value Customer,1,0,0,0,0,1
+8212,Master,Married,43,39791.0,1,7,0,1.58,Lost Customers,0,0,0,0,0,0
+6248,Master,Single,67,91712.0,0,3,0,4.42,High value Customer,0,0,0,0,1,1
+10164,Graduation,Single,56,94472.0,1,5,0,2.45,Low Value Customers,0,0,0,1,1,0
+4547,Graduation,Married,54,13672.0,2,8,0,0.76,Lost Customers,0,0,0,0,0,0
+6815,Others,Married,34,96547.0,0,2,0,3.9,Medium Value Customer,1,0,1,0,1,1
+4122,Graduation,Married,39,79205.0,0,4,0,2.46,Low Value Customers,1,0,0,0,0,1
+10841,PhD,Married,39,56559.0,1,4,0,3.06,Medium Value Customer,0,0,0,0,0,0
+5370,PhD,Married,41,32644.0,1,8,0,3.11,Medium Value Customer,0,0,1,0,0,0
+176,Others,Single,34,67506.0,1,3,0,1.97,Low Value Customers,0,0,0,0,0,0
+4860,Graduation,Single,44,24206.0,1,6,0,0.65,Lost Customers,0,0,0,0,0,0
+10757,PhD,Divorced,47,28420.0,1,6,0,0.62,Lost Customers,0,0,0,0,0,0
+4023,Graduation,Married,44,22979.0,1,8,0,2.03,Low Value Customers,0,0,0,0,0,1
+6679,Graduation,Single,48,33279.0,0,3,0,0.67,Lost Customers,0,0,0,0,0,0
+9923,Master,Single,42,46423.0,2,7,0,2.03,Low Value Customers,0,0,0,0,0,0
+7181,Graduation,Married,37,30368.0,1,8,0,0.93,Lost Customers,0,0,0,0,0,0
+3599,Graduation,Married,44,63684.0,1,5,0,3.83,Medium Value Customer,0,0,0,0,0,0
+405,Graduation,Divorced,50,41638.0,1,8,0,2.71,Low Value Customers,0,0,1,0,0,0
+6870,PhD,Divorced,55,68805.0,1,2,0,1.97,Low Value Customers,0,0,0,0,0,0
+832,PhD,Married,48,65814.0,1,5,0,3.61,Medium Value Customer,0,0,0,0,0,0
+2002,Graduation,Divorced,56,71964.0,0,3,0,2.61,Low Value Customers,0,0,0,0,0,0
+3657,Graduation,Single,28,39146.0,1,8,0,2.38,Low Value Customers,0,0,0,0,0,0
+500,Graduation,Married,37,96876.0,0,2,0,3.83,Medium Value Customer,1,0,0,1,1,1
+1951,Others,Married,33,34445.0,0,9,0,4.08,High value Customer,0,0,0,0,0,0
+3262,Graduation,Single,56,68281.0,0,5,0,4.3,High value Customer,0,0,0,0,0,1
+4102,Others,Married,39,37284.0,2,6,0,0.55,Lost Customers,0,0,0,0,0,0
+7042,Graduation,Married,31,36790.0,0,9,0,1.29,Lost Customers,0,0,0,0,0,1
+10598,Graduation,Married,47,27943.0,2,8,0,1.22,Lost Customers,0,0,0,0,0,0
+255,Graduation,Divorced,63,22263.0,2,6,1,1.16,Lost Customers,0,0,0,0,0,0
+2375,Graduation,Married,42,30261.0,3,8,0,0.33,Lost Customers,0,0,0,0,0,0
+9829,Graduation,Married,36,28587.0,1,6,0,1.76,Low Value Customers,0,0,0,0,0,0
+6214,Master,Married,32,43815.0,1,6,0,1.01,Lost Customers,0,0,0,0,0,0
+4954,Graduation,Married,58,48195.0,2,6,0,2.82,Low Value Customers,0,0,0,0,0,0
+7861,Master,Married,62,77027.0,1,4,0,3.4,Medium Value Customer,0,0,0,0,0,0
+4837,PhD,Married,49,71322.0,1,4,0,4.4,High value Customer,0,0,0,0,0,0
+9423,Master,Married,35,32765.0,1,5,0,1.53,Lost Customers,0,0,0,0,0,0
+4198,Graduation,Married,49,29672.0,2,6,0,0.84,Lost Customers,0,0,0,0,0,0
+153,Graduation,Divorced,61,23272.0,0,4,0,0.93,Lost Customers,0,0,0,0,0,0
+9323,Master,Married,65,49912.0,1,8,0,4.63,Top Customers,0,0,1,0,0,1
+10001,Others,Married,29,7500.0,1,9,0,1.51,Lost Customers,0,0,0,0,0,0
+3945,PhD,Widow,67,68117.0,1,6,0,3.94,Medium Value Customer,0,0,1,0,0,1
+3799,Graduation,Married,59,67225.0,1,5,0,4.25,High value Customer,0,0,0,0,0,0
+8625,Graduation,Married,38,17649.0,1,8,0,1.55,Lost Customers,0,0,0,0,0,0
+3491,Graduation,Married,39,55914.0,1,7,0,4.65,Top Customers,0,0,0,0,0,0
+983,Graduation,Married,30,40059.0,1,8,0,1.9,Low Value Customers,0,0,1,0,0,0
+9119,Graduation,Married,64,60905.0,1,2,0,2.64,Low Value Customers,0,0,0,0,0,0
+4786,Graduation,Married,37,75330.0,2,6,0,4.18,High value Customer,0,0,0,0,0,0
+5872,Graduation,Single,63,60689.0,1,3,0,3.95,Medium Value Customer,0,0,0,0,0,0
+6568,Graduation,Married,30,38680.0,1,7,0,0.67,Lost Customers,0,0,0,0,0,0
+5628,Graduation,Married,32,61416.0,0,6,0,4.24,High value Customer,0,0,1,0,0,0
+5631,Graduation,Single,23,49767.0,0,4,0,2.71,Low Value Customers,0,0,0,0,0,0
+4974,Graduation,Single,44,83273.0,3,7,0,4.15,High value Customer,0,0,0,0,0,0
+8416,Graduation,Married,33,29009.0,1,6,0,1.52,Lost Customers,0,0,0,0,0,0
+5454,Master,Married,35,45057.0,1,5,0,0.8,Lost Customers,0,0,0,0,0,0
+4095,Graduation,Married,43,37150.0,1,7,0,3.34,Medium Value Customer,0,0,0,0,0,0
+5474,Graduation,Single,44,43020.0,1,6,0,1.93,Low Value Customers,0,0,0,0,0,0
+4268,Graduation,Married,55,53154.0,1,4,0,1.7,Low Value Customers,0,0,0,0,0,0
+10701,Graduation,Married,41,65308.0,0,4,0,4.39,High value Customer,1,0,0,0,1,0
+3507,Graduation,Single,44,76467.0,1,6,0,2.4,Low Value Customers,0,0,0,0,0,1
+2079,Others,Married,67,81044.0,0,1,0,4.12,High value Customer,0,0,0,0,0,0
+626,Graduation,Married,63,32871.0,2,4,0,0.94,Lost Customers,0,0,0,0,0,0
+4426,Graduation,Single,39,55801.0,2,7,0,3.67,Medium Value Customer,1,0,0,0,0,0
+2591,Graduation,Widow,55,76320.0,1,2,0,2.48,Low Value Customers,0,0,0,0,0,0
+10509,Master,Single,59,36927.0,2,8,0,1.55,Lost Customers,0,0,0,0,0,0
+6382,Graduation,Married,61,48794.0,2,4,0,0.42,Lost Customers,0,0,0,0,0,0
+6673,Graduation,Single,49,23478.0,0,8,0,1.28,Lost Customers,0,0,0,0,0,0
+7441,Graduation,Divorced,41,71128.0,1,7,0,4.17,High value Customer,0,0,0,0,0,0
+1071,PhD,Divorced,38,70179.0,1,5,0,4.59,Top Customers,0,0,0,0,0,0
+10061,Graduation,Married,64,59462.0,1,7,0,4.32,High value Customer,0,0,0,0,0,0
+7187,Master,Married,45,,2,3,0,4.15,High value Customer,0,0,0,0,0,0
+8775,Graduation,Married,45,38361.0,1,7,0,1.69,Low Value Customers,0,0,0,0,0,0
+1612,PhD,Single,33,,1,6,0,1.27,Lost Customers,0,0,0,0,0,0
+2345,PhD,Married,32,70038.0,0,2,0,2.81,Low Value Customers,0,0,0,0,0,0
+322,Graduation,Married,36,42554.0,2,4,0,0.96,Lost Customers,0,0,0,0,0,0
+10897,Graduation,Married,40,67445.0,1,6,0,4.49,High value Customer,0,0,0,0,0,0
+123,Graduation,Widow,63,67046.0,1,2,0,2.15,Low Value Customers,0,0,0,0,0,0
+6103,Graduation,Married,66,42192.0,0,4,0,1.36,Lost Customers,0,0,0,0,0,0
+7899,PhD,Married,62,77610.0,1,7,0,2.69,Low Value Customers,0,0,0,0,0,0
+10500,Graduation,Married,30,31761.0,1,5,0,1.36,Lost Customers,0,0,0,0,0,0
+1655,Graduation,Married,35,34350.0,1,7,0,0.54,Lost Customers,0,0,0,0,0,0
+2406,Graduation,Married,65,54591.0,1,5,0,3.1,Medium Value Customer,0,0,0,0,0,0
+2712,Graduation,Married,58,71866.0,1,3,0,3.12,Medium Value Customer,0,0,0,0,0,0
+5517,Graduation,Married,45,25293.0,1,8,0,0.77,Lost Customers,0,0,0,0,0,0
+10643,PhD,Single,27,42000.0,0,5,0,3.59,Medium Value Customer,0,0,0,0,0,1
+2254,Graduation,Married,31,69520.0,0,5,0,3.22,Medium Value Customer,0,0,0,0,0,0
+10281,Graduation,Divorced,44,64713.0,1,4,0,3.49,Medium Value Customer,0,0,0,0,0,1
+6958,Master,Married,37,27889.0,1,6,0,0.83,Lost Customers,0,0,0,0,0,0
+954,Others,Widow,54,22123.0,0,5,0,1.08,Lost Customers,0,0,0,0,0,0
+5079,Graduation,Married,43,,2,8,0,1.63,Low Value Customers,0,0,0,0,0,0
+10339,Master,Married,60,,1,6,0,1.76,Low Value Customers,0,0,0,0,0,0
+4643,Graduation,Married,41,27803.0,1,8,0,1.78,Low Value Customers,0,0,0,0,0,0
+3117,Graduation,Single,59,,1,7,0,2.13,Low Value Customers,0,0,0,0,0,0
+6497,Graduation,Married,54,51651.0,1,8,0,2.97,Low Value Customers,0,0,0,0,0,0
+5396,Graduation,Married,26,68487.0,0,4,0,4.56,Top Customers,0,0,0,0,0,0
+5250,Master,Widow,71,,0,1,0,3.55,Medium Value Customer,0,0,0,0,1,1
+1052,Graduation,Married,45,56796.0,1,7,0,4.59,Top Customers,0,0,0,0,0,0
+2802,Others,Married,22,87000.0,0,2,0,2.94,Low Value Customers,0,0,0,0,0,0
+6343,Graduation,Married,55,79823.0,1,2,0,4.24,High value Customer,0,0,0,1,0,0
+6507,Graduation,Single,34,30828.0,1,3,0,1.77,Low Value Customers,0,0,0,0,0,0
+7901,Master,Married,43,34109.0,1,4,0,0.6,Lost Customers,0,0,0,0,0,0
+4865,Master,Divorced,40,53367.0,2,7,0,3.92,Medium Value Customer,0,0,0,0,0,1
+2686,Others,Married,45,22390.0,0,7,0,0.53,Lost Customers,0,0,0,0,0,0
+3107,Graduation,Married,38,71322.0,1,2,0,2.39,Low Value Customers,0,0,0,0,0,0
+7734,Graduation,Others,21,79244.0,0,1,0,3.67,Medium Value Customer,1,0,0,0,1,1
+1146,Master,Married,65,49912.0,1,8,0,4.63,Top Customers,0,0,1,0,0,1
+11031,PhD,Married,64,48699.0,2,5,0,0.47,Lost Customers,0,0,0,0,0,0
+7428,Graduation,Married,39,80144.0,0,1,0,3.23,Medium Value Customer,0,0,0,0,0,0
+975,Graduation,Single,58,54252.0,2,6,0,2.66,Low Value Customers,0,0,0,0,0,0
+1103,Master,Married,38,81929.0,1,6,0,3.3,Medium Value Customer,0,0,1,0,1,1
+3422,Graduation,Married,39,76068.0,1,6,0,1.75,Low Value Customers,0,1,0,1,0,0
+1055,Master,Married,38,53204.0,2,4,0,0.85,Lost Customers,0,0,0,0,0,0
+6544,PhD,Married,65,67911.0,1,3,0,4.3,High value Customer,0,0,0,0,0,0
+1241,Others,Married,30,14796.0,1,9,0,1.4,Lost Customers,0,0,0,0,0,1
+2909,PhD,Married,40,78128.0,1,3,0,3.09,Medium Value Customer,0,0,0,1,1,0
+5802,Others,Married,42,14188.0,0,6,0,1.36,Lost Customers,0,0,0,0,0,0
+1407,Others,Married,28,20425.0,1,7,0,1.62,Low Value Customers,0,0,0,0,0,0
+6183,Master,Married,52,58646.0,1,4,0,1.87,Low Value Customers,0,0,0,0,0,0
+340,Graduation,Divorced,44,72967.0,1,5,0,3.57,Medium Value Customer,0,0,1,0,0,1
+5991,Master,Married,65,48150.0,1,7,0,2.45,Low Value Customers,0,0,0,0,0,0
+3104,Graduation,Single,53,82332.0,0,2,0,3.27,Medium Value Customer,0,0,0,0,1,1
+9729,Graduation,Widow,59,58275.0,2,7,0,3.93,Medium Value Customer,0,0,0,0,0,0
+1008,PhD,Married,33,44953.0,0,6,0,4.18,High value Customer,0,0,1,0,0,0
+11091,Graduation,Married,61,34587.0,2,4,0,0.89,Lost Customers,0,0,0,0,0,0
+3969,Master,Married,40,43018.0,1,5,0,1.32,Lost Customers,0,0,0,0,0,0
+1916,Master,Married,60,45736.0,1,7,0,2.88,Low Value Customers,0,0,0,0,0,0
+9907,Master,Married,45,66476.0,1,4,0,4.07,High value Customer,0,0,0,0,0,0
+87,Others,Married,33,27733.0,1,7,0,1.54,Lost Customers,0,0,0,0,0,0
+8659,PhD,Married,62,69805.0,1,2,0,4.4,High value Customer,0,0,0,0,0,0
+6262,Master,Single,52,72217.0,0,2,0,3.42,Medium Value Customer,0,0,0,0,0,0
+6147,Graduation,Divorced,43,25818.0,1,7,0,0.51,Lost Customers,0,0,0,0,0,0
+8832,Master,Married,38,37509.0,1,7,0,1.9,Low Value Customers,0,0,0,0,0,0
+10067,Others,Married,38,25176.0,2,7,0,0.3,Lost Customers,0,0,0,0,0,0
+7532,Graduation,Married,34,43586.0,1,8,0,2.06,Low Value Customers,0,0,0,0,0,0
+4915,Others,Married,58,53230.0,1,5,0,3.64,Medium Value Customer,0,0,0,0,0,0
+2115,Graduation,Married,57,50116.0,2,5,0,1.15,Lost Customers,0,0,0,1,0,0
+2088,Graduation,Married,42,84906.0,0,2,0,3.69,Medium Value Customer,0,1,0,1,1,0
+2493,Graduation,Married,48,61286.0,1,5,0,3.14,Medium Value Customer,0,0,0,0,0,0
+6292,PhD,Married,28,82333.0,0,2,0,2.95,Low Value Customers,0,0,0,0,1,1
+1631,PhD,Married,49,65220.0,0,6,0,4.26,High value Customer,0,0,0,0,0,1
+10104,Graduation,Married,40,33590.0,3,7,0,0.4,Lost Customers,0,0,0,0,0,0
+3006,Graduation,Divorced,38,30992.0,1,7,0,0.52,Lost Customers,0,0,0,0,0,0
+3919,Master,Single,38,72309.0,0,3,0,3.28,Medium Value Customer,1,0,0,0,0,1
+11181,PhD,Married,65,156924.0,0,0,0,0.11,Lost Customers,0,0,0,0,0,0
+642,Others,Married,34,16005.0,1,8,0,1.37,Lost Customers,0,0,0,0,0,0
+4369,Master,Others,57,65487.0,0,2,0,2.86,Low Value Customers,0,0,0,0,0,0
+10127,Graduation,Married,49,58692.0,1,7,0,2.69,Low Value Customers,0,0,0,0,0,0
+271,Graduation,Widow,45,40590.0,2,6,0,2.61,Low Value Customers,0,0,1,0,0,0
+4973,Graduation,Single,44,20587.0,1,7,0,0.86,Lost Customers,0,0,0,0,0,0
+2948,Master,Divorced,60,62637.0,1,2,0,1.68,Low Value Customers,0,0,0,0,0,0
+2715,Master,Divorced,48,29435.0,2,9,0,2.31,Low Value Customers,0,0,0,0,0,1
+10432,Graduation,Divorced,40,19346.0,1,8,0,0.95,Lost Customers,0,0,0,0,0,0
+9216,Graduation,Married,43,35788.0,2,6,0,1.4,Lost Customers,0,0,0,0,0,0
+7124,Graduation,Divorced,46,36997.0,2,5,0,1.98,Low Value Customers,0,0,0,0,0,0
+9727,Graduation,Married,57,23539.0,0,6,0,1.56,Lost Customers,0,0,0,0,0,0
+5136,Graduation,Single,41,65333.0,1,6,0,4.4,High value Customer,0,0,0,1,1,0
+9790,Graduation,Single,57,78499.0,0,4,0,3.48,Medium Value Customer,0,0,0,0,1,1
+1818,PhD,Married,43,29732.0,1,9,0,0.98,Lost Customers,0,0,0,0,0,0
+1100,Master,Married,54,41275.0,3,5,0,2.14,Low Value Customers,0,0,0,0,0,0
+7873,PhD,Married,41,63516.0,2,5,0,2.78,Low Value Customers,0,0,0,0,0,0
+10609,PhD,Married,52,42769.0,1,4,0,1.78,Low Value Customers,0,0,0,0,0,0
+6950,Master,Married,56,49572.0,2,7,0,1.47,Lost Customers,0,0,0,0,0,0
+7233,Graduation,Married,42,69209.0,0,4,0,2.98,Low Value Customers,1,0,0,0,0,0
+9481,Graduation,Married,38,17148.0,1,8,0,1.79,Low Value Customers,0,0,0,0,0,0
+7699,Graduation,Widow,45,40590.0,2,6,0,2.61,Low Value Customers,0,0,1,0,0,0
+2711,Master,Married,38,30560.0,1,7,0,1.1,Lost Customers,0,0,0,0,0,0
+8933,Others,Married,31,32146.0,1,6,0,1.77,Low Value Customers,0,0,0,0,0,0
+8726,Others,Divorced,50,41713.0,2,6,0,2.19,Low Value Customers,0,0,0,0,0,0
+1515,Master,Married,39,34176.0,1,3,0,1.08,Lost Customers,0,0,0,0,0,0
+5186,PhD,Married,59,58482.0,1,6,0,3.67,Medium Value Customer,0,0,0,1,0,0
+10157,Graduation,Single,49,59686.0,1,4,0,1.93,Low Value Customers,0,0,0,0,0,0
+5667,PhD,Married,50,60896.0,1,6,0,3.99,Medium Value Customer,0,0,0,0,0,1
+902,Graduation,Married,34,62994.0,1,6,0,2.07,Low Value Customers,0,0,0,0,0,0
+977,Graduation,Married,57,47320.0,1,6,0,3.68,Medium Value Customer,0,0,0,0,0,0
+7313,Others,Widow,65,74859.0,0,3,0,3.81,Medium Value Customer,1,0,0,0,0,0
+7600,Others,Single,22,15253.0,1,7,0,1.3,Lost Customers,0,0,0,0,0,0
+9706,PhD,Single,40,31560.0,1,8,0,1.15,Lost Customers,0,0,0,0,0,0
+2429,Graduation,Divorced,60,72071.0,1,2,0,3.72,Medium Value Customer,0,0,0,0,0,0
+3520,Master,Single,24,91172.0,0,3,0,2.01,Low Value Customers,1,1,1,0,1,1
+10394,Graduation,Married,30,90000.0,0,1,0,2.72,Low Value Customers,1,0,1,0,1,0
+4548,Graduation,Single,33,41967.0,2,4,0,0.65,Lost Customers,0,0,0,0,0,0
+9362,Graduation,Single,49,69263.0,1,6,0,3.29,Medium Value Customer,0,0,0,1,0,0
+3968,Others,Divorced,44,65706.0,0,7,0,4.19,High value Customer,0,1,0,1,1,1
+4084,Graduation,Married,39,60934.0,1,4,0,3.98,Medium Value Customer,0,0,0,0,0,0
+6721,Graduation,Married,63,71965.0,1,3,0,3.06,Medium Value Customer,0,0,0,0,0,0
+2829,Graduation,Married,59,65210.0,1,6,0,3.93,Medium Value Customer,1,0,0,1,0,0
+1772,PhD,Married,39,79174.0,0,2,0,3.56,Medium Value Customer,1,0,0,0,1,1
+1544,Master,Divorced,47,81380.0,0,2,0,2.83,Low Value Customers,0,0,0,0,0,0
+492,PhD,Others,41,48432.0,1,8,0,3.55,Medium Value Customer,0,0,0,0,0,0
+4377,Graduation,Married,43,52914.0,1,7,0,2.6,Low Value Customers,0,0,1,0,0,0
+4541,Graduation,Married,59,38946.0,1,5,0,1.89,Low Value Customers,0,0,0,0,0,0
+1321,Graduation,Married,40,26067.0,1,8,0,1.71,Low Value Customers,0,0,0,0,0,0
+8858,PhD,Married,42,44325.0,1,8,0,3.42,Medium Value Customer,0,0,0,1,0,0
+3266,Graduation,Married,50,42523.0,0,2,0,0.94,Lost Customers,0,0,0,0,0,0
+11187,Others,Single,36,26487.0,1,5,0,1.91,Low Value Customers,0,0,0,0,0,0
+8207,Others,Married,57,53233.0,1,4,0,1.02,Lost Customers,0,0,0,0,0,0
+9723,Graduation,Married,54,67716.0,1,5,0,4.78,Top Customers,0,0,0,1,0,0
+2666,Master,Married,42,76234.0,1,3,0,4.13,High value Customer,0,0,0,1,0,0
+5721,PhD,Married,58,84117.0,0,2,0,3.97,Medium Value Customer,0,0,0,0,1,0
+10652,Master,Married,57,65487.0,0,2,0,2.86,Low Value Customers,0,0,0,0,0,0
+1646,Others,Married,42,25224.0,1,3,0,1.39,Lost Customers,0,0,0,0,0,0
+4418,Master,Single,31,89616.0,0,2,0,4.27,High value Customer,0,0,0,0,0,1
+2656,Graduation,Divorced,43,40851.0,2,7,0,0.68,Lost Customers,0,0,0,0,0,0
+7990,Graduation,Married,67,27469.0,0,6,0,0.88,Lost Customers,0,0,0,0,0,0
+8722,Others,Married,57,82347.0,0,3,0,4.25,High value Customer,1,0,1,0,0,1
+7118,Graduation,Married,57,73803.0,1,6,0,3.66,Medium Value Customer,0,0,1,0,0,1
+2980,Master,Single,62,8820.0,2,8,0,1.86,Low Value Customers,0,0,0,0,0,0
+1839,Graduation,Single,40,43322.0,0,7,0,1.7,Low Value Customers,0,0,0,0,0,0
+10722,Graduation,Married,41,55593.0,1,6,0,2.74,Low Value Customers,0,0,1,0,0,0
+2632,Graduation,Married,60,50501.0,2,6,0,3.68,Medium Value Customer,0,0,1,0,0,1
+9014,Graduation,Married,39,37085.0,2,8,0,1.76,Low Value Customers,0,0,0,0,0,0
+7620,Others,Single,24,16185.0,1,8,0,1.36,Lost Customers,0,0,0,0,0,0
+10968,Graduation,Single,45,57731.0,1,6,0,4.67,Top Customers,0,0,0,0,0,0
+11133,PhD,Others,41,48432.0,1,8,0,3.55,Medium Value Customer,0,0,0,0,0,1
+2736,Graduation,Married,36,73807.0,1,2,0,3.62,Medium Value Customer,0,0,0,0,0,0
+1876,Graduation,Married,24,18929.0,0,6,0,1.29,Lost Customers,0,0,0,0,0,0
+5959,Graduation,Single,46,35893.0,2,8,0,2.24,Low Value Customers,0,0,0,0,0,0
+1092,Graduation,Married,34,61014.0,1,7,0,3.63,Medium Value Customer,0,0,0,0,0,0
+4333,Graduation,Married,60,32144.0,2,7,0,1.68,Low Value Customers,0,0,0,1,0,0
+3850,Others,Married,51,14918.0,1,6,0,0.76,Lost Customers,0,0,0,0,0,0
+6168,Graduation,Divorced,51,45146.0,2,4,0,1.19,Lost Customers,0,0,0,0,0,0
+607,Others,Divorced,59,41769.0,1,8,0,3.88,Medium Value Customer,0,0,0,0,0,0
+10469,Graduation,Married,33,88325.0,0,2,0,3.09,Medium Value Customer,0,0,0,0,0,0
+6983,Master,Divorced,64,38054.0,2,7,0,1.48,Lost Customers,0,0,0,0,0,0
+3661,Others,Single,19,80617.0,0,2,0,3.26,Medium Value Customer,0,0,0,0,0,0
+9303,Graduation,Married,38,5305.0,1,13,0,0.67,Lost Customers,0,0,0,0,0,0
+692,Graduation,Married,60,36807.0,2,6,0,0.23,Lost Customers,0,0,0,0,0,0
+736,Graduation,Married,31,28427.0,1,8,0,1.16,Lost Customers,0,0,0,0,0,0
+9589,PhD,Widow,66,82032.0,0,1,0,2.81,Low Value Customers,0,0,0,0,0,0
+4838,Graduation,Married,36,22775.0,1,8,0,0.59,Lost Customers,0,0,0,0,0,0
+9246,Master,Married,29,40101.0,1,7,0,2.67,Low Value Customers,0,0,0,0,0,0
+6261,Graduation,Married,35,58025.0,1,4,0,2.79,Low Value Customers,0,0,0,0,0,0
+7366,Master,Single,32,75777.0,0,1,0,3.84,Medium Value Customer,0,0,0,1,1,1
+10659,Others,Married,35,7500.0,1,7,0,2.34,Low Value Customers,0,0,0,0,0,0
+1448,Master,Married,51,33562.0,3,4,0,1.83,Low Value Customers,0,0,0,0,0,0
+4286,PhD,Single,44,57642.0,1,4,0,3.94,Medium Value Customer,0,0,1,0,0,0
+4749,Graduation,Married,46,58554.0,2,7,0,3.7,Medium Value Customer,0,0,0,0,0,0
+4478,Graduation,Married,35,63777.0,2,8,0,4.01,High value Customer,0,0,0,0,0,0
+4201,Graduation,Single,52,57967.0,1,5,0,3.28,Medium Value Customer,0,0,0,0,0,0
+8720,Others,Married,36,,0,0,0,0.36,Lost Customers,0,0,0,1,0,0
+10084,Graduation,Married,42,24434.0,2,7,0,1.59,Lost Customers,0,0,0,0,0,0
+7004,Graduation,Single,30,11012.0,1,9,0,1.46,Lost Customers,0,0,1,0,0,0
+9817,Master,Single,44,44802.0,0,8,0,4.24,High value Customer,0,0,0,0,0,0
+8080,Graduation,Single,28,26816.0,0,4,0,0.52,Lost Customers,0,0,0,0,0,0
+9432,Graduation,Married,37,666666.0,1,6,0,2.22,Low Value Customers,0,0,0,0,0,0
+8372,Graduation,Married,40,34421.0,1,7,0,0.28,Lost Customers,0,0,0,0,0,0
+10870,Graduation,Married,47,61223.0,1,5,0,3.06,Medium Value Customer,0,0,0,0,0,0
+4001,PhD,Married,68,64014.0,3,7,0,3.69,Medium Value Customer,1,0,0,0,0,0
+7270,Graduation,Divorced,33,56981.0,0,6,0,2.89,Low Value Customers,0,0,0,1,0,0
+8235,Master,Married,58,69245.0,1,3,0,4.23,High value Customer,0,0,0,0,0,0
+9405,PhD,Married,60,52869.0,2,7,0,2.09,Low Value Customers,0,0,0,0,0,1
