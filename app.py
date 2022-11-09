@@ -166,10 +166,10 @@ if authetication_status:
         if st.button("PREDICT"): 
             result = prediction(Education,Marital_Status,age,Income,Childern_count,NumWebVisitsMonth,Complain,RFM_Score,Campaign_1_Status,Campaign_2_Status,Campaign_3_Status,Campaign_4_Status,Campaign_5_Status)
             if result == 0:
-                st.image("""fail.png""")
+                #st.image("""fail.png""")
                 st.warning("Based on the given attributes, Model predicts that the Customer may not accept the offer in the new Campaign", icon="⚠️")
             else:
-                st.image("""success.png""")
+                #st.image("""success.png""")
                 st.success('Based on the given attributes, Model predicts that the Customer will accept the offer in the new Campaign',icon="✅")
         
     if __name__=='__main__': 
