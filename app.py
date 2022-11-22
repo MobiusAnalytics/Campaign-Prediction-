@@ -110,6 +110,7 @@ if authetication_status:
            
     # this is the main function in which we define our webpage  
     def main(): 
+        authenticator.logout("Logout",'sidebar')
         # front end elements of the web page 
         html_temp = """ 
         <div style ="background-color:grey;padding:13px"> 
